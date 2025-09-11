@@ -1,0 +1,441 @@
+# 2025 Member Survey: Strategic Insights
+
+Date: April 23, 2025
+Donations Generated: Insight-only survey
+(no direct donations)
+Engagement Rate: 16.85% response rate(573 of ~3,400 members)
+Lessons Learned: Communications are highly effective among long-term members, but acquisition and first-year retention are weaknesses. Members seek impact-driven updates on land, water, and stewardship. Messaging should segment newcomers vs. loyalists and support stronger onboarding.
+
+### 📊 Quantitative Overview
+
+**Response Rate:** 16.85% (573 responses from ~3,400 contacts)
+
+**Margin of Error:** ±3.73% at 95% confidence level
+
+> ⚠️ Caveat: This sample reflects DCLT’s most engaged members – those who already read, visit, and give. The casually connected or at-risk audiences are likely underrepresented.
+> 
+
+---
+
+### 📊 Key Quantitative Findings
+
+### 1. **Activities in Door County**
+
+- **Top 3 activities (2025):** Hiking, Birdwatching, Sightseeing
+- **Notable trend:** Increase in paddle sports and bicycling. Decline in snowmobiling and hunting.
+- “Soft adventures” (birding, swimming, paddle sports) are replacing extractive or motorized rec.
+
+### 2. **Tenure in Door County**
+
+- 72% report a family tie to Door County of 25+ years.
+- **Insight:** Generational roots are deepening, but new members with <10 years' connection remain a small portion.
+
+### 3. **Visitation to DCLT Preserves**
+
+- 40%+ visit 5+ times per year. Only ~5% have never visited.
+- **Takeaway:** Preserves are not symbolic; they are *actively used*.
+
+### 4. **Connections to DCLT**
+
+- Financial support is the most common tie (84% in 2015, ~75% in 2025).
+- Decline in event attendance and volunteerism suggests opportunity to re-energize non-donor pathways.
+
+### 5. **Newsletter Topics**
+
+- Top content interests: Land stewardship, science/ecology, land acquisition stories.
+- “Substance over sentiment” dominates member preferences.
+
+### 6. **Giving Priority**
+
+- DCLT is in the top 5 for 65%+ of donors, but rarely the #1 priority.
+- Core base sees DCLT as a serious philanthropic investment, even if not primary.
+
+### 7. **Other Giving Categories**
+
+- Environmental orgs are the most commonly supported locally (reinforces strong alignment).
+- Secondary interests: Social services, arts, historical preservation.
+
+### **📈 2015 vs. 2025 Behavior Shift Highlights**
+
+- **Age Comparison Table**
+    
+    
+    | **Activity** | **2015** | **2025** | **Change** |
+    | --- | --- | --- | --- |
+    | Hiking | 85.7% | ↑ Highest (~370 responses) | + |
+    | Bicycling | 61.7% | ↑ Strong (Top 3) | ↑ |
+    | Birdwatching | 52.5% | ↑ Very strong | ↑ |
+    | Snowmobiling | 37.0% | ↓ Near zero | ↓ |
+    | Hunting | 9.3% | Still low | — |
+    | Swimming | 36.4% | Holding steady | — |
+- **Employment Status Comparison Table**
+    
+    
+    | Employment Status | 2025 Count (est.) | 2025 % (est.) | 2015 % |
+    | --- | --- | --- | --- |
+    | Retired | 280 | 48.86% | 56.14% |
+    | Working full-time | 80 | 13.96% | 31.00% |
+    | Working part-time | 45 | 7.85% | 9.29% |
+    | Full-time student | 0 | 0.00% | 0.00% |
+    | Other | 5 | 0.87% | 3.14% |
+- **Time Spent in Door County Comparison Table**
+    
+    
+    | Residency Type | 2025 % | 2015 % |
+    | --- | --- | --- |
+    | I live in Door County year round | 37.9% | 32.71% |
+    | I live in Door County half-time (6+ months/year) | 9.1% | 11.86% |
+    | I live in Door County seasonally (<6 months/year) | 23.5% | 28.57% |
+    | I visit Door County frequently (2+ weeks/year) | 18.3% | 16.43% |
+    | I visit Door County occasionally (<2 weeks/year) | 10.4% | 9.71% |
+    | I do not spend any time in Door County | 0.8% | 0.43% |
+- **Activities in Door County Comparison Table**
+    
+    
+    | **Activity** | **2025 Count (est.)** | **2025 % (est.)** | **2015 %** |
+    | --- | --- | --- | --- |
+    | Hiking | 370 | 64.57% | 85.71% |
+    | Birdwatching | 275 | 48.04% | 52.57% |
+    | Sightseeing | 230 | 40.18% | 67.43% |
+    | Bicycling | 180 | 31.39% | 61.71% |
+    | Paddle sports | 150 | 26.17% | 34.86% |
+    | Swimming | 140 | 24.42% | 36.43% |
+    | Skiing | 90 | 15.69% | 24.57% |
+    | Fishing | 80 | 13.96% | 20.71% |
+    | Running | 65 | 11.34% | 12.14% |
+    | Snowshoeing | 60 | 10.47% | 30.86% |
+    | Geocaching | 20 | 3.49% | 2.86% |
+    | Rock climbing | 10 | 1.75% | 2.00% |
+    | Snowmobiling | 5 | 0.87% | 3.43% |
+    | Hunting | 5 | 0.87% | 9.29% |
+- **Family Connection to Door County Comparison Table**
+    
+    
+    | **Tenure** | **2025 Count (est.)** | **2025 % (est.)** | **2015 %** |
+    | --- | --- | --- | --- |
+    | Less than 4 years | 15 | 2.62% | 2.00% |
+    | 5 to 9 years | 30 | 5.23% | 3.71% |
+    | 10 to 24 years | 60 | 10.47% | 20.43% |
+    | 25 to 49 years | 140 | 24.45% | 41.00% |
+    | 50 to 99 years | 125 | 21.82% | 23.29% |
+    | 100 years or more | 110 | 19.21% | 9.00% |
+    
+    🧭 **Observation**: Legacy ties remain strong, but there’s a notable increase in respondents reporting 100+ year family ties — up from 9% in 2015 to ~19% in 2025. Newer connections (<25 years) have shrunk in proportion, suggesting a legacy-weighted audience.
+    
+- **Visitation Frequency Comparison Table**
+    
+    
+    | **Visitation Frequency** | **2025 % (est.)** | **2015 %** | **Change** |
+    | --- | --- | --- | --- |
+    | Once per year or less | 20% | 15.14% | ↑ |
+    | 2 to 4 times per year | 30% | 35.86% | ↓ |
+    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | — |
+    | I have never visited a DCLT preserve | 5% | 3.00% | ↑ |
+    
+    🧭 **Observation**: High engagement (5+ visits) is consistent over the decade, while those who *never* visit have increased slightly. Fewer respondents fall into the moderate (2–4x) category, suggesting an opportunity to guide low/moderate users toward deeper engagement.
+    
+    ---
+    
+- **Connection to DCLT Comparison Table**
+    
+    
+    | **Connection Type** | **2025 % (est.)** | **2015 %** |
+    | --- | --- | --- |
+    | I provided financial support | **~84%** | 84.00% |
+    | I volunteered my time | **~20%** | 19.86% |
+    | I attended social events / outings | **~30%**  | 43.00% |
+    | I served on a committee | **~5%** | 6.43% |
+    | I donated/sold land | **~6%** | 4.43% |
+    | I included a bequest | **~7%** | 5.57% |
+    | I am not connected to the Land Trust | **~6%** | 7.29% |
+    | Other | **~10%** *(* | 6.14% |
+    
+    📌 **Insight:** Financial support remains strong and consistent. Declines in event and social engagement suggest a growing reliance on donors over community programming — an opportunity to **diversify engagement pathways** beyond fundraising.
+    
+    The 2025 data shows that while **financial support is stable** (~84%, matching 2015), there’s been a notable **drop in social event attendance** (~30%, down from 43%), indicating reduced engagement in communal or in-person touchpoints. Meanwhile, **volunteering and legacy giving (bequests)** have held steady or slightly increased, and **direct land contributions** saw a small rise.
+    
+    The sharp increase in “**Other**” (~10%, up from 6%) may reflect **newer or less-defined engagement types**, or simple misclassification. This suggests a need to clarify and track evolving supporter behaviors.
+    
+    **Bottom line:** *Core loyalty is strong, but how members connect is shifting. Diversifying non-financial engagement opportunities could reenergize casual supporters and reduce over-reliance on monetary contributions.*
+    
+    ---
+    
+- **Communications Relevance Comparison Table**
+    
+    
+    | **Measure** | **2025 %** | **2015 %** |
+    | --- | --- | --- |
+    | Yes (relevant) | ~95% | 86.29% (combined 4 + 5 ratings) |
+    | No (not relevant) | ~5% | 1.86% (combined 1 + 2 ratings) |
+    | Neutral / Mixed | – | 6.00% (3 rating) |
+    | Did not answer | – | 5.86% |
+    
+    > 2015 Question: “How informative do you find the Door County Land Trust’s communications?” (1–5 scale)
+    Weighted average score:
+    > 
+    > 
+    > **4.46**
+    > 
+    
+    📌 **Insight:** Relevance perception remains strong and has likely improved. In 2025, an overwhelming majority of engaged members affirm the value of communications — a critical validation for current tone, cadence, and content alignment.
+    
+    ---
+    
+- **Newsletter Topic Comparison Table**
+    
+    
+    | **Visitation Frequency** | **2025 % (est.)** | **2015 %** | **Change** |
+    | --- | --- | --- | --- |
+    | Once per year or less | 20% | 15.14% | ↑ |
+    | 2 to 4 times per year | 30% | 35.86% | ↓ |
+    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | — |
+    | I have never visited a DCLT preserve | 5% | 3.00% | ↑ |
+    
+    📌 **Insight:** Science and land care dominate member interest both years. Promotion-leaning topics remain low-priority. There’s slight growth in interest around transparency (funding) and acquisition mechanics
+    
+    ---
+    
+- **Giving Priority Comparison Table**
+    
+    
+    | **Giving Priority** | **2025 % (est.)** | **2015 %** |
+    | --- | --- | --- |
+    | The primary nonprofit I contribute to | 5% | 5.57% |
+    | Among the top 3 nonprofits I support | 20% | — |
+    | Among the top 5 nonprofits I support | 22% | 40.71% |
+    | Among the top 10 nonprofits I support | 24% | 31.14% |
+    | Not in top 10 | 15% | 17.57% |
+    | I do not make charitable contributions | 2% | 3.14% |
+    
+    📌 **Insight:** DCLT remains a significant philanthropic priority but less frequently the *top* choice. There’s a broader spread across giving tiers in 2025, suggesting it’s a key player in a diversified donor portfolio.
+    
+    ---
+    
+- **Other Giving Categories: 2015 vs. 2025 Comparison**
+    
+    
+    | **Category** | **2025 %** | **2015 %** | **Notes** |
+    | --- | --- | --- | --- |
+    | **Arts** (incl. theater, music, visual, literary) | 41.00% | 41.00% | Stable interest across creative disciplines. |
+    | **Environment** | 40.00% | 40.00% | Core alignment; strong support remains steady. |
+    | **Religious** | 31.86% | 31.86% | No significant shift; consistently supported. |
+    | **Social Services** *(combined 2025: Health Care + Animal Welfare + SS)* | 28.00% | ~57.42% (Health 12.77% + Animal 16.54% + SS 28.00%) | Slight decline due to recategorization in 2025; still a strong priority overall. |
+    | **Historical** | 24.00% | 24.00% | Level support for heritage-focused causes. |
+    | **Education** | 19.29% | 19.29% | Remains a consistent mid-level priority. |
+    | **Youth** | 15.00% | 15.00% | Stable; potential for deeper engagement or segmentation. |
+    | **Recreation/Fitness** | 14.86% | 14.86% | Minor shift but generally consistent. |
+    | **Maritime** | 14.00% | 14.00% | Niche but steady interest. |
+    | **Health Care** | *Merged* | 12.77% | Included in Social Services (2025). |
+    | **Animal Welfare** | *Merged* | 16.54% | Included in Social Services (2025). |
+    | **Libraries & Literary Arts** | (Incl. under Arts) | N/A | Categorized under Arts in 2025. |
+    | **Other** | 9.86% | 9.86% | Represents fringe or unspecified causes. |
+    | **Did not answer** | 13.00% | 13.00% | Identical; no change. |
+
+### 🔎 Key Open-Ended Themes (Qualitative Analysis)
+
+### 1. **Why Communications Matter**
+
+- Updates on protected lands, events, and member-relevant info drive engagement.
+- Tone matters: Members prefer factual, impact-driven storytelling.
+
+### 2. **Conservation Concerns**
+
+- Water quality (esp. phosphorus runoff), overdevelopment, and loss of rural character dominate concerns.
+
+### 3. **What Still Needs Protecting**
+
+- Members see land protection as an *unfinished mission*.
+- Urgency around shorelines, forest corridors, and "the next generation of threats."
+
+### 4. **Financial Messaging**
+
+- Most say the ask cadence is “just right.”
+- Impact stories and clear match opportunities are key to strong fundraising messages.
+
+### 5. **"I believe in the work because..."**
+
+- Deep alignment with mission: Legacy, place, family history, ecological urgency.
+- Reinforces brand trust and supports legacy giving cultivation.
+
+---
+
+### 🪡 NLP-Based Keyword Clusters (LDA Analysis)
+
+**Theme 1: Preservation & Beauty** – land, natural, preserve, beauty, water
+
+**Theme 2: Protection & Wildlife** – protection, wildlife, areas, development
+
+**Theme 3: Development Pressure** – development, properties, need, nature
+
+**Theme 4: Trust & Mission** – believe, preserving, trust, space, legacy
+
+**Theme 5: Updates & Engagement** – updates, animals, environment, future
+
+---
+
+### 🔄 Engagement Funnel (Revised)
+
+| Stage | Status | Insight |
+| --- | --- | --- |
+| Reach | ⚠️ Weak | New-member awareness is soft. Most growth is word-of-mouth or incidental. |
+| First-Year Join | ⚠️ Fragile | First-year retention is inconsistent. Onboarding lacks depth. |
+| Read & Visit | ✅ Strong | Content relevance and preserve use are excellent. |
+| Donate & Stay | ✅ Strong | Loyal donors give and stick around. |
+| Advocate & Legacy | ✅ Strong | Legacy giving and long-term mission alignment are well-established. |
+
+---
+
+### 🚀 Communications Manager Takeaway
+
+> “Your communications are working — for the people who already love you. Growth now depends on reaching the unengaged and improving the first-year member experience.”
+> 
+
+---
+
+### ✅ Strategic Priorities Going Forward
+
+- Design a **First-Year Member Funnel** (welcome > engagement > renewal).
+- Expand **reach** through partnerships, newcomer groups, and targeted acquisition.
+- Reinforce content that aligns with member values: **land, water, impact**.
+- Segment comms for **long-time loyalists vs. curious newcomers**.
+- Keep refining **tone**: stay informative, mission-centered, never promotional.
+
+### 🔄 Comparison Summary
+
+Using open-ended responses from the question:
+
+> "What environmental or conservation issues in Door County are most important to you?"
+> 
+
+...we analyzed patterns based on how often respondents visit DCLT nature preserves.
+
+---
+
+- 📊 Key Findings by Visitation Frequency
+    
+    ### 🟢 Frequent Visitors (5+ times/year)
+    
+    - **Top keywords:** land, water, wildlife, natural, protect, invasive
+    - **Sentiment:** Strong ecological focus; deep familiarity with stewardship issues.
+    - **Interpretation:** These members are *land literate*. They support restoration, policy, and habitat protection. Communications should reinforce science, progress updates, and ecosystem interdependence.
+    
+    ### 🟡 Moderate Visitors (2–4 times/year)
+    
+    - **Top keywords:** land, water, deer, development, endangered
+    - **Sentiment:** Concerned and conservation-minded, but influenced by broader public narratives.
+    - **Interpretation:** They connect through visible issues (e.g., deer population, sprawl). Communications should emphasize protection of specific landscapes/species and threats they can recognize.
+    
+    ### 🔵 Low Visitors (Once/year or less)
+    
+    - **Top keywords:** land, access, beauty, trails
+    - **Sentiment:** Motivated by aesthetics, quiet, and land enjoyment.
+    - **Interpretation:** Messaging should be about **opportunity** – what's open to explore, experience, and preserve for future use. Storytelling should evoke peace, wonder, and natural access.
+    
+    ### 🔴 Never Visited a Preserve
+    
+    - **Top keywords:** water, people, growth, crowding
+    - **Sentiment:** Disconnected from DCLT properties but concerned about *Door County as a place*.
+    - **Interpretation:** Their concerns are cultural and communal. Frame conservation as protecting *Door County identity*, values, and long-term balance.
+    
+    ### 🌍 Strategic Applications
+    
+    | Audience Segment | Focus Messaging On | CTA Style |
+    | --- | --- | --- |
+    | Frequent Visitors | Habitat, stewardship, restoration, systems thinking | "Help protect what you know" |
+    | Moderate Visitors | Iconic species, threatened areas, development pressure | "Join others to save what matters" |
+    | Low Visitors | Access, scenic beauty, quiet places | "Come explore — and protect it" |
+    | Non-Visitors | Shared values, legacy, protecting Door's character | "You don’t have to visit to care" |
+
+---
+
+---
+
+- **🧭 Key Findings by Residency Duration**
+    
+    🔴 **Less than 4 Years**
+    
+    - 🔍 **Top keywords:** water, development, natural, land, overdevelopment
+    - 💬 **Sentiment:** High concern about rapid change and crowding. Less language around stewardship, more around identity and values.
+    - 🧠 **Interpretation:** These may be newcomers noticing what’s *at risk* but not yet tied to DCLT. Frame conservation as a way to retain Door County’s essence and welcome them into shared care.
+    
+    ---
+    
+    🔵 **5 to 9 Years**
+    
+    - 🔍 **Top keywords:** land, protection, water, habitat
+    - 💬 **Sentiment:** Emerging engagement. Language is more general — aligned with mission but less detailed.
+    - 🧠 **Interpretation:** Still forming a relationship with the place. Communications should focus on access, orientation, and concrete examples of impact to build connection and trust.
+    
+    ---
+    
+    🟠 **10 to 24 Years**
+    
+    - 🔍 **Top keywords:** land, development, water, preserve, sprawl, habitat
+    - 💬 **Sentiment:** Very issue-aware. Concerned about what’s visible: development, habitat loss, and sprawl. Less nostalgic, more solution-seeking.
+    - 🧠 **Interpretation:** This group is likely comprised of informed residents who are newer but invested. Messaging should emphasize visible impacts, progress updates, and pathways for action.
+    
+    ---
+    
+    🟡 **25 to 49 Years**
+    
+    - 🔍 **Top keywords:** land, water, county, development, natural, overdevelopment, protect
+    - 💬 **Sentiment:** Deep local awareness with a strong connection to place. Concerns reflect both ecological and community balance.
+    - 🧠 **Interpretation:** This group likely includes middle-generation stewards. They are highly engaged and vocal about visible threats to the local character and environment. Messaging should connect preservation to quality of life and generational continuity.
+    
+    ---
+    
+    🟣 **50 to 99 Years**
+    
+    - 🔍 **Top keywords:** land, water, county, natural, development, protect, beauty
+    - 💬 **Sentiment:** Strong pride in legacy and concern over change. Language often reflects nostalgia, long-term investment, and a desire for restraint in growth.
+    - 🧠 **Interpretation:** Long-timers see themselves as guardians. Communications should honor continuity and legacy, and reinforce that conservation is a tool to preserve what makes Door County “Door County.”
+    
+    🟤 **100 Years or More**
+    
+    - 🔍 **Top keywords:** land, water, natural, development, protect
+    - 💬 **Sentiment:** Protective, rooted, and enduring. Language suggests pride and permanence.
+    - 🧠 **Interpretation:** This group sees conservation as a generational duty. Messaging should honor that depth, emphasize legacy giving, and offer leadership opportunities.
+
+**📊 Key Findings by Residency Duration**
+
+| **Audience Segment (Residency)** | **Focus Messaging On** | **CTA Style** |
+| --- | --- | --- |
+| Long-timers (25+ years) | Legacy, land ethic, generational stewardship | “Protect what we’ve built together” |
+| Mid-timers (10–24 years) | Place identity, belonging, visible impact | “Keep this place the way you found it” |
+| Newer residents (<10 years) | Discovery, invitation, accessible conservation | “This land is yours to care for, too” |
+- **🔑 High-Level Trends:**
+    
+    
+    | **Residency Group** | **Top Priority Patterns** |
+    | --- | --- |
+    | **Year-Round Residents** | Most likely to rank DCLT among **Top 3 or Top 5**; lowest rates of “not in top 10” |
+    | **Half-Time Residents** | Very strong representation in **Top 5**, but fewer consider DCLT a primary priority |
+    | **Seasonal Residents** | Spread between **Top 10**, **Top 5**, and **Top 3** — less concentrated giving priority |
+    | **Frequent Visitors** | Favor **Top 3** and **Top 10** rankings, fewer top-level commitments |
+    | **Occasional Visitors** | Most likely to place DCLT in **Top 10** or lower; giving is present but distributed |
+    | **Non-Residents** | Vast majority (75%) say DCLT is **not among their top 10** priorities |
+    
+    ### **🧠 Key Takeaways:**
+    
+    - **Local ties correlate with giving priority** — the more time you spend in Door County, the more likely DCLT is a top-tier cause.
+    - **Seasonal and half-time residents** show mixed loyalty — strong potential if cultivated more intentionally.
+    - **Opportunity**: Occasional visitors and part-timers may be emotionally engaged but see DCLT as a “secondary” cause. Tailored messaging, impact storytelling, or peer influence could elevate commitment.
+    - **Strategic Flag**: 75% of non-residents rank DCLT outside their top 10. That’s a red flag for inclusion efforts and donor diversification.
+    - 
+1. **Testing Opportunities**
+    - Example: A/B test new-member onboarding emails that emphasize different CTA styles (“join others” vs. “come explore”).
+    - Pilot a “trail story + donor impact” hybrid email for moderate visitors.
+2. **Tracking Framework (lightweight)**
+
+| **Initiative** | **Metric** | **Owner** | **Timeline** |
+| --- | --- | --- | --- |
+| Welcome email revamp | Open & renewal rate | Comms | Q2 2025 |
+| “You don’t have to visit to care” social ad | CTR, new list signups | Comms/Dev | May–June |
+1. **Persona Mapping**
+    - We’re already describing behavioral personas (frequent visitors, seasonal residents, etc.).
+    - Consider adding 3–5 “lightweight personas” with name, traits, needs, and best-fit messaging.
+- 
+- “Where do we see gaps between what members care about and what we’re communicating?”
+    
+    > “How can we tell stories that connect low-visitors emotionally to the mission?”
+    >

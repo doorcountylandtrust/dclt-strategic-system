@@ -1,0 +1,95 @@
+﻿Task Name,Task Role,Status,Start Date,End Date,Category,Priority,Notes,Parent Task,Subtasks,Earliest Subtask End Date,Latest Subtask End Date,Milestone
+Website Overhaul,Parent Task,In progress,"July 15, 2025",,Website,High,"Track all content, UX, and dev work",,,,,🚀 Launch Milestones
+Brand Strategy Framework,Parent Task,Not started,"July 15, 2025",,Strategy,Medium,Develop top-level brand strategy outline,,,,,🎯 Strategic Milestones
+Communications Plan,Parent Task,In progress,"July 10, 2025",,Strategy,Medium,Includes Brand + Website milestones,,,,,🎯 Strategic Milestones
+Salesforce Integration,Parent Task,Not started,"July 22, 2025","August 13, 2025",CRM,Medium,"Integrate task tracker, membership flows, and donation forms with Salesforce. Test API-based sync for custom forms, automations, and campaign tracking.",,,,,🧩 Phase 2 / Post-Launch
+Supporter Funnel Strategy,Parent Task,Not started,"July 25, 2025","July 13, 2025",Messaging,High,Define identity-based supporter journeys. Align messaging and CTAs across donor types and design landing pages that drive engagement and giving behavior.,,,,,Ready To Launch
+Video Strategy,Parent Task,Not started,"July 24, 2025","August 12, 2025",Brand,Medium,"Plan, script, and schedule short-form videos to support key campaigns (e.g., Bear Creek, Little Sturgeon, annual appeal). Include internal video standards, timelines, and post-production workflow.",,,,,Ready To Launch
+Visual Identity System,Parent Task,In progress,"July 20, 2025","August 5, 2025",Brand,High,"Complete development of brand system including typography, logo variants, iconography, and usage guidelines. Sets visual tone for all outward-facing materials.
+",,,,,Ready To Launch
+Brand Storytelling Pillars,Subtask,Not started,"July 16, 2025","July 22, 2025",Messaging,High,Align with conservation values and public language,,,,,
+Rebuild Homepage Wireframe,Subtask,Not started,"July 20, 2025","July 31, 2025",Website,High,Apply modular layout with storytelling CTA blocks,,,,,
+Set Engagement KPIs,Subtask,Not started,"July 25, 2025",,Strategy,Medium,Define benchmarks for campaign impact,,,,,
+"Modular Content Blocks
+",Subtask,In progress,"July 23, 2025","August 9, 2025",Website,,Develop a reusable content system in WordPress. Establish visual and functional patterns (cards,,,,,
+,,,,,,,,,,,,
+Conduct brand audit,Subtask,Not started,"August 5, 2025","August 9, 2025",Strategy,Medium,"Evaluate current
+  brand perceptions and document key attributes for refinement.",,,,,
+Audit current homepage,Subtask,Not started,"August 5, 2025","August 14, 2025",Website,High,"Design, document, and organize content
+  inventory + UX feedback.",,,,,
+Align with development milestones,Subtask,Not started,"August 2, 2025","August 8, 2025",Strategy,Medium,"Deliver on core brand assets, UX
+  milestones, and acquisition timeline.",,,,,
+Design template library,Subtask,Not started,"July 23, 2025","July 26, 2025",Strategy,Medium,"Ensure strategic alignment across PDFs,
+  web, social, and print.",,,,,
+Map content cadence to key dates,Subtask,Not started,"July 18, 2025","July 24, 2025",Strategy,Medium,"Define target metrics for engagement
+  throughout funnel.",,,,,
+Draft campaign messaging pillars,Subtask,Not started,"July 17, 2025","July 20, 2025",Strategy,Medium,"Develop and structure reusable
+  pillar-based copy themes.",,,,,
+Sync internal communications calendar,Subtask,Not started,"August 3, 2025","August 12, 2025",Strategy,Medium,"Integrate Preserve Explorer, acquisition,
+  and fundraising into content plan.",,,,,
+Document brand guidelines,Subtask,Not started,"August 2, 2025","August 6, 2025",Strategy,Medium,"Coordinate message cohesion and visual
+  system rules across formats.",,,,,
+Test visual applications,Subtask,Not started,"July 20, 2025","July 24, 2025",Strategy,Medium,"Articulate key themes through visual
+  application tests (print, web, promo).",,,,,
+Finalize logo and system,Subtask,Not started,"July 23, 2025","July 29, 2025",Strategy,Medium,"Complete development of logo, alternates,
+  and usage system.",,,,,
+Define brand personality,Subtask,Not started,"July 16, 2025","July 23, 2025",Strategy,Medium,"Establish tone, voice, and emotional
+  resonance aligned with core values.",,,,,
+Draft new IA and wireframe,Subtask,Not started,"July 23, 2025","August 2, 2025",Website,High,"Finalize post-production and video drafts
+  in time for rollout.",,,,,
+Review with stakeholders,Subtask,Not started,"August 3, 2025","August 10, 2025",Website,High,"Schedule and plan on-location shoots or
+  member interviews.",,,,,
+User test layout,Subtask,Not started,"July 16, 2025","July 21, 2025",Website,High,"Finalize post-production and video drafts
+  in time for rollout.",,,,,
+Revise and finalize,Subtask,Not started,"July 29, 2025","August 6, 2025",Website,High,"Schedule and plan on-location shoots or
+  member interviews.",,,,,
+Segment audiences by behavior,Subtask,Not started,"July 24, 2025","July 29, 2025",Messaging,High,"Sketch narrative arc for DCLT annual
+  campaigns and online presence.",,,,,
+Design entry points and CTAs,Subtask,Not started,"July 22, 2025","July 30, 2025",Messaging,High,"Implement Flows to send renewal + event
+  reminders based on filters.",,,,,
+Outline email nurture paths,Subtask,Not started,"July 19, 2025","July 23, 2025",Messaging,High,"Clarify what data should sync to Constant
+  Contact + build doc.",,,,,
+Align donation forms and asks,Subtask,Not started,"July 28, 2025","August 1, 2025",Messaging,High,"Clean up legacy field clutter and build
+  ownable iconography.",,,,,
+Define engagement metrics,Subtask,Not started,"July 27, 2025","August 4, 2025",Messaging,High,"Diagram entry points and embed
+  storytelling templates across segments.",,,,,
+Inventory existing blocks,Subtask,Not started,"August 4, 2025","August 11, 2025",Website,High,"Identify where users convert or fall off
+  and migrate brand accordingly.",,,,,
+Sketch new block types,Subtask,Not started,"July 17, 2025","July 27, 2025",Website,High,"Design, document, and organize content
+  inventory + UX feedback.",,,,,
+Design in Figma,Subtask,Not started,"August 2, 2025","August 6, 2025",Website,High,"Deliver all core brand assets, UX
+  milestones, and acquisition timeline.",,,,,
+Develop in WordPress,Subtask,Not started,"July 28, 2025","August 1, 2025",Website,High,"Ensure strategic alignment across PDFs,
+  web, social, and print.",,,,,
+QA and publish,Subtask,Not started,"August 2, 2025","August 9, 2025",Website,High,"Define target metrics for engagement
+  throughout funnel.",,,,,
+Define data model,Subtask,Not started,"August 5, 2025","August 13, 2025",CRM,Medium,"Develop and structure reusable
+  pillar-based copy themes.",,,,,
+Create field mappings,Subtask,Not started,"August 3, 2025","August 9, 2025",CRM,Medium,"Integrate Preserve Explorer, acquisition,
+  and fundraising into content plan.",,,,,
+Configure flows,Subtask,Not started,"July 18, 2025","July 21, 2025",CRM,Medium,"Coordinate message cadence and visual
+  system rules across formats.",,,,,
+Test form submissions,Subtask,Not started,"July 23, 2025","July 30, 2025",CRM,Medium,"Articulate the key themes through visual
+  application tests (print, web, promo).",,,,,
+Train team on updates,Subtask,Not started,"July 18, 2025","July 24, 2025",CRM,Medium,"Complete development of logo, alternates,
+  and usage system.",,,,,
+Identify key video goals,Subtask,Not started,"July 19, 2025","July 28, 2025",Brand,Medium,"Establish tone, voice, and emotional
+  resonance aligned with core values.",,,,,
+Write video briefs,Subtask,Not started,"July 24, 2025","August 3, 2025",Brand,Medium,"Evaluate current brand perceptions and
+  document key attributes for refinement.",,,,,
+Coordinate shoot schedule,Subtask,Not started,"August 5, 2025","August 13, 2025",Brand,Medium,"Finalize post-production and video drafts
+  in time for rollout.",,,,,
+Edit and review drafts,Subtask,Not started,"July 21, 2025","July 29, 2025",Brand,Medium,"Schedule and plan on-location shoots or
+  member interviews.",,,,,
+Publish and promote,Subtask,Not started,"July 27, 2025","August 2, 2025",Brand,Medium,"Sketch narrative arc for DCLT annual
+  campaigns and online presence.",,,,,
+Finalize color palette,Subtask,Not started,"July 24, 2025","July 28, 2025",Brand,Medium,"Implement Flows to send renewal + event
+  reminders based on filters.",,,,,
+Define typography scale,Subtask,Not started,"August 4, 2025","August 9, 2025",Brand,Medium,"Clarify what data should sync to Constant
+  Contact + build doc.",,,,,
+Create icon set,Subtask,Not started,"August 2, 2025","August 8, 2025",Brand,Medium,"Clean up legacy field clutter and build
+  ownable iconography.",,,,,
+Design templates,Subtask,Not started,"July 21, 2025","July 31, 2025",Brand,Medium,"Diagram entry points and embed
+  storytelling templates across segments.",,,,,
+Roll out across platforms,Subtask,Not started,"July 28, 2025","August 4, 2025",Brand,Medium,"Identify where users convert or fall off
+  and migrate brand accordingly.",,,,,

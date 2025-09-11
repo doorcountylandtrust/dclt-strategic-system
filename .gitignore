@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Output files (optional - you might want to version control some reports)
+output/reports/*.json
+output/gantt_charts/*.html
+
+# Sensitive files (if any)
+config/secrets.yaml

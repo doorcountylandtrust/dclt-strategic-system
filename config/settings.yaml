@@ -1,0 +1,15 @@
+default_timeline_duration_weeks: 12
+gantt_output: output/gantt_charts/dclt_timeline.html
+ignore_paths:
+- data/3-reference-tools
+scan_paths:
+- data/1-strategy
+- data/2-execution
+timeline_statuses:
+- active
+- planned
+- in-progress
+timeline_types:
+- project
+- initiative
+- campaign

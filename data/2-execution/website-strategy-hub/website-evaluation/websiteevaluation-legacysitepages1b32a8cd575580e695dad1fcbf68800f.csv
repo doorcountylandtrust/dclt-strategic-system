@@ -1,0 +1,35 @@
+﻿Page Name,Screenshot,Strengths,Issues/Concerns,Recommendations,Figjam Link,Related Fixes Tracker Entry
+Home Page (index),%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/00-index-homepage.jpg,,"Cluttered Design:The homepage feels overcrowded with text, links, and multiple CTAs competing for attention. This can overwhelm visitors and reduce the effectiveness of individual elements.Inconsistent Visual Hierarchy:The lack of a clear visual structure makes it difficult to differentiate between primary and secondary content. For example, the “Take Action” section blends into the surrounding elements.Outdated Aesthetic:The design appears outdated and does not reflect modern web design trends. The typography, color scheme, and layout could benefit from a refresh to improve visual appeal.Mobile Responsiveness:The amount of content and layout suggests potential issues with readability and usability on smaller screens.Navigation Overload:The number of links in the navigation bar, footer, and content areas can be overwhelming. This could confuse users rather than guide them toward their goals.Generic Visuals:While the hero image is beautiful, other visuals like the sponsor logos and small thumbnails lack the emotional impact of high-quality photography or custom illustrations.","Improved Homepage Mockup Concept
+Hero Section (Top of Page)
+
+ 🔽 Streamlined Navigation
+- Simplify the navigation menu by consolidating related items.
+- Use dropdowns or mega-menus to organize information more effectively.
+
+🔽 Improved Visual Hierarchy
+- Use larger headings, strategic whitespace, and consistent font sizes.
+- Create a clear structure that guides users' attention.
+
+🔽 Modernized Design
+- Refresh with a modern, minimal aesthetic.
+- Use bold typography, dynamic color palettes, and high-resolution imagery.
+
+ 🔽 Engaging Content Sections
+- Introduce interactive elements like sliders for success stories, testimonials, or project highlights to break up text-heavy sections.
+
+🔽 Enhanced Mobile Experience
+- Optimize the design for mobile responsiveness.
+- Ensure key CTAs and information remain easily accessible on smaller screens.
+
+🔽 Focused Call-to-Actions
+- Limit the number of CTAs on the homepage.
+- Focus on donating, volunteering, or subscribing.
+
+ 🔽 Rich Storytelling
+- Incorporate vivid imagery, compelling videos, or infographics.
+- Highlight conservation success and community impact.
+
+ 🔽 Sponsor Section Update
+- Replace static sponsor logo grid with a dynamic carousel.
+- Redesign the section to feel less crowded.",https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-356&t=XiuP7E51pcQimAIS-4,
+,%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/02-how-we-save-land-05-hunting-program-02-hunting-form.png,"Comprehensive Content – The page provides in-depth information about the organization's mission, values, and history, making it a strong reference for stakeholders and visitors interested in learning about DCLT.2. Structured Layout – The page follows a logical sequence, starting with the mission, values, and work methodology before leading into FAQs and historical milestones.3. Clear Branding & Mission – The header reinforces DCLT’s conservation efforts, and the mission statement is prominently featured, ensuring clarity on the organization’s purpose.4. Incorporation of Visuals – Some use of imagery and a timeline graphic helps break up the text-heavy sections and provides a more engaging way to tell the organization's history.5. FAQs Section – Having a Frequently Asked Questions section is helpful for users seeking quick answers, improving navigation and accessibility.6. Partnership & Supporter Recognition – Sponsors and partner organizations are featured at the bottom, which reinforces credibility and support from the community."," Too Much Dense Text – The page is very text-heavy, making it overwhelming for visitors to read through everything. Breaking content into smaller sections with more engaging visuals or interactive elements (e.g., collapsible text blocks) could improve readability.2. Lack of Hierarchy & Visual Contrast – The text-heavy sections don’t have enough variation in formatting to guide the reader’s eye. Using bold callouts, pull quotes, subheadings, and icons could help.3. Header Design is Generic – While the header states the section’s purpose, it lacks visual distinction from other parts of the site. Adding a hero image, a textured background, or a unique treatment could make this section stand out.4. Limited Visual Storytelling – Aside from the timeline graphic, there are very few engaging visual elements. Adding more historical photos, infographics, or an interactive milestone slider would enhance the experience.5. FAQs Look Generic – The expandable FAQ section is practical, but it lacks design elements that make it feel interactive and modern. Consider adding icons, dividers, or animations for a smoother user experience.6. Footer Could Be More Organized – The footer has valuable links, but the text feels dense, and it could benefit from better spacing, dividers, or a restructured layout. A more modern footer could also include social media links and a call-to-action.","Use More Impactful Visuals – Consider adding before-and-after conservation images, historical photos, or interactive maps to make the milestones section more engaging.2. Make the Timeline Interactive – Instead of a static image, an interactive scrolling timeline could allow users to explore key moments dynamically.3. Highlight Key Facts with Icons or Callouts – Breaking long paragraphs into concise facts with icons would improve scannability.4. More Calls to Action (CTA) – Encourage visitors to take action (e.g., “Become a Member,” “Learn More About Our Work,” “Explore Our Protected Lands”). Right now, the page is informative but lacks clear engagement pathways.4. Improve Accessibility – Enhancing contrast and spacing between text blocks, as well as ensuring headings are distinct, will make it easier to navigate for all users.",https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=1-51&t=nFttZdx36iqd54SZ-4,
