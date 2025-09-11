@@ -1,8 +1,0 @@
-# Bruce Pikas
-
-Attended?: No
-Email: mailto:brucepikas@gmail.com
-RSVP Status: Confirmed
-Referred by: Cinnamon
-Session Date: July 11, 2025
-Stakeholder Type: Legacy Conservationists

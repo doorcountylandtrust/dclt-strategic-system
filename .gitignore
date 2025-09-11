@@ -12,6 +12,25 @@ Thumbs.db
 *.tmp
 *.log
 
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+*.webp
+
+# Notion export artifacts
+*.pdf
+*.zip
+
+# Temporary outputs
+output/
+
 # Output files (optional - you might want to version control some reports)
 output/reports/*.json
 output/gantt_charts/*.html
