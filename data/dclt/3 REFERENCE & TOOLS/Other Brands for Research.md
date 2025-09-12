@@ -17,6 +17,20 @@ last_updated: '2025-09-11'
 ---
 # Other Brands for Research
 
+## 📊 **Competitive Intelligence**
+
+[[Land Trust Digital Competitive Analysis|🔍 **Complete Digital Competitive Analysis**]] - Comprehensive benchmarking of 226 land trust organizations analyzing digital presence, social media strategy, CTA optimization, and technical performance.
+
+### **Key Insights from Analysis:**
+- **Top Digital Performers**: Bur Oak Land Trust (79.9/100), Iowa Natural Heritage Foundation (78.7/100), Ducks Unlimited (74.9/100)
+- **Industry Average**: 42.3/100 digital presence score - significant opportunity for DCLT
+- **Common Success Factors**: Multi-platform social strategy, integrated donation systems, accessibility excellence
+- **Strategic Recommendations**: Focus on accessibility (target 85+), optimize mobile experience, integrate CRM systems
+
+---
+
+## 🌐 **Wisconsin & Regional Land Trusts**
+
 | **Type** | **Name** | Website | Instagram | Facebook | Youtube |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wisc LT | Groundswell | [https://groundswellconservancy.org/](https://groundswellconservancy.org/) | [https://www.instagram.com/groundswell.wi](https://www.instagram.com/groundswell.wi) | [https://www.facebook.com/groundswell.wi/](https://www.facebook.com/groundswell.wi/) |  |  |

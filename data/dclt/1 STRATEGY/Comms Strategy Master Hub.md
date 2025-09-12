@@ -193,17 +193,20 @@ Consistent Branding & Messaging – Update print/digital materials to reflect th
 
 ## Related Documents
 
+**Strategic Intelligence**
+- [[Land Trust Digital Competitive Analysis]] - Benchmarking insights from 226 land trust organizations for digital strategy development
+
 **Cross-Referenced Documents**
 - [[Messaging Library]]
 - [[Campaigns]]
-- [[1. STRATEGY]]
+- [[1 STRATEGY]]
 
-
+**Implementation Tools**
 - [[🧰 Messaging Toolkit]]
 - [[📢 Campaign Drafts]]
 - [[🎨 Visual Storytelling]]
 
 **Thematic Alignment**
-- [[Project Communication Templates]] - commu
-- [[Messaging & Engagement Research]] - commu
-- [[Other Brands for Research]] - co
+- [[Project Communication Templates]] - Communication strategy implementation
+- [[Messaging & Engagement Research]] - Research foundation for strategy decisions
+- [[Other Brands for Research]] - Competitive intelligence and benchmarking

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
+                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "—— Public-Facing Land Protection Priorities – Cont"
+              "title": "Brand + Website Executive Summary"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
+                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for —— Public-Facing Land Protection Priorities – Cont"
+              "title": "Backlinks for Brand + Website Executive Summary"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
+                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from —— Public-Facing Land Protection Priorities – Cont"
+              "title": "Outgoing links from Brand + Website Executive Summary"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
+                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of —— Public-Facing Land Protection Priorities – Cont"
+              "title": "Outline of Brand + Website Executive Summary"
             }
           }
         ]
@@ -171,6 +171,13 @@
   },
   "active": "2670084e79ea4304",
   "lastOpenFiles": [
+    "2 EXECUTION/📋 Master Task Tracker (2025-2026).md",
+    "2 EXECUTION/Website Strategy Hub/🧠 UX + Interaction Design Decisions Log.md",
+    "2 EXECUTION/Website Strategy Hub/— Website Evaluation.md",
+    "2 EXECUTION/Website Strategy Hub/— Public-Facing Land Protection Priorities – Comms.md",
+    "2 EXECUTION/Website Strategy Hub/— Strategic Initiatives – Web Integration Build Sp.md",
+    "3 REFERENCE & TOOLS/Other Brands for Research/Land Trust Digital Competitive Analysis.md",
+    "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
     "2 EXECUTION/Website Strategy Hub/— Technical Implementation (2025–2026 Build)/— Retired Approach - Astro + Headless WP Technical/—— Tech Stack & Architecture.md",
     "2 EXECUTION/Website Strategy Hub/— Public-Facing Land Protection Priorities – Comms/—— 2025 Little Sturgeon Land Project – Comms & Fun.md",
     "2 EXECUTION/Website Strategy Hub.md",
@@ -190,13 +197,6 @@
     "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/John & Susan Schartner.md",
     "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jim Harris.md",
     "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jeff Larson & Family.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jason Herrbold.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jason & Cara Perkins.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/James & Kelly Jorgenson.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Flavian & Melanie Wallis.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Donald & Adam Benson.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Dennis Kruswick.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Dave Chapman.md",
     "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled",
     "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled",
     "1 STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Case Study Carl Barnard",

@@ -120,8 +120,11 @@ last_updated: '2025-09-11'
 
 ## Related Documents
 
+**Strategic Intelligence**
+- [[Land Trust Digital Competitive Analysis]] - Industry benchmarking data to inform website strategy and CTA optimization
+
 **Cross-Referenced Documents**
-- [[2. EXECUTION]]
+- [[2 EXECUTION]]
 - [[Campaigns]]
 - [[System Map & Project Index]]
 
