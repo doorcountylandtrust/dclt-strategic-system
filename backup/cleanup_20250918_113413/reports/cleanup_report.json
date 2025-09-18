@@ -1,0 +1,443 @@
+{
+  "cleanup_timestamp": "2025-09-12T09:49:36.900157",
+  "backup_location": "backup/cleanup_20250912_094936",
+  "actions_taken": 58,
+  "cleanup_log": [
+    {
+      "action": "backup_created",
+      "location": "backup/cleanup_20250912_094936",
+      "timestamp": "2025-09-12T09:49:36.882130"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/TEST Advanced Project Example.md",
+      "timestamp": "2025-09-12T09:49:36.882541"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/TEST Milestone Example.md",
+      "timestamp": "2025-09-12T09:49:36.882597"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/User test layout.md",
+      "timestamp": "2025-09-12T09:49:36.882752"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Test form submissions.md",
+      "timestamp": "2025-09-12T09:49:36.882811"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Test visual applications.md",
+      "timestamp": "2025-09-12T09:49:36.882963"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/2 EXECUTION/Website Strategy Hub/\u2014 Website Content Strategy and Migration Plan/\u2014\u2014 Modular Content Blocks/\u2014\u2014\u2014 Master Modular Block Field Definitions/Testimonial.md",
+      "timestamp": "2025-09-12T09:49:36.883143"
+    },
+    {
+      "action": "removed_test_file",
+      "file": "data/dclt/1 STRATEGY/TEST Epic Project Example.md",
+      "timestamp": "2025-09-12T09:49:36.883320"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/3 REFERENCE & TOOLS/Messaging & Engagement Research/\u2014 Setting Communication Goals (SMART & Beyond).md",
+      "new_path": "data/dclt/3 REFERENCE & TOOLS/Messaging & Engagement Research/Setting Communication Goals (SMART & Beyond).md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883600"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand + Website Progress Dashboard/\u2014 Monthly Check-Ins.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand + Website Progress Dashboard/Monthly Check-Ins.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883716"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Logo & Visual Identity Evaluation Roadmap.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883794"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Focus Group Participation & Feedback.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883856"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 System Elements.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/System Elements.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883906"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Moodboard Exploration.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Moodboard Exploration.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883952"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Foundations Visual Strategy & Research.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Foundations Visual Strategy & Research.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.883999"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Brand Delivery Kit.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Brand Delivery Kit.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.884041"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Feedback Rounds.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Feedback Rounds.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.884086"
+    },
+    {
+      "action": "renamed_file",
+      "old_path": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Creative Direction.md",
+      "new_path": "data/dclt/2 EXECUTION/Brand System (2026)/Creative Direction.md",
+      "issues_fixed": [
+        "Uses em-dash instead of regular dash"
+      ],
+      "timestamp": "2025-09-12T09:49:36.884133"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/detroit-harbor-nature-preserve.md",
+      "timestamp": "2025-09-12T09:49:36.893472"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/ephraim-preserve-at-anderson-pond.md",
+      "timestamp": "2025-09-12T09:49:36.893713"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/white-cliff-nature-preserve.md",
+      "timestamp": "2025-09-12T09:49:36.893865"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/harold-c-wilson-three-springs-nature-preserve.md",
+      "timestamp": "2025-09-12T09:49:36.894020"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/domer-neff-nature-preserve-and-bird-sanctuary.md",
+      "timestamp": "2025-09-12T09:49:36.894165"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/bay-shore-blufflands-nature-preserve_2.md",
+      "timestamp": "2025-09-12T09:49:36.894312"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/portfolio.md",
+      "timestamp": "2025-09-12T09:49:36.894480"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/blog.md",
+      "timestamp": "2025-09-12T09:49:36.894532"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/little-lake-nature-preserve-3.md",
+      "timestamp": "2025-09-12T09:49:36.894676"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/richter-community-forest-nature-preserve.md",
+      "timestamp": "2025-09-12T09:49:36.894824"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/home.md",
+      "timestamp": "2025-09-12T09:49:36.894876"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/volunteer-page.md",
+      "timestamp": "2025-09-12T09:49:36.894997"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/about-celebrating-open-spaces.md",
+      "timestamp": "2025-09-12T09:49:36.895056"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/membership-and-giving.md",
+      "timestamp": "2025-09-12T09:49:36.895120"
+    },
+    {
+      "action": "added_frontmatter",
+      "file": "data/wp-archive/wp-clean-output/page/membership-and-giving/become-a-member.md",
+      "timestamp": "2025-09-12T09:49:36.895179"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Project Communication Templates.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.896186"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Analytics and Lessons Learned.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.896241"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Messaging & Engagement Research.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.896527"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Messaging Library.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.896738"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Analytics and Lessons Learned/Metrics Framework for Comms Strategy.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.896898"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Analytics and Lessons Learned/\u2014 Analytics & Insights/2015 Member Survey Stakeholder Insights.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.897188"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Analytics and Lessons Learned/\u2014 Analytics & Insights/2025 Member Survey Strategic Insights.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.897490"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Messaging & Engagement Research/Elizabeth Ward \u2013 Gaining Ground Communications Res.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.897686"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Other Brands for Research/Land Trust Digital Competitive Analysis.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.897863"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Messaging Library/Storytelling Campaigns.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898054"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/3 REFERENCE & TOOLS/Messaging Library/Storytelling Campaigns/\u201cThe Land Speaks\u201d Campaign Concept.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898239"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/Brand + Website Executive Summary.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898335"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/Website Strategy Hub.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898511"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/Brand + Website Progress Dashboard.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898773"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026).md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.898954"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Design entry points and CTAs.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899218"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Design in Figma.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899275"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Finalize logo and system.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899375"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Modular Content Blocks.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899616"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Set Engagement KPIs.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899689"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Develop in WordPress.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899741"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Map content cadence to key dates.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899795"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Revise and finalize.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.899984"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Roll out across platforms.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.900072"
+    },
+    {
+      "action": "fixed_formatting",
+      "file": "data/dclt/2 EXECUTION/\ud83d\udccb Master Task Tracker (2025-2026)/Master Task Tracker/Design template library.md",
+      "issues_fixed": [
+        "Long lines that may cause display issues: 1 lines",
+        "Contains smart quotes or special dashes"
+      ],
+      "timestamp": "2025-09-12T09:49:36.900132"
+    }
+  ],
+  "summary": {
+    "files_removed": 7,
+    "files_renamed": 10,
+    "frontmatter_added": 15,
+    "formatting_fixed": 25
+  }
+}

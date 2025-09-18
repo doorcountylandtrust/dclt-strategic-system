@@ -1,0 +1,823 @@
+{
+  "fix_timestamp": "2025-09-12T10:17:55.783156",
+  "total_fixes": 51,
+  "fix_types": {
+    "epic_fix": 1,
+    "project_fix": 8,
+    "task_fix": 42
+  },
+  "fixes_applied": [
+    {
+      "type": "epic_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026).md",
+      "updates": [
+        "project_type",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "progress_percent",
+        "epic_theme",
+        "epic_objectives",
+        "child_projects",
+        "assigned_to",
+        "estimated_hours",
+        "resource_type",
+        "budget_allocated",
+        "risk_level",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\ud83e\uddfe Brand Audit Summary.md",
+      "title": "\ud83e\uddfe Brand Audit Summary",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Brand Delivery Kit.md",
+      "title": "\u2014 Brand Delivery Kit",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Creative Direction.md",
+      "title": "\u2014 Creative Direction",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Moodboard Exploration.md",
+      "title": "\u2014 Moodboard Exploration",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/System Elements.md",
+      "title": "\u2014 System Elements",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Focus Group Participation & Feedback.md",
+      "title": "\u2014 Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Feedback Rounds.md",
+      "title": "\u2014 Feedback Rounds",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "project_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Logo & Visual Identity Evaluation Roadmap.md",
+      "title": "\u2014 Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "start_date",
+        "end_date",
+        "duration_days",
+        "priority",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/Foundations Visual Strategy & Research.md",
+      "title": "\u2014 Foundations: Visual Strategy & Research",
+      "parent": "Foundations Visual Strategy & Research.md",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Feedback Rounds/1 Redesign Concept Evaluation \u2013 Shield & Trillium.md",
+      "title": "1. Redesign Concept Evaluation \u2013 Shield & Trillium",
+      "parent": "Feedback Rounds",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\ud83e\uddfe Brand Audit Summary/\ud83e\udde0 Key Insights \u2192 Future Brand Strategy Steps.md",
+      "title": "Key Insights \u2192 Future Brand Strategy Steps",
+      "parent": "\ud83e\uddfe Brand Audit Summary",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Designer Collaboration & Pre-Design Kickoff.md",
+      "title": "Designer Collaboration & Pre-Design Kickoff",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Brand Identity Design Kickoff Plan.md",
+      "title": "Brand Identity Design Kickoff Plan",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Concept Round 1 Share-back.md",
+      "title": "Concept Round 1 Share-back",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Stakeholder Evaluation.md",
+      "title": "Stakeholder Evaluation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Kickoff Brainstorm.md",
+      "title": "Kickoff Brainstorm",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Internal Evaluation.md",
+      "title": "Internal Evaluation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Brand Identity Design Kickoff Plan/Untitled/Round 1 Concept.md",
+      "title": "Round 1 Concept",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Foundations Visual Strategy & Research/Why Rebrand Strategy & Rationale.md",
+      "title": "Why Rebrand? Strategy & Rationale",
+      "parent": "Foundations Visual Strategy & Research",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/\u2014\u2014 Confirmation Email Details.md",
+      "title": "\u2014\u2014 Confirmation Email Details",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 System Elements/\u2014\u2014 Symbolism System.md",
+      "title": "\u2014\u2014 Symbolism System",
+      "parent": "System Elements",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Design Deliverables Tracker/Final Internal Presentation.md",
+      "title": "Final Internal Presentation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Refinement Round.md",
+      "title": "Refinement Round",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Development Committee Presentation.md",
+      "title": "Development Committee Presentation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Logo & Visual Identity Timeline/Milestones Overview/Board Meeting Presentation.md",
+      "title": "Board Meeting Presentation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Brand Identity Design Kickoff Plan/Untitled/Final Presentation.md",
+      "title": "Final Presentation",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Logo & Visual Identity Evaluation Roadmap/Brand Identity Design Kickoff Plan/Untitled/Refinement.md",
+      "title": "Refinement",
+      "parent": "Logo & Visual Identity Evaluation Roadmap",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Michael Beeth.md",
+      "title": "Michael Beeth",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Jeff Lutsey.md",
+      "title": "Jeff Lutsey",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Robert Davis.md",
+      "title": "Robert Davis",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Laura Bokhop.md",
+      "title": "Laura Bokhop",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Barb Ottum.md",
+      "title": "Barb Ottum",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Kelly Avenson.md",
+      "title": "Kelly Avenson",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Carol Olson.md",
+      "title": "Carol Olson",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Miriam Liabo.md",
+      "title": "Miriam Liabo",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/David Ray.md",
+      "title": "David Ray",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Donna Hermann.md",
+      "title": "Donna Hermann",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Anne Miller.md",
+      "title": "Anne Miller",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Rex Meikle.md",
+      "title": "Rex Meikle",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Dan Eggert.md",
+      "title": "Dan Eggert",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Stephanie.md",
+      "title": "Stephanie",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Carolyn Hitzeman.md",
+      "title": "Carolyn Hitzeman",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Bruce Pikas.md",
+      "title": "Bruce Pikas",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Phyllis Geyer.md",
+      "title": "Phyllis Geyer",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Mike Burton.md",
+      "title": "Mike Burton",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Jack Finger.md",
+      "title": "Jack Finger",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Tawnie Perkovich.md",
+      "title": "Tawnie Perkovich",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Marji Andrae.md",
+      "title": "Marji Andrae:",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Sandy Miller.md",
+      "title": "Sandy Miller",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    },
+    {
+      "type": "task_fix",
+      "file": "data/dclt/2 EXECUTION/Brand System (2026)/\u2014 Focus Group Participation & Feedback/Untitled/Mike VanZandt.md",
+      "title": "Mike VanZandt",
+      "parent": "Focus Group Participation & Feedback",
+      "updates": [
+        "project_type",
+        "parent_project",
+        "assigned_to",
+        "resource_type",
+        "strategic_theme",
+        "start_date",
+        "end_date",
+        "duration_days"
+      ]
+    }
+  ]
+}

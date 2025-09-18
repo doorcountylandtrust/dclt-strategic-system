@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "35052b501e7496b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77560baedf1533f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ee9151e1e2e89fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9629ee2032219ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10c963408115c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b1403e80750c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b39c1828f1d99794",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d230d6fdcba6053d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "d5f403f2ae35c109",
+    "type": "split",
+    "children": [
+      {
+        "id": "6105194fef4f6f08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ef94f91df491f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "685177b279a59ce4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "16570a2f69138959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08ec8b063c1b1e25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ee9151e1e2e89fc",
+  "lastOpenFiles": [
+    "dclt/1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Code Interview Themes.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/00 Brand + Website Executive Summary.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/🧾 Brand Audit Summary/🧾 Brand Audit Summary.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Tawnie Perkovich.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Stephanie.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Sandy Miller.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Robert Davis.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Rex Meikle.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Phyllis Geyer.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Miriam Liabo.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Mike VanZandt.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Mike Burton.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Michael Beeth.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Marji Andrae.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Laura Bokhop.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Kelly Avenson.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jeff Lutsey.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jack Finger.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Donna Hermann.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/David Ray.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Dan Eggert.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carolyn Hitzeman.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carol Olson.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Bruce Pikas.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Barb Ottum.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Anne Miller.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/Drafts",
+    "output",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts/Untitled",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/🧠 Idea Hub",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline",
+    "dclt/02_EXECUTION/20 Operations/Campaigns",
+    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Modular Content Blocks/——— Master Modular Block Field Definitions",
+    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Information Architecture/📍 Preserve Experience (Explore Section)"
+  ]
+}

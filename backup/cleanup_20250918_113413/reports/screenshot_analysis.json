@@ -1,0 +1,3485 @@
+{
+  "summary": {
+    "total_files": 210,
+    "excellent": 76,
+    "good": 22,
+    "crop": 88,
+    "compress": 13,
+    "review": 6,
+    "delete": 5,
+    "errors": 0
+  },
+  "categories": {
+    "excellent": [
+      {
+        "filename": "Agricultural_Stewardship_Association_homepage.png",
+        "file_size_kb": 1281.7,
+        "file_size_mb": 1.25,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bangor_Land_Trust_homepage.png",
+        "file_size_kb": 1444.4,
+        "file_size_mb": 1.41,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bear_Paw_Regional_Greenways_homepage.png",
+        "file_size_kb": 1787.9,
+        "file_size_mb": 1.75,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Big_Sur_Land_Trust_homepage.png",
+        "file_size_kb": 628.2,
+        "file_size_mb": 0.61,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bitter_Root_Land_Trust_homepage.png",
+        "file_size_kb": 1498.6,
+        "file_size_mb": 1.46,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bluegrass_Land_Conservancy_homepage.png",
+        "file_size_kb": 550.7,
+        "file_size_mb": 0.54,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Branford_Land_Trust_homepage.png",
+        "file_size_kb": 1596.7,
+        "file_size_mb": 1.56,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Brunswick_Topsham_Land_Trust_homepage.png",
+        "file_size_kb": 1062.6,
+        "file_size_mb": 1.04,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "California_Rangeland_Trust_homepage.png",
+        "file_size_kb": 1892.6,
+        "file_size_mb": 1.85,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Catskill_Center_for_Conservation_and_Development_homepage.png",
+        "file_size_kb": 1728.6,
+        "file_size_mb": 1.69,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Cayucos_Land_Conservancy_homepage.png",
+        "file_size_kb": 642.7,
+        "file_size_mb": 0.63,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Central_Colorado_Conservancy_homepage.png",
+        "file_size_kb": 1354.2,
+        "file_size_mb": 1.32,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Champlain_Area_Trails_homepage.png",
+        "file_size_kb": 1286.4,
+        "file_size_mb": 1.26,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Chebeague_Cumberland_Land_Trust_homepage.png",
+        "file_size_kb": 1483.5,
+        "file_size_mb": 1.45,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Chippewa_Watershed_Conservancy_homepage.png",
+        "file_size_kb": 1588.2,
+        "file_size_mb": 1.55,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Colchester_Land_Trust_homepage.png",
+        "file_size_kb": 926.2,
+        "file_size_mb": 0.9,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Connecticut_Farmland_Trust_homepage.png",
+        "file_size_kb": 1882.1,
+        "file_size_mb": 1.84,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Eastern_Shore_Land_Conservancy_homepage.png",
+        "file_size_kb": 1798.5,
+        "file_size_mb": 1.76,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Eno_River_Association_homepage.png",
+        "file_size_kb": 699.6,
+        "file_size_mb": 0.68,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Flathead_Land_Trust_homepage.png",
+        "file_size_kb": 527.3,
+        "file_size_mb": 0.51,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Freshwater_Land_Trust_homepage.png",
+        "file_size_kb": 598.6,
+        "file_size_mb": 0.58,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Georges_River_Land_Trust_homepage.png",
+        "file_size_kb": 749.6,
+        "file_size_mb": 0.73,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Harpswell_Heritage_Land_Trust_homepage.png",
+        "file_size_kb": 763.5,
+        "file_size_mb": 0.75,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Hawaiian_Islands_Land_Trust_homepage.png",
+        "file_size_kb": 997.3,
+        "file_size_mb": 0.97,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Iowa_Natural_Heritage_Foundation_homepage.png",
+        "file_size_kb": 575.5,
+        "file_size_mb": 0.56,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kaniksu_Land_Trust_homepage.png",
+        "file_size_kb": 1678.5,
+        "file_size_mb": 1.64,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kansas_Land_Trust_homepage.png",
+        "file_size_kb": 1605.8,
+        "file_size_mb": 1.57,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kennebec_Estuary_Land_Trust_homepage.png",
+        "file_size_kb": 1333.2,
+        "file_size_mb": 1.3,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kennebec_Land_Trust_homepage.png",
+        "file_size_kb": 961.7,
+        "file_size_mb": 0.94,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lake_Forest_Open_Lands_Association_homepage.png",
+        "file_size_kb": 1203.3,
+        "file_size_mb": 1.18,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lakes_Region_Conservation_Trust_homepage.png",
+        "file_size_kb": 1688.9,
+        "file_size_mb": 1.65,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Land_Conservancy_of_West_Michigan_homepage.png",
+        "file_size_kb": 1580.0,
+        "file_size_mb": 1.54,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Land_Trust_for_Louisiana_homepage.png",
+        "file_size_kb": 609.4,
+        "file_size_mb": 0.6,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Land_Trust_of_North_Alabama_homepage.png",
+        "file_size_kb": 533.0,
+        "file_size_mb": 0.52,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Legacy_Land_Conservancy_homepage.png",
+        "file_size_kb": 764.4,
+        "file_size_mb": 0.75,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lemhi_Regional_Land_Trust_homepage.png",
+        "file_size_kb": 1900.9,
+        "file_size_mb": 1.86,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lower_Shore_Land_Trust_homepage.png",
+        "file_size_kb": 556.3,
+        "file_size_mb": 0.54,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Massachusetts_Audubon_Society_homepage.png",
+        "file_size_kb": 1355.0,
+        "file_size_mb": 1.32,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Michigan_Nature_Association_homepage.png",
+        "file_size_kb": 1103.3,
+        "file_size_mb": 1.08,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Mohonk_Preserve_homepage.png",
+        "file_size_kb": 815.9,
+        "file_size_mb": 0.8,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Monadnock_Conservancy_homepage.png",
+        "file_size_kb": 838.6,
+        "file_size_mb": 0.82,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Monmouth_Conservation_Foundation_homepage.png",
+        "file_size_kb": 1459.0,
+        "file_size_mb": 1.42,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Montana_Land_Reliance_homepage.png",
+        "file_size_kb": 933.9,
+        "file_size_mb": 0.91,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Mount_Grace_Land_Conservation_Trust_homepage.png",
+        "file_size_kb": 1249.6,
+        "file_size_mb": 1.22,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Mountain_Conservation_Trust_of_Georgia_homepage.png",
+        "file_size_kb": 1000.6,
+        "file_size_mb": 0.98,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Nevada_Land_Trust_homepage.png",
+        "file_size_kb": 1022.3,
+        "file_size_mb": 1.0,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "New_Mexico_Land_Conservancy_homepage.png",
+        "file_size_kb": 1897.5,
+        "file_size_mb": 1.85,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "North_Carolina_Coastal_Land_Trust_homepage.png",
+        "file_size_kb": 1728.3,
+        "file_size_mb": 1.69,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ocmulgee_Land_Trust_homepage.png",
+        "file_size_kb": 585.1,
+        "file_size_mb": 0.57,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Orono_Land_Trust_homepage.png",
+        "file_size_kb": 980.8,
+        "file_size_mb": 0.96,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Palouse_Land_Trust_homepage.png",
+        "file_size_kb": 987.4,
+        "file_size_mb": 0.96,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ridge_and_Valley_Conservancy_homepage.png",
+        "file_size_kb": 1178.0,
+        "file_size_mb": 1.15,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "River_Fields_homepage.png",
+        "file_size_kb": 1635.4,
+        "file_size_mb": 1.6,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Sagebrush_Steppe_Land_Trust_homepage.png",
+        "file_size_kb": 1710.6,
+        "file_size_mb": 1.67,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Saginaw_Basin_Land_Conservancy_homepage.png",
+        "file_size_kb": 826.3,
+        "file_size_mb": 0.81,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Santa_Fe_Conservation_Trust_homepage.png",
+        "file_size_kb": 1335.4,
+        "file_size_mb": 1.3,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Shirley_Heinze_Land_Trust_homepage.png",
+        "file_size_kb": 1193.7,
+        "file_size_mb": 1.17,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Six_Rivers_Land_Conservancy_homepage.png",
+        "file_size_kb": 784.9,
+        "file_size_mb": 0.77,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "South_Jersey_Land_and_Water_Trust_homepage.png",
+        "file_size_kb": 614.4,
+        "file_size_mb": 0.6,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Southeast_Land_Trust_of_New_Hampshire_homepage.png",
+        "file_size_kb": 1427.3,
+        "file_size_mb": 1.39,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Southwest_Michigan_Land_Conservancy_homepage.png",
+        "file_size_kb": 1258.4,
+        "file_size_mb": 1.23,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Sustainable_Conservation_affiliate__homepage.png",
+        "file_size_kb": 1132.3,
+        "file_size_mb": 1.11,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Tall_Timbers_Research_Station_Land_Conservancy_homepage.png",
+        "file_size_kb": 850.7,
+        "file_size_mb": 0.83,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Land_Conservancy_of_McHenry_County_homepage.png",
+        "file_size_kb": 1766.2,
+        "file_size_mb": 1.72,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Land_Conservancy_of_New_Jersey_homepage.png",
+        "file_size_kb": 1181.4,
+        "file_size_mb": 1.15,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Trustees_of_Reservations_homepage.png",
+        "file_size_kb": 1901.8,
+        "file_size_mb": 1.86,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Walthour_Moss_Foundation_homepage.png",
+        "file_size_kb": 783.3,
+        "file_size_mb": 0.76,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Wilderness_Land_Trust_homepage.png",
+        "file_size_kb": 1432.6,
+        "file_size_mb": 1.4,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Thousand_Islands_Land_Trust_homepage.png",
+        "file_size_kb": 1460.3,
+        "file_size_mb": 1.43,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Three_Rivers_Land_Trust_homepage.png",
+        "file_size_kb": 1783.7,
+        "file_size_mb": 1.74,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Triangle_Land_Conservancy_homepage.png",
+        "file_size_kb": 609.7,
+        "file_size_mb": 0.6,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Upper_Saco_Valley_Land_Trust_homepage.png",
+        "file_size_kb": 1251.2,
+        "file_size_mb": 1.22,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Wallkill_Valley_Land_Trust_homepage.png",
+        "file_size_kb": 1793.5,
+        "file_size_mb": 1.75,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Western_New_York_Land_Conservancy_homepage.png",
+        "file_size_kb": 1591.4,
+        "file_size_mb": 1.55,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Wetlands_America_Trust_affiliate__homepage.png",
+        "file_size_kb": 1587.9,
+        "file_size_mb": 1.55,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Wood_River_Land_Trust_homepage.png",
+        "file_size_kb": 1213.1,
+        "file_size_mb": 1.18,
+        "quality": "excellent",
+        "issues": [],
+        "recommendations": []
+      }
+    ],
+    "good": [
+      {
+        "filename": "Adirondack_Land_Trust_homepage.png",
+        "file_size_kb": 289.7,
+        "file_size_mb": 0.28,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Androscoggin_Land_Trust_homepage.png",
+        "file_size_kb": 180.0,
+        "file_size_mb": 0.18,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Blue_Hill_Heritage_Trust_homepage.png",
+        "file_size_kb": 222.2,
+        "file_size_mb": 0.22,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "California_Farmland_Trust_homepage.png",
+        "file_size_kb": 224.7,
+        "file_size_mb": 0.22,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Chikaming_Open_Lands_homepage.png",
+        "file_size_kb": 265.8,
+        "file_size_mb": 0.26,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "D_R_Greenway_Land_Trust_homepage.png",
+        "file_size_kb": 420.8,
+        "file_size_mb": 0.41,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Downeast_Coastal_Conservancy_homepage.png",
+        "file_size_kb": 387.8,
+        "file_size_mb": 0.38,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Dutchess_Land_Conservancy_homepage.png",
+        "file_size_kb": 331.6,
+        "file_size_mb": 0.32,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Five_Valleys_Land_Trust_homepage.png",
+        "file_size_kb": 269.2,
+        "file_size_mb": 0.26,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Forest_Society_of_Maine_homepage.png",
+        "file_size_kb": 285.5,
+        "file_size_mb": 0.28,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Great_Swamp_Watershed_Association_homepage.png",
+        "file_size_kb": 423.5,
+        "file_size_mb": 0.41,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Harding_Land_Trust_homepage.png",
+        "file_size_kb": 207.0,
+        "file_size_mb": 0.2,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Hunterdon_Land_Trust_homepage.png",
+        "file_size_kb": 266.3,
+        "file_size_mb": 0.26,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kentucky_Natural_Lands_Trust_homepage.png",
+        "file_size_kb": 165.4,
+        "file_size_mb": 0.16,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kestrel_Land_Trust_homepage.png",
+        "file_size_kb": 248.4,
+        "file_size_mb": 0.24,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Open_Space_Institute_homepage.png",
+        "file_size_kb": 416.1,
+        "file_size_mb": 0.41,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Peconic_Land_Trust_homepage.png",
+        "file_size_kb": 451.5,
+        "file_size_mb": 0.44,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Rensselaer_Land_Trust_homepage.png",
+        "file_size_kb": 110.9,
+        "file_size_mb": 0.11,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Society_for_the_Protection_of_New_Hampshire_Forests_homepage.png",
+        "file_size_kb": 453.3,
+        "file_size_mb": 0.44,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Squam_Lakes_Conservation_Society_homepage.png",
+        "file_size_kb": 208.7,
+        "file_size_mb": 0.2,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "St_Simons_Land_Trust_homepage.png",
+        "file_size_kb": 478.2,
+        "file_size_mb": 0.47,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Winnakee_Land_Trust_homepage.png",
+        "file_size_kb": 187.3,
+        "file_size_mb": 0.18,
+        "quality": "good",
+        "issues": [],
+        "recommendations": []
+      }
+    ],
+    "crop": [
+      {
+        "filename": "Access_Fund_homepage.png",
+        "file_size_kb": 4228.9,
+        "file_size_mb": 4.13,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Alachua_Conservation_Trust_homepage.png",
+        "file_size_kb": 2086.9,
+        "file_size_mb": 2.04,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "American_Chestnut_Land_Trust_homepage.png",
+        "file_size_kb": 2710.2,
+        "file_size_mb": 2.65,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Arizona_Land_and_Water_Trust_homepage.png",
+        "file_size_kb": 2732.9,
+        "file_size_mb": 2.67,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ashby_Land_Trust_homepage.png",
+        "file_size_kb": 2522.9,
+        "file_size_mb": 2.46,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ausbon_Sargent_Land_Preservation_Trust_homepage.png",
+        "file_size_kb": 2590.6,
+        "file_size_mb": 2.53,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Avalonia_Land_Conservancy_homepage.png",
+        "file_size_kb": 2844.7,
+        "file_size_mb": 2.78,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bear_Yuba_Land_Trust_homepage.png",
+        "file_size_kb": 3296.8,
+        "file_size_mb": 3.22,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Blue_Ridge_Conservancy_homepage.png",
+        "file_size_kb": 2678.8,
+        "file_size_mb": 2.62,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Boothbay_Region_Land_Trust_homepage.png",
+        "file_size_kb": 2448.4,
+        "file_size_mb": 2.39,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Bur_Oak_Land_Trust_homepage.png",
+        "file_size_kb": 4485.6,
+        "file_size_mb": 4.38,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Buzzards_Bay_Coalition_homepage.png",
+        "file_size_kb": 4607.0,
+        "file_size_mb": 4.5,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Cape_Elizabeth_Land_Trust_homepage.png",
+        "file_size_kb": 3658.7,
+        "file_size_mb": 3.57,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Catawba_Lands_Conservancy_homepage.png",
+        "file_size_kb": 2085.0,
+        "file_size_mb": 2.04,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Cazenovia_Preservation_Foundation_homepage.png",
+        "file_size_kb": 2147.1,
+        "file_size_mb": 2.1,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Central_Arizona_Land_Trust_homepage.png",
+        "file_size_kb": 2102.9,
+        "file_size_mb": 2.05,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Central_Indiana_Land_Trust_homepage.png",
+        "file_size_kb": 3984.8,
+        "file_size_mb": 3.89,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Central_Savannah_River_Land_Trust_homepage.png",
+        "file_size_kb": 2054.8,
+        "file_size_mb": 2.01,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Coastal_Rivers_Conservation_Trust_homepage.png",
+        "file_size_kb": 3452.0,
+        "file_size_mb": 3.37,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Colorado_Cattlemen_s_Agricultural_Land_Trust_homepage.png",
+        "file_size_kb": 2765.1,
+        "file_size_mb": 2.7,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Columbia_Land_Conservancy_homepage.png",
+        "file_size_kb": 3588.0,
+        "file_size_mb": 3.5,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Conservation_Florida_homepage.png",
+        "file_size_kb": 3799.6,
+        "file_size_mb": 3.71,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Conservation_Trust_for_North_Carolina_homepage.png",
+        "file_size_kb": 2389.7,
+        "file_size_mb": 2.33,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Conserving_Carolina_homepage.png",
+        "file_size_kb": 3200.3,
+        "file_size_mb": 3.13,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Dartmouth_Natural_Resources_Trust_homepage.png",
+        "file_size_kb": 3945.6,
+        "file_size_mb": 3.85,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ducks_Unlimited_homepage.png",
+        "file_size_kb": 4664.7,
+        "file_size_mb": 4.56,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Finger_Lakes_Land_Trust_homepage.png",
+        "file_size_kb": 3053.3,
+        "file_size_mb": 2.98,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Five_Rivers_Conservation_Trust_homepage.png",
+        "file_size_kb": 2110.3,
+        "file_size_mb": 2.06,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Foothills_Conservancy_of_North_Carolina_homepage.png",
+        "file_size_kb": 2932.6,
+        "file_size_mb": 2.86,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Frenchman_Bay_Conservancy_homepage.png",
+        "file_size_kb": 4527.0,
+        "file_size_mb": 4.42,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Friends_of_Hopewell_Valley_Open_Space_homepage.png",
+        "file_size_kb": 3458.5,
+        "file_size_mb": 3.38,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Gallatin_Valley_Land_Trust_homepage.png",
+        "file_size_kb": 2471.6,
+        "file_size_mb": 2.41,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Genesee_Land_Trust_homepage.png",
+        "file_size_kb": 2892.1,
+        "file_size_mb": 2.82,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Genesee_Valley_Conservancy_homepage.png",
+        "file_size_kb": 2899.5,
+        "file_size_mb": 2.83,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Georgia_Alabama_Land_Trust_homepage.png",
+        "file_size_kb": 2610.1,
+        "file_size_mb": 2.55,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Great_Land_Trust_homepage.png",
+        "file_size_kb": 3197.6,
+        "file_size_mb": 3.12,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Great_Pond_Mountain_Conservation_Trust_homepage.png",
+        "file_size_kb": 4129.1,
+        "file_size_mb": 4.03,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Groton_Conservation_Trust_homepage.png",
+        "file_size_kb": 3037.6,
+        "file_size_mb": 2.97,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Hudson_Highlands_Land_Trust_homepage.png",
+        "file_size_kb": 3016.6,
+        "file_size_mb": 2.95,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Interior_Alaska_Land_Trust_homepage.png",
+        "file_size_kb": 2282.9,
+        "file_size_mb": 2.23,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Jo_Daviess_Conservation_Foundation_homepage.png",
+        "file_size_kb": 2891.0,
+        "file_size_mb": 2.82,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Kachemak_Heritage_Land_Trust_homepage.png",
+        "file_size_kb": 2496.8,
+        "file_size_mb": 2.44,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Keweenaw_Land_Trust_homepage.png",
+        "file_size_kb": 2602.6,
+        "file_size_mb": 2.54,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Land_Trust_for_the_Mississippi_Coastal_Plain_homepage.png",
+        "file_size_kb": 2358.3,
+        "file_size_mb": 2.3,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Leelanau_Conservancy_homepage.png",
+        "file_size_kb": 3212.7,
+        "file_size_mb": 3.14,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Little_Forks_Conservancy_homepage.png",
+        "file_size_kb": 2576.5,
+        "file_size_mb": 2.52,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Loon_Echo_Land_Trust_homepage.png",
+        "file_size_kb": 2061.3,
+        "file_size_mb": 2.01,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lowell_Parks_and_Conservation_Trust_homepage.png",
+        "file_size_kb": 2883.0,
+        "file_size_mb": 2.82,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Mahoosuc_Land_Trust_homepage.png",
+        "file_size_kb": 2151.4,
+        "file_size_mb": 2.1,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Maine_Coast_Heritage_Trust_homepage.png",
+        "file_size_kb": 4226.6,
+        "file_size_mb": 4.13,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Maine_Farmland_Trust_homepage.png",
+        "file_size_kb": 3448.2,
+        "file_size_mb": 3.37,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Mainspring_Conservation_Trust_homepage.png",
+        "file_size_kb": 2553.7,
+        "file_size_mb": 2.49,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Midcoast_Conservancy_homepage.png",
+        "file_size_kb": 2117.1,
+        "file_size_mb": 2.07,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Minnesota_Land_Trust_homepage.png",
+        "file_size_kb": 4143.2,
+        "file_size_mb": 4.05,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Natural_Land_Institute_homepage.png",
+        "file_size_kb": 3651.0,
+        "file_size_mb": 3.57,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "New_Jersey_Conservation_Foundation_homepage.png",
+        "file_size_kb": 4513.9,
+        "file_size_mb": 4.41,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "New_River_Conservancy_homepage.png",
+        "file_size_kb": 3285.0,
+        "file_size_mb": 3.21,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "North_Florida_Land_Trust_homepage.png",
+        "file_size_kb": 2754.7,
+        "file_size_mb": 2.69,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "North_Oakland_Headwaters_Land_Conservancy_homepage.png",
+        "file_size_kb": 3517.6,
+        "file_size_mb": 3.44,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Northern_Waters_Land_Trust_homepage.png",
+        "file_size_kb": 4341.7,
+        "file_size_mb": 4.24,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Northwest_Arkansas_Land_Trust_homepage.png",
+        "file_size_kb": 2527.3,
+        "file_size_mb": 2.47,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Openlands_homepage.png",
+        "file_size_kb": 2981.8,
+        "file_size_mb": 2.91,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Orange_County_Land_Trust_homepage.png",
+        "file_size_kb": 3158.7,
+        "file_size_mb": 3.08,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Otsego_Land_Trust_homepage.png",
+        "file_size_kb": 2715.2,
+        "file_size_mb": 2.65,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Piedmont_Land_Conservancy_homepage.png",
+        "file_size_kb": 2018.9,
+        "file_size_mb": 1.97,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Piscataquog_Land_Conservancy_homepage.png",
+        "file_size_kb": 2053.2,
+        "file_size_mb": 2.01,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Potomac_Conservancy_homepage.png",
+        "file_size_kb": 4195.0,
+        "file_size_mb": 4.1,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Prairie_Land_Conservancy_homepage.png",
+        "file_size_kb": 2633.1,
+        "file_size_mb": 2.57,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Prickly_Pear_Land_Trust_homepage.png",
+        "file_size_kb": 3461.9,
+        "file_size_mb": 3.38,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Ranchland_Trust_of_Kansas_homepage.png",
+        "file_size_kb": 3649.8,
+        "file_size_mb": 3.56,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Rangeley_Lakes_Heritage_Trust_homepage.png",
+        "file_size_kb": 3826.8,
+        "file_size_mb": 3.74,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Rio_Grande_Agricultural_Land_Trust_homepage.png",
+        "file_size_kb": 3452.3,
+        "file_size_mb": 3.37,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "RiverLink_homepage.png",
+        "file_size_kb": 4137.3,
+        "file_size_mb": 4.04,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Saratoga_PLAN_homepage.png",
+        "file_size_kb": 2280.6,
+        "file_size_mb": 2.23,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Scenic_Hudson_homepage.png",
+        "file_size_kb": 4150.4,
+        "file_size_mb": 4.05,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Scenic_Rivers_Land_Trust_homepage.png",
+        "file_size_kb": 4775.7,
+        "file_size_mb": 4.66,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Sudbury_Valley_Trustees_homepage.png",
+        "file_size_kb": 4561.4,
+        "file_size_mb": 4.45,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Sycamore_Land_Trust_homepage.png",
+        "file_size_kb": 4204.0,
+        "file_size_mb": 4.11,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Tampa_Bay_Conservancy_homepage.png",
+        "file_size_kb": 2474.8,
+        "file_size_mb": 2.42,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Taos_Land_Trust_homepage.png",
+        "file_size_kb": 2250.5,
+        "file_size_mb": 2.2,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Teton_Regional_Land_Trust_homepage.png",
+        "file_size_kb": 3589.4,
+        "file_size_mb": 3.51,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Conservation_Fund_homepage.png",
+        "file_size_kb": 2447.8,
+        "file_size_mb": 2.39,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Nature_Conservancy_homepage.png",
+        "file_size_kb": 2377.0,
+        "file_size_mb": 2.32,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Tug_Hill_Tomorrow_Land_Trust_homepage.png",
+        "file_size_kb": 2939.6,
+        "file_size_mb": 2.87,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Upper_Peninsula_Land_Conservancy_homepage.png",
+        "file_size_kb": 2467.5,
+        "file_size_mb": 2.41,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Vinalhaven_Land_Trust_homepage.png",
+        "file_size_kb": 2061.5,
+        "file_size_mb": 2.01,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Vital_Ground_Foundation_homepage.png",
+        "file_size_kb": 2470.4,
+        "file_size_mb": 2.41,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Woodstock_Land_Conservancy_homepage.png",
+        "file_size_kb": 2429.0,
+        "file_size_mb": 2.37,
+        "quality": "crop",
+        "issues": [],
+        "recommendations": []
+      }
+    ],
+    "compress": [
+      {
+        "filename": "Aspen_Valley_Land_Trust_homepage.png",
+        "file_size_kb": 5718.1,
+        "file_size_mb": 5.58,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Athens_Land_Trust_homepage.png",
+        "file_size_kb": 7793.7,
+        "file_size_mb": 7.61,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Coastal_Mountains_Land_Trust_homepage.png",
+        "file_size_kb": 8013.4,
+        "file_size_mb": 7.83,
+        "quality": "compress",
+        "issues": [
+          "Very large file size"
+        ],
+        "recommendations": [
+          "Consider compression or cropping"
+        ]
+      },
+      {
+        "filename": "Davidson_Lands_Conservancy_homepage.png",
+        "file_size_kb": 6787.1,
+        "file_size_mb": 6.63,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Grand_Traverse_Regional_Land_Conservancy_homepage.png",
+        "file_size_kb": 5088.4,
+        "file_size_mb": 4.97,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Lake_George_Land_Conservancy_homepage.png",
+        "file_size_kb": 4970.7,
+        "file_size_mb": 4.85,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "NICHES_Land_Trust_homepage.png",
+        "file_size_kb": 5553.4,
+        "file_size_mb": 5.42,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "North_Shore_Land_Alliance_homepage.png",
+        "file_size_kb": 5481.1,
+        "file_size_mb": 5.35,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Raritan_Headwaters_Association_homepage.png",
+        "file_size_kb": 5593.3,
+        "file_size_mb": 5.46,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Rensselaer_Plateau_Alliance_homepage.png",
+        "file_size_kb": 6397.6,
+        "file_size_mb": 6.25,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Sheriff_s_Meadow_Foundation_homepage.png",
+        "file_size_kb": 7709.5,
+        "file_size_mb": 7.53,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "Southern_Appalachian_Highlands_Conservancy_homepage.png",
+        "file_size_kb": 6795.7,
+        "file_size_mb": 6.64,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      },
+      {
+        "filename": "The_Conservation_Foundation_homepage.png",
+        "file_size_kb": 5645.4,
+        "file_size_mb": 5.51,
+        "quality": "compress",
+        "issues": [],
+        "recommendations": []
+      }
+    ],
+    "review": [
+      {
+        "filename": "Ashburnham_Conservation_Trust_homepage.png",
+        "file_size_kb": 72.3,
+        "file_size_mb": 0.07,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      },
+      {
+        "filename": "Black_Canyon_Regional_Land_Trust_homepage.png",
+        "file_size_kb": 79.4,
+        "file_size_mb": 0.08,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      },
+      {
+        "filename": "Land_Trust_of_the_Treasure_Valley_homepage.png",
+        "file_size_kb": 96.8,
+        "file_size_mb": 0.09,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      },
+      {
+        "filename": "Louisville_Jefferson_County_Environmental_Trust_homepage.png",
+        "file_size_kb": 81.0,
+        "file_size_mb": 0.08,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      },
+      {
+        "filename": "The_Trust_for_Public_Land_homepage.png",
+        "file_size_kb": 78.9,
+        "file_size_mb": 0.08,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      },
+      {
+        "filename": "Weeks_Bay_Foundation_homepage.png",
+        "file_size_kb": 92.4,
+        "file_size_mb": 0.09,
+        "quality": "review",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "May be incomplete page - REVIEW"
+        ]
+      }
+    ],
+    "delete": [
+      {
+        "filename": "Highlands_Cashiers_Land_Trust_homepage.png",
+        "file_size_kb": 5.7,
+        "file_size_mb": 0.01,
+        "quality": "delete",
+        "issues": [
+          "Very small file size"
+        ],
+        "recommendations": [
+          "DELETE - File too small, likely error page"
+        ]
+      },
+      {
+        "filename": "Ozark_Regional_Land_Trust_homepage.png",
+        "file_size_kb": 5.7,
+        "file_size_mb": 0.01,
+        "quality": "delete",
+        "issues": [
+          "Very small file size"
+        ],
+        "recommendations": [
+          "DELETE - File too small, likely error page"
+        ]
+      },
+      {
+        "filename": "Upper_Valley_Land_Trust_homepage.png",
+        "file_size_kb": 32.6,
+        "file_size_mb": 0.03,
+        "quality": "delete",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "DELETE - File too small, likely error page"
+        ]
+      },
+      {
+        "filename": "Wareham_Land_Trust_homepage.png",
+        "file_size_kb": 13.4,
+        "file_size_mb": 0.01,
+        "quality": "delete",
+        "issues": [
+          "Very small file size"
+        ],
+        "recommendations": [
+          "DELETE - File too small, likely error page"
+        ]
+      },
+      {
+        "filename": "Westchester_Land_Trust_homepage.png",
+        "file_size_kb": 40.1,
+        "file_size_mb": 0.04,
+        "quality": "delete",
+        "issues": [
+          "Small file size"
+        ],
+        "recommendations": [
+          "DELETE - File too small, likely error page"
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "detailed_results": [
+    {
+      "filename": "Access_Fund_homepage.png",
+      "file_size_kb": 4228.9,
+      "file_size_mb": 4.13,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Adirondack_Land_Trust_homepage.png",
+      "file_size_kb": 289.7,
+      "file_size_mb": 0.28,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Agricultural_Stewardship_Association_homepage.png",
+      "file_size_kb": 1281.7,
+      "file_size_mb": 1.25,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Alachua_Conservation_Trust_homepage.png",
+      "file_size_kb": 2086.9,
+      "file_size_mb": 2.04,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "American_Chestnut_Land_Trust_homepage.png",
+      "file_size_kb": 2710.2,
+      "file_size_mb": 2.65,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Androscoggin_Land_Trust_homepage.png",
+      "file_size_kb": 180.0,
+      "file_size_mb": 0.18,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Arizona_Land_and_Water_Trust_homepage.png",
+      "file_size_kb": 2732.9,
+      "file_size_mb": 2.67,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ashburnham_Conservation_Trust_homepage.png",
+      "file_size_kb": 72.3,
+      "file_size_mb": 0.07,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "Ashby_Land_Trust_homepage.png",
+      "file_size_kb": 2522.9,
+      "file_size_mb": 2.46,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Aspen_Valley_Land_Trust_homepage.png",
+      "file_size_kb": 5718.1,
+      "file_size_mb": 5.58,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Athens_Land_Trust_homepage.png",
+      "file_size_kb": 7793.7,
+      "file_size_mb": 7.61,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ausbon_Sargent_Land_Preservation_Trust_homepage.png",
+      "file_size_kb": 2590.6,
+      "file_size_mb": 2.53,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Avalonia_Land_Conservancy_homepage.png",
+      "file_size_kb": 2844.7,
+      "file_size_mb": 2.78,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bangor_Land_Trust_homepage.png",
+      "file_size_kb": 1444.4,
+      "file_size_mb": 1.41,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bear_Paw_Regional_Greenways_homepage.png",
+      "file_size_kb": 1787.9,
+      "file_size_mb": 1.75,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bear_Yuba_Land_Trust_homepage.png",
+      "file_size_kb": 3296.8,
+      "file_size_mb": 3.22,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Big_Sur_Land_Trust_homepage.png",
+      "file_size_kb": 628.2,
+      "file_size_mb": 0.61,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bitter_Root_Land_Trust_homepage.png",
+      "file_size_kb": 1498.6,
+      "file_size_mb": 1.46,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Black_Canyon_Regional_Land_Trust_homepage.png",
+      "file_size_kb": 79.4,
+      "file_size_mb": 0.08,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "Blue_Hill_Heritage_Trust_homepage.png",
+      "file_size_kb": 222.2,
+      "file_size_mb": 0.22,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Blue_Ridge_Conservancy_homepage.png",
+      "file_size_kb": 2678.8,
+      "file_size_mb": 2.62,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bluegrass_Land_Conservancy_homepage.png",
+      "file_size_kb": 550.7,
+      "file_size_mb": 0.54,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Boothbay_Region_Land_Trust_homepage.png",
+      "file_size_kb": 2448.4,
+      "file_size_mb": 2.39,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Branford_Land_Trust_homepage.png",
+      "file_size_kb": 1596.7,
+      "file_size_mb": 1.56,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Brunswick_Topsham_Land_Trust_homepage.png",
+      "file_size_kb": 1062.6,
+      "file_size_mb": 1.04,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Bur_Oak_Land_Trust_homepage.png",
+      "file_size_kb": 4485.6,
+      "file_size_mb": 4.38,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Buzzards_Bay_Coalition_homepage.png",
+      "file_size_kb": 4607.0,
+      "file_size_mb": 4.5,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "California_Farmland_Trust_homepage.png",
+      "file_size_kb": 224.7,
+      "file_size_mb": 0.22,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "California_Rangeland_Trust_homepage.png",
+      "file_size_kb": 1892.6,
+      "file_size_mb": 1.85,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Cape_Elizabeth_Land_Trust_homepage.png",
+      "file_size_kb": 3658.7,
+      "file_size_mb": 3.57,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Catawba_Lands_Conservancy_homepage.png",
+      "file_size_kb": 2085.0,
+      "file_size_mb": 2.04,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Catskill_Center_for_Conservation_and_Development_homepage.png",
+      "file_size_kb": 1728.6,
+      "file_size_mb": 1.69,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Cayucos_Land_Conservancy_homepage.png",
+      "file_size_kb": 642.7,
+      "file_size_mb": 0.63,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Cazenovia_Preservation_Foundation_homepage.png",
+      "file_size_kb": 2147.1,
+      "file_size_mb": 2.1,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Central_Arizona_Land_Trust_homepage.png",
+      "file_size_kb": 2102.9,
+      "file_size_mb": 2.05,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Central_Colorado_Conservancy_homepage.png",
+      "file_size_kb": 1354.2,
+      "file_size_mb": 1.32,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Central_Indiana_Land_Trust_homepage.png",
+      "file_size_kb": 3984.8,
+      "file_size_mb": 3.89,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Central_Savannah_River_Land_Trust_homepage.png",
+      "file_size_kb": 2054.8,
+      "file_size_mb": 2.01,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Champlain_Area_Trails_homepage.png",
+      "file_size_kb": 1286.4,
+      "file_size_mb": 1.26,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Chebeague_Cumberland_Land_Trust_homepage.png",
+      "file_size_kb": 1483.5,
+      "file_size_mb": 1.45,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Chikaming_Open_Lands_homepage.png",
+      "file_size_kb": 265.8,
+      "file_size_mb": 0.26,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Chippewa_Watershed_Conservancy_homepage.png",
+      "file_size_kb": 1588.2,
+      "file_size_mb": 1.55,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Coastal_Mountains_Land_Trust_homepage.png",
+      "file_size_kb": 8013.4,
+      "file_size_mb": 7.83,
+      "quality": "compress",
+      "issues": [
+        "Very large file size"
+      ],
+      "recommendations": [
+        "Consider compression or cropping"
+      ]
+    },
+    {
+      "filename": "Coastal_Rivers_Conservation_Trust_homepage.png",
+      "file_size_kb": 3452.0,
+      "file_size_mb": 3.37,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Colchester_Land_Trust_homepage.png",
+      "file_size_kb": 926.2,
+      "file_size_mb": 0.9,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Colorado_Cattlemen_s_Agricultural_Land_Trust_homepage.png",
+      "file_size_kb": 2765.1,
+      "file_size_mb": 2.7,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Columbia_Land_Conservancy_homepage.png",
+      "file_size_kb": 3588.0,
+      "file_size_mb": 3.5,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Connecticut_Farmland_Trust_homepage.png",
+      "file_size_kb": 1882.1,
+      "file_size_mb": 1.84,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Conservation_Florida_homepage.png",
+      "file_size_kb": 3799.6,
+      "file_size_mb": 3.71,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Conservation_Trust_for_North_Carolina_homepage.png",
+      "file_size_kb": 2389.7,
+      "file_size_mb": 2.33,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Conserving_Carolina_homepage.png",
+      "file_size_kb": 3200.3,
+      "file_size_mb": 3.13,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "D_R_Greenway_Land_Trust_homepage.png",
+      "file_size_kb": 420.8,
+      "file_size_mb": 0.41,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Dartmouth_Natural_Resources_Trust_homepage.png",
+      "file_size_kb": 3945.6,
+      "file_size_mb": 3.85,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Davidson_Lands_Conservancy_homepage.png",
+      "file_size_kb": 6787.1,
+      "file_size_mb": 6.63,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Downeast_Coastal_Conservancy_homepage.png",
+      "file_size_kb": 387.8,
+      "file_size_mb": 0.38,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ducks_Unlimited_homepage.png",
+      "file_size_kb": 4664.7,
+      "file_size_mb": 4.56,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Dutchess_Land_Conservancy_homepage.png",
+      "file_size_kb": 331.6,
+      "file_size_mb": 0.32,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Eastern_Shore_Land_Conservancy_homepage.png",
+      "file_size_kb": 1798.5,
+      "file_size_mb": 1.76,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Eno_River_Association_homepage.png",
+      "file_size_kb": 699.6,
+      "file_size_mb": 0.68,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Finger_Lakes_Land_Trust_homepage.png",
+      "file_size_kb": 3053.3,
+      "file_size_mb": 2.98,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Five_Rivers_Conservation_Trust_homepage.png",
+      "file_size_kb": 2110.3,
+      "file_size_mb": 2.06,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Five_Valleys_Land_Trust_homepage.png",
+      "file_size_kb": 269.2,
+      "file_size_mb": 0.26,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Flathead_Land_Trust_homepage.png",
+      "file_size_kb": 527.3,
+      "file_size_mb": 0.51,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Foothills_Conservancy_of_North_Carolina_homepage.png",
+      "file_size_kb": 2932.6,
+      "file_size_mb": 2.86,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Forest_Society_of_Maine_homepage.png",
+      "file_size_kb": 285.5,
+      "file_size_mb": 0.28,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Frenchman_Bay_Conservancy_homepage.png",
+      "file_size_kb": 4527.0,
+      "file_size_mb": 4.42,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Freshwater_Land_Trust_homepage.png",
+      "file_size_kb": 598.6,
+      "file_size_mb": 0.58,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Friends_of_Hopewell_Valley_Open_Space_homepage.png",
+      "file_size_kb": 3458.5,
+      "file_size_mb": 3.38,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Gallatin_Valley_Land_Trust_homepage.png",
+      "file_size_kb": 2471.6,
+      "file_size_mb": 2.41,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Genesee_Land_Trust_homepage.png",
+      "file_size_kb": 2892.1,
+      "file_size_mb": 2.82,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Genesee_Valley_Conservancy_homepage.png",
+      "file_size_kb": 2899.5,
+      "file_size_mb": 2.83,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Georges_River_Land_Trust_homepage.png",
+      "file_size_kb": 749.6,
+      "file_size_mb": 0.73,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Georgia_Alabama_Land_Trust_homepage.png",
+      "file_size_kb": 2610.1,
+      "file_size_mb": 2.55,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Grand_Traverse_Regional_Land_Conservancy_homepage.png",
+      "file_size_kb": 5088.4,
+      "file_size_mb": 4.97,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Great_Land_Trust_homepage.png",
+      "file_size_kb": 3197.6,
+      "file_size_mb": 3.12,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Great_Pond_Mountain_Conservation_Trust_homepage.png",
+      "file_size_kb": 4129.1,
+      "file_size_mb": 4.03,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Great_Swamp_Watershed_Association_homepage.png",
+      "file_size_kb": 423.5,
+      "file_size_mb": 0.41,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Groton_Conservation_Trust_homepage.png",
+      "file_size_kb": 3037.6,
+      "file_size_mb": 2.97,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Harding_Land_Trust_homepage.png",
+      "file_size_kb": 207.0,
+      "file_size_mb": 0.2,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Harpswell_Heritage_Land_Trust_homepage.png",
+      "file_size_kb": 763.5,
+      "file_size_mb": 0.75,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Hawaiian_Islands_Land_Trust_homepage.png",
+      "file_size_kb": 997.3,
+      "file_size_mb": 0.97,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Highlands_Cashiers_Land_Trust_homepage.png",
+      "file_size_kb": 5.7,
+      "file_size_mb": 0.01,
+      "quality": "delete",
+      "issues": [
+        "Very small file size"
+      ],
+      "recommendations": [
+        "DELETE - File too small, likely error page"
+      ]
+    },
+    {
+      "filename": "Hudson_Highlands_Land_Trust_homepage.png",
+      "file_size_kb": 3016.6,
+      "file_size_mb": 2.95,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Hunterdon_Land_Trust_homepage.png",
+      "file_size_kb": 266.3,
+      "file_size_mb": 0.26,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Interior_Alaska_Land_Trust_homepage.png",
+      "file_size_kb": 2282.9,
+      "file_size_mb": 2.23,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Iowa_Natural_Heritage_Foundation_homepage.png",
+      "file_size_kb": 575.5,
+      "file_size_mb": 0.56,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Jo_Daviess_Conservation_Foundation_homepage.png",
+      "file_size_kb": 2891.0,
+      "file_size_mb": 2.82,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kachemak_Heritage_Land_Trust_homepage.png",
+      "file_size_kb": 2496.8,
+      "file_size_mb": 2.44,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kaniksu_Land_Trust_homepage.png",
+      "file_size_kb": 1678.5,
+      "file_size_mb": 1.64,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kansas_Land_Trust_homepage.png",
+      "file_size_kb": 1605.8,
+      "file_size_mb": 1.57,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kennebec_Estuary_Land_Trust_homepage.png",
+      "file_size_kb": 1333.2,
+      "file_size_mb": 1.3,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kennebec_Land_Trust_homepage.png",
+      "file_size_kb": 961.7,
+      "file_size_mb": 0.94,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kentucky_Natural_Lands_Trust_homepage.png",
+      "file_size_kb": 165.4,
+      "file_size_mb": 0.16,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Kestrel_Land_Trust_homepage.png",
+      "file_size_kb": 248.4,
+      "file_size_mb": 0.24,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Keweenaw_Land_Trust_homepage.png",
+      "file_size_kb": 2602.6,
+      "file_size_mb": 2.54,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Lake_Forest_Open_Lands_Association_homepage.png",
+      "file_size_kb": 1203.3,
+      "file_size_mb": 1.18,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Lake_George_Land_Conservancy_homepage.png",
+      "file_size_kb": 4970.7,
+      "file_size_mb": 4.85,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Lakes_Region_Conservation_Trust_homepage.png",
+      "file_size_kb": 1688.9,
+      "file_size_mb": 1.65,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Land_Conservancy_of_West_Michigan_homepage.png",
+      "file_size_kb": 1580.0,
+      "file_size_mb": 1.54,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Land_Trust_for_Louisiana_homepage.png",
+      "file_size_kb": 609.4,
+      "file_size_mb": 0.6,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Land_Trust_for_the_Mississippi_Coastal_Plain_homepage.png",
+      "file_size_kb": 2358.3,
+      "file_size_mb": 2.3,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Land_Trust_of_North_Alabama_homepage.png",
+      "file_size_kb": 533.0,
+      "file_size_mb": 0.52,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Land_Trust_of_the_Treasure_Valley_homepage.png",
+      "file_size_kb": 96.8,
+      "file_size_mb": 0.09,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "Leelanau_Conservancy_homepage.png",
+      "file_size_kb": 3212.7,
+      "file_size_mb": 3.14,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Legacy_Land_Conservancy_homepage.png",
+      "file_size_kb": 764.4,
+      "file_size_mb": 0.75,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Lemhi_Regional_Land_Trust_homepage.png",
+      "file_size_kb": 1900.9,
+      "file_size_mb": 1.86,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Little_Forks_Conservancy_homepage.png",
+      "file_size_kb": 2576.5,
+      "file_size_mb": 2.52,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Loon_Echo_Land_Trust_homepage.png",
+      "file_size_kb": 2061.3,
+      "file_size_mb": 2.01,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Louisville_Jefferson_County_Environmental_Trust_homepage.png",
+      "file_size_kb": 81.0,
+      "file_size_mb": 0.08,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "Lowell_Parks_and_Conservation_Trust_homepage.png",
+      "file_size_kb": 2883.0,
+      "file_size_mb": 2.82,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Lower_Shore_Land_Trust_homepage.png",
+      "file_size_kb": 556.3,
+      "file_size_mb": 0.54,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Mahoosuc_Land_Trust_homepage.png",
+      "file_size_kb": 2151.4,
+      "file_size_mb": 2.1,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Maine_Coast_Heritage_Trust_homepage.png",
+      "file_size_kb": 4226.6,
+      "file_size_mb": 4.13,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Maine_Farmland_Trust_homepage.png",
+      "file_size_kb": 3448.2,
+      "file_size_mb": 3.37,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Mainspring_Conservation_Trust_homepage.png",
+      "file_size_kb": 2553.7,
+      "file_size_mb": 2.49,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Massachusetts_Audubon_Society_homepage.png",
+      "file_size_kb": 1355.0,
+      "file_size_mb": 1.32,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Michigan_Nature_Association_homepage.png",
+      "file_size_kb": 1103.3,
+      "file_size_mb": 1.08,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Midcoast_Conservancy_homepage.png",
+      "file_size_kb": 2117.1,
+      "file_size_mb": 2.07,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Minnesota_Land_Trust_homepage.png",
+      "file_size_kb": 4143.2,
+      "file_size_mb": 4.05,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Mohonk_Preserve_homepage.png",
+      "file_size_kb": 815.9,
+      "file_size_mb": 0.8,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Monadnock_Conservancy_homepage.png",
+      "file_size_kb": 838.6,
+      "file_size_mb": 0.82,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Monmouth_Conservation_Foundation_homepage.png",
+      "file_size_kb": 1459.0,
+      "file_size_mb": 1.42,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Montana_Land_Reliance_homepage.png",
+      "file_size_kb": 933.9,
+      "file_size_mb": 0.91,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Mount_Grace_Land_Conservation_Trust_homepage.png",
+      "file_size_kb": 1249.6,
+      "file_size_mb": 1.22,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Mountain_Conservation_Trust_of_Georgia_homepage.png",
+      "file_size_kb": 1000.6,
+      "file_size_mb": 0.98,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "NICHES_Land_Trust_homepage.png",
+      "file_size_kb": 5553.4,
+      "file_size_mb": 5.42,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Natural_Land_Institute_homepage.png",
+      "file_size_kb": 3651.0,
+      "file_size_mb": 3.57,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Nevada_Land_Trust_homepage.png",
+      "file_size_kb": 1022.3,
+      "file_size_mb": 1.0,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "New_Jersey_Conservation_Foundation_homepage.png",
+      "file_size_kb": 4513.9,
+      "file_size_mb": 4.41,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "New_Mexico_Land_Conservancy_homepage.png",
+      "file_size_kb": 1897.5,
+      "file_size_mb": 1.85,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "New_River_Conservancy_homepage.png",
+      "file_size_kb": 3285.0,
+      "file_size_mb": 3.21,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "North_Carolina_Coastal_Land_Trust_homepage.png",
+      "file_size_kb": 1728.3,
+      "file_size_mb": 1.69,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "North_Florida_Land_Trust_homepage.png",
+      "file_size_kb": 2754.7,
+      "file_size_mb": 2.69,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "North_Oakland_Headwaters_Land_Conservancy_homepage.png",
+      "file_size_kb": 3517.6,
+      "file_size_mb": 3.44,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "North_Shore_Land_Alliance_homepage.png",
+      "file_size_kb": 5481.1,
+      "file_size_mb": 5.35,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Northern_Waters_Land_Trust_homepage.png",
+      "file_size_kb": 4341.7,
+      "file_size_mb": 4.24,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Northwest_Arkansas_Land_Trust_homepage.png",
+      "file_size_kb": 2527.3,
+      "file_size_mb": 2.47,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ocmulgee_Land_Trust_homepage.png",
+      "file_size_kb": 585.1,
+      "file_size_mb": 0.57,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Open_Space_Institute_homepage.png",
+      "file_size_kb": 416.1,
+      "file_size_mb": 0.41,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Openlands_homepage.png",
+      "file_size_kb": 2981.8,
+      "file_size_mb": 2.91,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Orange_County_Land_Trust_homepage.png",
+      "file_size_kb": 3158.7,
+      "file_size_mb": 3.08,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Orono_Land_Trust_homepage.png",
+      "file_size_kb": 980.8,
+      "file_size_mb": 0.96,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Otsego_Land_Trust_homepage.png",
+      "file_size_kb": 2715.2,
+      "file_size_mb": 2.65,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ozark_Regional_Land_Trust_homepage.png",
+      "file_size_kb": 5.7,
+      "file_size_mb": 0.01,
+      "quality": "delete",
+      "issues": [
+        "Very small file size"
+      ],
+      "recommendations": [
+        "DELETE - File too small, likely error page"
+      ]
+    },
+    {
+      "filename": "Palouse_Land_Trust_homepage.png",
+      "file_size_kb": 987.4,
+      "file_size_mb": 0.96,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Peconic_Land_Trust_homepage.png",
+      "file_size_kb": 451.5,
+      "file_size_mb": 0.44,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Piedmont_Land_Conservancy_homepage.png",
+      "file_size_kb": 2018.9,
+      "file_size_mb": 1.97,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Piscataquog_Land_Conservancy_homepage.png",
+      "file_size_kb": 2053.2,
+      "file_size_mb": 2.01,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Potomac_Conservancy_homepage.png",
+      "file_size_kb": 4195.0,
+      "file_size_mb": 4.1,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Prairie_Land_Conservancy_homepage.png",
+      "file_size_kb": 2633.1,
+      "file_size_mb": 2.57,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Prickly_Pear_Land_Trust_homepage.png",
+      "file_size_kb": 3461.9,
+      "file_size_mb": 3.38,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ranchland_Trust_of_Kansas_homepage.png",
+      "file_size_kb": 3649.8,
+      "file_size_mb": 3.56,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Rangeley_Lakes_Heritage_Trust_homepage.png",
+      "file_size_kb": 3826.8,
+      "file_size_mb": 3.74,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Raritan_Headwaters_Association_homepage.png",
+      "file_size_kb": 5593.3,
+      "file_size_mb": 5.46,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Rensselaer_Land_Trust_homepage.png",
+      "file_size_kb": 110.9,
+      "file_size_mb": 0.11,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Rensselaer_Plateau_Alliance_homepage.png",
+      "file_size_kb": 6397.6,
+      "file_size_mb": 6.25,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Ridge_and_Valley_Conservancy_homepage.png",
+      "file_size_kb": 1178.0,
+      "file_size_mb": 1.15,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Rio_Grande_Agricultural_Land_Trust_homepage.png",
+      "file_size_kb": 3452.3,
+      "file_size_mb": 3.37,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "RiverLink_homepage.png",
+      "file_size_kb": 4137.3,
+      "file_size_mb": 4.04,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "River_Fields_homepage.png",
+      "file_size_kb": 1635.4,
+      "file_size_mb": 1.6,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Sagebrush_Steppe_Land_Trust_homepage.png",
+      "file_size_kb": 1710.6,
+      "file_size_mb": 1.67,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Saginaw_Basin_Land_Conservancy_homepage.png",
+      "file_size_kb": 826.3,
+      "file_size_mb": 0.81,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Santa_Fe_Conservation_Trust_homepage.png",
+      "file_size_kb": 1335.4,
+      "file_size_mb": 1.3,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Saratoga_PLAN_homepage.png",
+      "file_size_kb": 2280.6,
+      "file_size_mb": 2.23,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Scenic_Hudson_homepage.png",
+      "file_size_kb": 4150.4,
+      "file_size_mb": 4.05,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Scenic_Rivers_Land_Trust_homepage.png",
+      "file_size_kb": 4775.7,
+      "file_size_mb": 4.66,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Sheriff_s_Meadow_Foundation_homepage.png",
+      "file_size_kb": 7709.5,
+      "file_size_mb": 7.53,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Shirley_Heinze_Land_Trust_homepage.png",
+      "file_size_kb": 1193.7,
+      "file_size_mb": 1.17,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Six_Rivers_Land_Conservancy_homepage.png",
+      "file_size_kb": 784.9,
+      "file_size_mb": 0.77,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Society_for_the_Protection_of_New_Hampshire_Forests_homepage.png",
+      "file_size_kb": 453.3,
+      "file_size_mb": 0.44,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "South_Jersey_Land_and_Water_Trust_homepage.png",
+      "file_size_kb": 614.4,
+      "file_size_mb": 0.6,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Southeast_Land_Trust_of_New_Hampshire_homepage.png",
+      "file_size_kb": 1427.3,
+      "file_size_mb": 1.39,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Southern_Appalachian_Highlands_Conservancy_homepage.png",
+      "file_size_kb": 6795.7,
+      "file_size_mb": 6.64,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Southwest_Michigan_Land_Conservancy_homepage.png",
+      "file_size_kb": 1258.4,
+      "file_size_mb": 1.23,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Squam_Lakes_Conservation_Society_homepage.png",
+      "file_size_kb": 208.7,
+      "file_size_mb": 0.2,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "St_Simons_Land_Trust_homepage.png",
+      "file_size_kb": 478.2,
+      "file_size_mb": 0.47,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Sudbury_Valley_Trustees_homepage.png",
+      "file_size_kb": 4561.4,
+      "file_size_mb": 4.45,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Sustainable_Conservation_affiliate__homepage.png",
+      "file_size_kb": 1132.3,
+      "file_size_mb": 1.11,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Sycamore_Land_Trust_homepage.png",
+      "file_size_kb": 4204.0,
+      "file_size_mb": 4.11,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Tall_Timbers_Research_Station_Land_Conservancy_homepage.png",
+      "file_size_kb": 850.7,
+      "file_size_mb": 0.83,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Tampa_Bay_Conservancy_homepage.png",
+      "file_size_kb": 2474.8,
+      "file_size_mb": 2.42,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Taos_Land_Trust_homepage.png",
+      "file_size_kb": 2250.5,
+      "file_size_mb": 2.2,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Teton_Regional_Land_Trust_homepage.png",
+      "file_size_kb": 3589.4,
+      "file_size_mb": 3.51,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Conservation_Foundation_homepage.png",
+      "file_size_kb": 5645.4,
+      "file_size_mb": 5.51,
+      "quality": "compress",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Conservation_Fund_homepage.png",
+      "file_size_kb": 2447.8,
+      "file_size_mb": 2.39,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Land_Conservancy_of_McHenry_County_homepage.png",
+      "file_size_kb": 1766.2,
+      "file_size_mb": 1.72,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Land_Conservancy_of_New_Jersey_homepage.png",
+      "file_size_kb": 1181.4,
+      "file_size_mb": 1.15,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Nature_Conservancy_homepage.png",
+      "file_size_kb": 2377.0,
+      "file_size_mb": 2.32,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Trust_for_Public_Land_homepage.png",
+      "file_size_kb": 78.9,
+      "file_size_mb": 0.08,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "The_Trustees_of_Reservations_homepage.png",
+      "file_size_kb": 1901.8,
+      "file_size_mb": 1.86,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Walthour_Moss_Foundation_homepage.png",
+      "file_size_kb": 783.3,
+      "file_size_mb": 0.76,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "The_Wilderness_Land_Trust_homepage.png",
+      "file_size_kb": 1432.6,
+      "file_size_mb": 1.4,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Thousand_Islands_Land_Trust_homepage.png",
+      "file_size_kb": 1460.3,
+      "file_size_mb": 1.43,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Three_Rivers_Land_Trust_homepage.png",
+      "file_size_kb": 1783.7,
+      "file_size_mb": 1.74,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Triangle_Land_Conservancy_homepage.png",
+      "file_size_kb": 609.7,
+      "file_size_mb": 0.6,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Tug_Hill_Tomorrow_Land_Trust_homepage.png",
+      "file_size_kb": 2939.6,
+      "file_size_mb": 2.87,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Upper_Peninsula_Land_Conservancy_homepage.png",
+      "file_size_kb": 2467.5,
+      "file_size_mb": 2.41,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Upper_Saco_Valley_Land_Trust_homepage.png",
+      "file_size_kb": 1251.2,
+      "file_size_mb": 1.22,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Upper_Valley_Land_Trust_homepage.png",
+      "file_size_kb": 32.6,
+      "file_size_mb": 0.03,
+      "quality": "delete",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "DELETE - File too small, likely error page"
+      ]
+    },
+    {
+      "filename": "Vinalhaven_Land_Trust_homepage.png",
+      "file_size_kb": 2061.5,
+      "file_size_mb": 2.01,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Vital_Ground_Foundation_homepage.png",
+      "file_size_kb": 2470.4,
+      "file_size_mb": 2.41,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Wallkill_Valley_Land_Trust_homepage.png",
+      "file_size_kb": 1793.5,
+      "file_size_mb": 1.75,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Wareham_Land_Trust_homepage.png",
+      "file_size_kb": 13.4,
+      "file_size_mb": 0.01,
+      "quality": "delete",
+      "issues": [
+        "Very small file size"
+      ],
+      "recommendations": [
+        "DELETE - File too small, likely error page"
+      ]
+    },
+    {
+      "filename": "Weeks_Bay_Foundation_homepage.png",
+      "file_size_kb": 92.4,
+      "file_size_mb": 0.09,
+      "quality": "review",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "May be incomplete page - REVIEW"
+      ]
+    },
+    {
+      "filename": "Westchester_Land_Trust_homepage.png",
+      "file_size_kb": 40.1,
+      "file_size_mb": 0.04,
+      "quality": "delete",
+      "issues": [
+        "Small file size"
+      ],
+      "recommendations": [
+        "DELETE - File too small, likely error page"
+      ]
+    },
+    {
+      "filename": "Western_New_York_Land_Conservancy_homepage.png",
+      "file_size_kb": 1591.4,
+      "file_size_mb": 1.55,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Wetlands_America_Trust_affiliate__homepage.png",
+      "file_size_kb": 1587.9,
+      "file_size_mb": 1.55,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Winnakee_Land_Trust_homepage.png",
+      "file_size_kb": 187.3,
+      "file_size_mb": 0.18,
+      "quality": "good",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Wood_River_Land_Trust_homepage.png",
+      "file_size_kb": 1213.1,
+      "file_size_mb": 1.18,
+      "quality": "excellent",
+      "issues": [],
+      "recommendations": []
+    },
+    {
+      "filename": "Woodstock_Land_Conservancy_homepage.png",
+      "file_size_kb": 2429.0,
+      "file_size_mb": 2.37,
+      "quality": "crop",
+      "issues": [],
+      "recommendations": []
+    }
+  ]
+}

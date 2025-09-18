@@ -1,0 +1,2167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DCLT Projects - Unified Gantt Chart</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #F8F9FA; }
+        .header { text-align: center; margin-bottom: 30px; }
+        .header h1 { color: #2C3E50; margin: 0; }
+        .chart-container { background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+                           overflow-x: auto; padding: 20px; }
+        .project-group:hover rect { opacity: 1; stroke-width: 3; }
+        .legend { display: flex; gap: 20px; margin-bottom: 20px; flex-wrap: wrap; }
+        .legend-item { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+        .legend-color { width: 20px; height: 20px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>DCLT Projects - Unified Gantt Chart</h1>
+        <p>Generated: 2025-09-18 12:50:21 | Projects: 106</p>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-item"><div class="legend-color" style="background: #27AE60;"></div>Completed</div>
+        <div class="legend-item"><div class="legend-color" style="background: #F39C12;"></div>Active/In Progress</div>
+        <div class="legend-item"><div class="legend-color" style="background: #3498DB;"></div>Planning</div>
+        <div class="legend-item"><div class="legend-color" style="background: #95A5A6;"></div>On Hold</div>
+    </div>
+    
+    <div class="chart-container">
+        <svg width="100%" height="6560" viewBox="0 0 1500 6560">
+            <g class="timeline-header">
+            <rect x="200" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="250.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Jul 2025</text>
+            
+            <rect x="300" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="350.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Aug 2025</text>
+            
+            <rect x="400" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="450.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Sep 2025</text>
+            
+            <rect x="500" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="550.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Oct 2025</text>
+            
+            <rect x="600" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="650.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Nov 2025</text>
+            
+            <rect x="700" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="750.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Dec 2025</text>
+            
+            <rect x="800" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="850.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Jan 2026</text>
+            
+            <rect x="900" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="950.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Feb 2026</text>
+            
+            <rect x="1000" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1050.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Mar 2026</text>
+            
+            <rect x="1100" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1150.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Apr 2026</text>
+            
+            <rect x="1200" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1250.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">May 2026</text>
+            
+            <rect x="1300" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1350.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Jun 2026</text>
+            
+            <rect x="1400" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1450.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Jul 2026</text>
+            
+            <rect x="1500" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1550.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Aug 2026</text>
+            
+            <rect x="1600" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1650.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Sep 2026</text>
+            
+            <rect x="1700" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1750.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Oct 2026</text>
+            
+            <rect x="1800" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1850.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Nov 2026</text>
+            
+            <rect x="1900" y="20" width="100" height="25" 
+                  fill="#3498DB" opacity="0.7"/>
+            <text x="1950.0" y="37" 
+                  font-family="Arial" font-size="12" font-weight="bold"
+                  fill="white" text-anchor="middle">Dec 2026</text>
+            </g>
+            <defs>
+                <pattern id="grid" width="100" height="60" patternUnits="userSpaceOnUse">
+                    <path d="M 100 0 L 0 0 0 60" fill="none" stroke="#ECF0F1" stroke-width="1"/>
+                </pattern>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#grid)" opacity="0.3"/>
+            
+            <g class="project-group">
+                <rect x="220" y="100" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="125" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      2026 Annual Comms Planning
+                </text>
+                <rect x="330" y="105" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="117" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      NOT_STARTED
+                </text>
+                <text x="220" y="155" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="160" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="185" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Draft Email Copy
+                </text>
+                <rect x="330" y="165" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="177" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="215" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="220" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="245" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Set Up Automation
+                </text>
+                <rect x="330" y="225" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="237" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="275" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="280" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="305" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Testing & QA
+                </text>
+                <rect x="330" y="285" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="297" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="335" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="340" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="365" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      2026 Nature Notes Calendar
+                </text>
+                <rect x="330" y="345" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="357" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="395" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="400" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="425" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Layout Design
+                </text>
+                <rect x="330" y="405" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="417" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="455" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="460" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="485" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Photography Selection
+                </text>
+                <rect x="330" y="465" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="477" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="515" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="520" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="545" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Print Vendor Setup
+                </text>
+                <rect x="330" y="525" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="537" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="575" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="401.45985401459853" y="580" width="232.11678832116792" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="605" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      2026 Nature Notes Calendar
+                </text>
+                <rect x="643.5766423357665" y="585" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="683.5766423357665" y="597" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="401.45985401459853" y="635" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      2025-10-01 → 2026-01-15
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="640" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="665" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Layout Design
+                </text>
+                <rect x="330" y="645" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="657" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="695" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="700" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="725" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Photography Selection
+                </text>
+                <rect x="330" y="705" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="717" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="755" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="760" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="785" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Print Vendor Setup
+                </text>
+                <rect x="330" y="765" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="777" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="815" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="820" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="845" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Brand_System_2026
+                </text>
+                <rect x="330" y="825" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="837" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="875" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="880" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="905" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      CROSS-SYNTHESIS OF STAFF INTERVIEWS
+                </text>
+                <rect x="330" y="885" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="897" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="935" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="940" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="965" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      CTA Panel
+                </text>
+                <rect x="330" y="945" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="957" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="995" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1000" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1025" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Custom Block Development Plan - Door County Land Trust
+                </text>
+                <rect x="330" y="1005" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1017" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1055" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1060" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1085" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      DCLT Internal Resource Hub (Intranet Planning)
+                </text>
+                <rect x="330" y="1065" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1077" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1115" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1120" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1145" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Dashboard
+                </text>
+                <rect x="330" y="1125" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1137" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1175" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1180" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1205" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Dashboard_Index
+                </text>
+                <rect x="330" y="1185" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1197" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1235" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1240" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1265" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Donation Tube Vinyl Stickers
+                </text>
+                <rect x="330" y="1245" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1257" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      NOT_STARTED
+                </text>
+                <text x="220" y="1295" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1300" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1325" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Drip Emails for New Members
+                </text>
+                <rect x="330" y="1305" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1317" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="1355" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1360" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1385" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Drip Emails for New Members
+                </text>
+                <rect x="330" y="1365" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1377" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="1415" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1420" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="1445" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Draft Email Copy
+                </text>
+                <rect x="330" y="1425" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1437" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="1475" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1480" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="1505" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Set Up Automation
+                </text>
+                <rect x="330" y="1485" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1497" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="1535" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1540" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="1565" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Testing & QA
+                </text>
+                <rect x="330" y="1545" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="1557" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="1595" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1600" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1625" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Event Block
+                </text>
+                <rect x="330" y="1605" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1617" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1655" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1660" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1685" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      FAQ
+                </text>
+                <rect x="330" y="1665" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1677" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1715" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1720" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1745" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Featured Story
+                </text>
+                <rect x="330" y="1725" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1737" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1775" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1780" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1805" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Footer Signup
+                </text>
+                <rect x="330" y="1785" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1797" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1835" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1840" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1865" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Hero
+                </text>
+                <rect x="330" y="1845" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1857" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1895" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1900" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1925" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Home Page (index)
+                </text>
+                <rect x="330" y="1905" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1917" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="1955" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="1960" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="1985" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Impact Panel
+                </text>
+                <rect x="330" y="1965" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="1977" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2015" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2020" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2045" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Land-Seller & Realtor Interviews
+                </text>
+                <rect x="330" y="2025" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2037" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2075" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2080" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2105" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Design Draft
+                </text>
+                <rect x="330" y="2085" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2097" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2135" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2140" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2165" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Print & Install
+                </text>
+                <rect x="330" y="2145" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2157" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2195" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2200" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2225" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Research Content
+                </text>
+                <rect x="330" y="2205" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2217" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2255" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2260" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2285" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Letterhead Template for Renewals
+                </text>
+                <rect x="330" y="2265" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2277" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      NOT_STARTED
+                </text>
+                <text x="220" y="2315" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2320" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2345" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Map Embed
+                </text>
+                <rect x="330" y="2325" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2337" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2375" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2380" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2405" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Page Header
+                </text>
+                <rect x="330" y="2385" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2397" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2435" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2440" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2465" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Pebble Beach Kiosk Panels
+                </text>
+                <rect x="330" y="2445" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2457" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2495" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2500" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2525" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Pebble Beach Kiosk Panels
+                </text>
+                <rect x="330" y="2505" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2517" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2555" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2560" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2585" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Design Draft
+                </text>
+                <rect x="330" y="2565" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2577" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2615" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2620" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2645" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Print & Install
+                </text>
+                <rect x="330" y="2625" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2637" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2675" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2680" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="2705" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Research Content
+                </text>
+                <rect x="330" y="2685" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="2697" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="2735" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2740" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2765" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Preserve Grid
+                </text>
+                <rect x="330" y="2745" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2757" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2795" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2800" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2825" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Related Content
+                </text>
+                <rect x="330" y="2805" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2817" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2855" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2860" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2885" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Statistic Panel
+                </text>
+                <rect x="330" y="2865" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2877" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2915" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2920" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="2945" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Storytelling CRM Overlay System
+                </text>
+                <rect x="330" y="2925" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="2937" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="2975" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="2980" width="100" height="35"
+                      fill="#F39C12" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3005" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Website Overhaul
+                </text>
+                <rect x="330" y="2985" width="80" height="20"
+                      fill="#F39C12" rx="10"/>
+                <text x="370" y="2997" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      IN_PROGRESS
+                </text>
+                <text x="220" y="3035" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3040" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3065" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Content Migration Plan
+                </text>
+                <rect x="330" y="3045" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="3057" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="3095" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3100" width="100" height="35"
+                      fill="#F39C12" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3125" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Preserve Explorer Map Build
+                </text>
+                <rect x="330" y="3105" width="80" height="20"
+                      fill="#F39C12" rx="10"/>
+                <text x="370" y="3117" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      IN-PROGRESS
+                </text>
+                <text x="220" y="3155" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3160" width="100" height="35"
+                      fill="#27AE60" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3185" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Wireframes - Homepage
+                </text>
+                <rect x="330" y="3165" width="80" height="20"
+                      fill="#27AE60" rx="10"/>
+                <text x="370" y="3177" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      COMPLETED
+                </text>
+                <text x="220" y="3215" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="200.0" y="3220" width="529.9270072992701" height="35"
+                      fill="#F39C12" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3245" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Website Overhaul (2025–2026)
+                </text>
+                <rect x="739.9270072992701" y="3225" width="80" height="20"
+                      fill="#F39C12" rx="10"/>
+                <text x="779.9270072992701" y="3237" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      ACTIVE
+                </text>
+                <text x="200.0" y="3275" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      2025-07-01 → 2026-02-28
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3280" width="100" height="35"
+                      fill="#3498DB" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3305" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Content Migration Plan
+                </text>
+                <rect x="330" y="3285" width="80" height="20"
+                      fill="#3498DB" rx="10"/>
+                <text x="370" y="3297" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      PLANNING
+                </text>
+                <text x="220" y="3335" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3340" width="100" height="35"
+                      fill="#F39C12" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3365" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Preserve Explorer Map Build
+                </text>
+                <rect x="330" y="3345" width="80" height="20"
+                      fill="#F39C12" rx="10"/>
+                <text x="370" y="3357" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      IN-PROGRESS
+                </text>
+                <text x="220" y="3395" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3400" width="100" height="35"
+                      fill="#27AE60" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="60" y="3425" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      └ Wireframes - Homepage
+                </text>
+                <rect x="330" y="3405" width="80" height="20"
+                      fill="#27AE60" rx="10"/>
+                <text x="370" y="3417" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      COMPLETED
+                </text>
+                <text x="220" y="3455" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3460" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3485" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Website Overhaul Roadmap (2025–2026)
+                </text>
+                <rect x="330" y="3465" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3477" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3515" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3520" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3545" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      Website Strategy Hub
+                </text>
+                <rect x="330" y="3525" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3537" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3575" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3580" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3605" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Preserve Explorer Project Hub
+                </text>
+                <rect x="330" y="3585" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3597" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3635" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3640" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3665" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Preserve IA (Overview & Routing)
+                </text>
+                <rect x="330" y="3645" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3657" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3695" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3700" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3725" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Public-Facing Land Protection Priorities – Comms Brief
+                </text>
+                <rect x="330" y="3705" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3717" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3755" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3760" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3785" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Retired Approach - Astro + Headless WP Technical Implementation ()
+                </text>
+                <rect x="330" y="3765" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3777" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3815" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3820" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3845" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Strategic Initiatives – Web Integration Build Spec
+                </text>
+                <rect x="330" y="3825" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3837" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3875" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3880" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3905" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Technical Implementation ()
+                </text>
+                <rect x="330" y="3885" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3897" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3935" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="3940" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="3965" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Video Strategy & Production Hub
+                </text>
+                <rect x="330" y="3945" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="3957" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="3995" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4000" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4025" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Website CTAs & Messaging Updates
+                </text>
+                <rect x="330" y="4005" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4017" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4055" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4060" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4085" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Website Content Strategy and Migration Plan
+                </text>
+                <rect x="330" y="4065" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4077" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4115" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4120" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4145" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — Website Evaluation
+                </text>
+                <rect x="330" y="4125" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4137" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4175" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4180" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4205" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      — 🌲 Preserve Detail (Updated for In-App Panel UX)
+                </text>
+                <rect x="330" y="4185" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4197" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4235" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4240" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4265" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— 2025 Little Sturgeon Land Project – Comms & Fundraising
+                </text>
+                <rect x="330" y="4245" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4257" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4295" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4300" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4325" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Administrative
+                </text>
+                <rect x="330" y="4305" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4317" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4355" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4360" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4385" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— CE Info Page – Wireframe Outline
+                </text>
+                <rect x="330" y="4365" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4377" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4415" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4420" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4445" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Conservation Director
+                </text>
+                <rect x="330" y="4425" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4437" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4475" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4480" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4505" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Conservation Easement Program Manager
+                </text>
+                <rect x="330" y="4485" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4497" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4535" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4540" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4565" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Content Briefs
+                </text>
+                <rect x="330" y="4545" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4557" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4595" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4600" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4625" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Content Types & Modeling
+                </text>
+                <rect x="330" y="4605" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4617" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4655" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4660" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4685" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— DCLT Website & Communications Alignment
+                </text>
+                <rect x="330" y="4665" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4677" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4715" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4720" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4745" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Ecological Restoration Manager
+                </text>
+                <rect x="330" y="4725" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4737" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4775" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4780" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4805" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Evergreen Content Series Tracker
+                </text>
+                <rect x="330" y="4785" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4797" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4835" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4840" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4865" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Executive Director
+                </text>
+                <rect x="330" y="4845" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4857" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4895" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4900" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4925" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Homepage Wireframe
+                </text>
+                <rect x="330" y="4905" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4917" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="4955" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="4960" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="4985" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Improved Homepage Mockup Concept
+                </text>
+                <rect x="330" y="4965" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="4977" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5015" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5020" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5045" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Information Architecture
+                </text>
+                <rect x="330" y="5025" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5037" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5075" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5080" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5105" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Land Project Manager
+                </text>
+                <rect x="330" y="5085" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5097" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5135" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5140" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5165" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Land Protection Manager
+                </text>
+                <rect x="330" y="5145" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5157" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5195" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5200" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5225" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Public-Facing Land Protection Priorities – Content Ideas
+                </text>
+                <rect x="330" y="5205" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5217" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5255" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5260" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5285" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Staff Interviews & Departmental Input
+                </text>
+                <rect x="330" y="5265" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5277" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5315" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5320" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5345" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Stewardship Field Coordinator
+                </text>
+                <rect x="330" y="5325" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5337" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5375" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5380" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5405" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Strategic Plan () – Public Content Brief
+                </text>
+                <rect x="330" y="5385" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5397" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5435" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5440" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5465" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Tech Stack & Architecture
+                </text>
+                <rect x="330" y="5445" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5457" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5495" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5500" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5525" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Volunteer Interest Page — Find Your Role in Conservation
+                </text>
+                <rect x="330" y="5505" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5517" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5555" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5560" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5585" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— Wireframes - DCLT Website Redesign
+                </text>
+                <rect x="330" y="5565" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5577" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5615" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5620" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5645" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      —— 🔭 Overview – Website Strategy (2025)
+                </text>
+                <rect x="330" y="5625" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5637" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5675" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5680" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5705" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— About
+                </text>
+                <rect x="330" y="5685" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5697" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5735" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5740" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5765" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Contact
+                </text>
+                <rect x="330" y="5745" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5757" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5795" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5800" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5825" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Donate
+                </text>
+                <rect x="330" y="5805" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5817" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5855" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5860" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5885" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Get Involved
+                </text>
+                <rect x="330" y="5865" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5877" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5915" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5920" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="5945" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Peer Website IA Scan
+                </text>
+                <rect x="330" y="5925" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5937" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="5975" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="5980" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6005" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Protect Your Land Hub (for Landowners)
+                </text>
+                <rect x="330" y="5985" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="5997" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6035" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6040" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6065" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Stories
+                </text>
+                <rect x="330" y="6045" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6057" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6095" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6100" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6125" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      ——— Website Sitemap - Draft V1
+                </text>
+                <rect x="330" y="6105" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6117" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6155" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6160" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6185" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      📊 CRM Reporting Dashboards
+                </text>
+                <rect x="330" y="6165" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6177" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6215" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6220" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6245" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      📊 Privacy-Friendly Analytics Setup
+                </text>
+                <rect x="330" y="6225" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6237" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6275" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6280" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6305" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      📍 Preserve Experience (Explore Section)
+                </text>
+                <rect x="330" y="6285" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6297" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6335" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6340" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6365" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      🧠 UX + Interaction Design Decisions Log
+                </text>
+                <rect x="330" y="6345" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6357" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6395" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+            <g class="project-group">
+                <rect x="220" y="6400" width="100" height="35"
+                      fill="#BDC3C7" stroke="#2C3E50" stroke-width="2" rx="4" opacity="0.8"/>
+                <text x="20" y="6425" 
+                      font-family="Arial" font-size="14" font-weight="bold" fill="#2C3E50">
+                      🧩 ACF Field Definitions – DCLT Custom Theme
+                </text>
+                <rect x="330" y="6405" width="80" height="20"
+                      fill="#BDC3C7" rx="10"/>
+                <text x="370" y="6417" 
+                      font-family="Arial" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+                      UNKNOWN
+                </text>
+                <text x="220" y="6455" 
+                      font-family="Arial" font-size="10" fill="#7F8C8D">
+                      TBD → TBD
+                </text>
+            </g>
+            
+        </svg>
+    </div>
+</body>
+</html>
