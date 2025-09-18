@@ -17,7 +17,7 @@ tags:
 created_date: '2025-09-11'
 last_updated: '2025-09-11'
 ---
-# Elizabeth Ward – Gaining Ground Communications Research (2025-07-24)
+# Elizabeth Ward - Gaining Ground Communications Research (2025-07-24)
 
 **Category:** 📚 Messaging & Engagement Research
 
@@ -33,9 +33,9 @@ Elizabeth Ward presented research and message strategy for the *Gaining Ground* 
 
 ## **Key Communications Principles (“Truisms”)**
 
-1. **Always start with the audience** – Focus on those most likely to support you.
-2. **You are not the audience** – Motivators differ from your own.
-3. **Context matters** – Ask the right comparative questions to reveal true priorities.
+1. **Always start with the audience** - Focus on those most likely to support you.
+2. **You are not the audience** - Motivators differ from your own.
+3. **Context matters** - Ask the right comparative questions to reveal true priorities.
 
 ---
 
@@ -59,13 +59,13 @@ Elizabeth Ward presented research and message strategy for the *Gaining Ground* 
 - 79% agree certain nature smells/sounds bring happy memories.
 - 61% say love of nature is one of their strongest feelings.
 - 47% enjoy nature more than anything else.
-- **44% also say other issues take priority over nature/wildlife** (Slide 10 – key competing priorities stat).
+- **44% also say other issues take priority over nature/wildlife** (Slide 10 - key competing priorities stat).
 
 ---
 
 ### **3. Water as #1 Concern**
 
-Gallup March 2025 – % “Worry a great deal”:
+Gallup March 2025 - % “Worry a great deal”:
 
 - Pollution of drinking water: 54%
 - Pollution of rivers/lakes/reservoirs: 51%
@@ -97,7 +97,7 @@ Gallup March 2025 – % “Worry a great deal”:
 
 ## **Audience Segmentation**
 
-**High Prospects (“Cereal Eaters”)** – ~33M Americans
+**High Prospects (“Cereal Eaters”)** - ~33M Americans
 
 - Younger (esp. Millennials), diverse (Latinx & Black over-representation), urban/suburban, high-income, college-educated, likely have kids.
 - Strong emotional connection to conservation; willing to act even without direct personal benefit.
@@ -110,7 +110,7 @@ Gallup March 2025 – % “Worry a great deal”:
 
 ---
 
-## **Message Testing – Most Compelling Reasons to Support Land Trusts**
+## **Message Testing - Most Compelling Reasons to Support Land Trusts**
 
 1. **Permanent protection for future generations** *(#1 reason)*
 2. **Equal access** to clean air, clean water, land for all.
@@ -131,7 +131,7 @@ Gallup March 2025 – % “Worry a great deal”:
 
 ## **Strategic Implications**
 
-- **Lead with water** – universal, bipartisan, high-urgency entry point.
+- **Lead with water** - universal, bipartisan, high-urgency entry point.
 - **Position conservation as a solution** to audience-priority issues (health, safety, legacy, climate resilience).
 - **Leverage bipartisan strength** in advocacy and donor outreach.
 - **Integrate numbers visually** in materials for credibility (e.g., “95% bipartisan support”).

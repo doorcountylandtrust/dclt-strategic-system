@@ -25,7 +25,7 @@ Historical document lives at '/Volumes/DCLT/MOD (Membership Outreach Development
 
 - Reinforces why upfront communication planning is critical to meeting deadlines and expectations.
 - Encourages *clear role assignments, predictable check-ins*, and *executive-level summaries* for stakeholders.
-- Advocates for moving from ad hoc to systematized comms — helpful if you're trying to improve internal project management.
+- Advocates for moving from ad hoc to systematized comms - helpful if you're trying to improve internal project management.
 
 **2. Practical Framework**
 

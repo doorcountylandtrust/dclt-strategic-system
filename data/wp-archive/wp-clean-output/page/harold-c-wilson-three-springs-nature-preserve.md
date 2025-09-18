@@ -1,3 +1,9 @@
+---
+title: "harold-c-wilson-three-springs-nature-preserve"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Harold C. Wilson Three Springs Nature Preserve
 
 *Date:* 2014-11-11 22:57:09

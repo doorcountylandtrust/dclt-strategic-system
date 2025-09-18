@@ -1,3 +1,9 @@
+---
+title: "ephraim-preserve-at-anderson-pond"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Ephraim Preserve at Anderson Pond
 
 *Date:* 2014-11-12 08:16:28

@@ -1,3 +1,9 @@
+---
+title: "detroit-harbor-nature-preserve"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Detroit Harbor Nature Preserve
 
 *Date:* 2014-11-11 21:30:12

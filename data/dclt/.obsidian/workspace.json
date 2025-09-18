@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
-                "mode": "source",
+                "file": "02_EXECUTION/10_Projects/Dashboard.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brand + Website Executive Summary"
+              "title": "Dashboard"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 634.5
   },
   "right": {
     "id": "31137e3c06613c6c",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
+                "file": "1 STRATEGY/2026 Budgeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brand + Website Executive Summary"
+              "title": "Backlinks for 2026 Budgeting"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
+                "file": "1 STRATEGY/2026 Budgeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brand + Website Executive Summary"
+              "title": "Outgoing links from 2026 Budgeting"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 EXECUTION/Brand + Website Executive Summary.md",
+                "file": "1 STRATEGY/2026 Budgeting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brand + Website Executive Summary"
+              "title": "Outline of 2026 Budgeting"
             }
           }
         ]
@@ -171,41 +171,41 @@
   },
   "active": "2670084e79ea4304",
   "lastOpenFiles": [
-    "2 EXECUTION/📋 Master Task Tracker (2025-2026).md",
-    "2 EXECUTION/Website Strategy Hub/🧠 UX + Interaction Design Decisions Log.md",
-    "2 EXECUTION/Website Strategy Hub/— Website Evaluation.md",
-    "2 EXECUTION/Website Strategy Hub/— Public-Facing Land Protection Priorities – Comms.md",
-    "2 EXECUTION/Website Strategy Hub/— Strategic Initiatives – Web Integration Build Sp.md",
-    "3 REFERENCE & TOOLS/Other Brands for Research/Land Trust Digital Competitive Analysis.md",
-    "2 EXECUTION/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Content Briefs/—— Public-Facing Land Protection Priorities – Cont.md",
-    "2 EXECUTION/Website Strategy Hub/— Technical Implementation (2025–2026 Build)/— Retired Approach - Astro + Headless WP Technical/—— Tech Stack & Architecture.md",
-    "2 EXECUTION/Website Strategy Hub/— Public-Facing Land Protection Priorities – Comms/—— 2025 Little Sturgeon Land Project – Comms & Fun.md",
-    "2 EXECUTION/Website Strategy Hub.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Schedule First Round Interviews.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Report Back to Conservation Director.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Refine Interview Questions.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Interview Carl Barnard.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Interview 3 More Sellers.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Draft Land Seller Summary Report.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Document Carl's Speech.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Design Messaging Tests.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Deploy Messaging Pilot.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Code Interview Themes.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Untitled.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/LP Door Farms.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Kristin Duffey & Jeanne Kress.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/John & Susan Schartner.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jim Harris.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled/Jeff Larson & Family.md",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Untitled",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Case Study Carl Barnard",
-    "1 STRATEGY/Comms Strategy Master Hub/📁 Membership Strategy Hub/— Modern Membership Strategy & Research Brief",
-    "1 STRATEGY/Comms Strategy Master Hub/📁 Membership Strategy Hub/— Fall–Winter 2025 New Member Campaign (Execution",
-    "1 STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/—— Messaging Frameworks & Lenses",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study",
-    "1 STRATEGY/Land Seller Experience Study (2025)/List of Interviewees",
-    "1 STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences",
-    "1 STRATEGY/Comms Strategy Master Hub/📁 Membership Strategy Hub"
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/subtasks/Testing_&_QA.md",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/subtasks/Set_Up_Automation.md",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/subtasks/Draft_Email_Copy.md",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/subtasks",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/Drip_Emails_for_New_Members.md",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels/subtasks/Research_Content.md",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels/subtasks/Print_&_Install.md",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels/subtasks/Design_Draft.md",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels/subtasks",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels/Pebble_Beach_Kiosk_Panels.md",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Print_Vendor_Setup.md",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Photography_Selection.md",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Layout_Design.md",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/2026_Nature_Notes_Calendar.md",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Wireframes_-_Homepage.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Preserve_Explorer_Map_Build.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration_Plan.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)",
+    "02_EXECUTION/10_Projects/Brand_System_(2026)/subtasks/Moodboard_Evaluation.md",
+    "02_EXECUTION/10_Projects/Brand_System_(2026)/subtasks/Logo_Draft_Round_1.md",
+    "02_EXECUTION/10_Projects/Brand_System_(2026)/subtasks/Focus_Group_Analysis.md",
+    "02_EXECUTION/10_Projects/Brand_System_(2026)/subtasks",
+    "02_EXECUTION/10_Projects/Brand_System_(2026)/Brand_System_(2026).md",
+    "02_EXECUTION/10_Projects/Dashboards/Projects_Dashboard.html",
+    "02_EXECUTION/10_Projects/Dashboard_Index.md",
+    "02_EXECUTION/10_Projects/Donation_Tube_Vinyl_Stickers.md",
+    "02_EXECUTION/10_Projects/Dashboard.md",
+    "02_EXECUTION/10_Projects/Pebble_Beach_Kiosk_Panels.md",
+    "02_EXECUTION/10_Projects/2026_Annual_Comms_Planning.md",
+    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar.md"
   ]
 }

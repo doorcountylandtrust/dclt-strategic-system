@@ -31,7 +31,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
 
 **Margin of Error:** ±3.73% at 95% confidence level
 
-> ⚠️ Caveat: This sample reflects DCLT’s most engaged members – those who already read, visit, and give. The casually connected or at-risk audiences are likely underrepresented.
+> ⚠️ Caveat: This sample reflects DCLT’s most engaged members - those who already read, visit, and give. The casually connected or at-risk audiences are likely underrepresented.
 > 
 
 ---
@@ -85,8 +85,8 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | Bicycling | 61.7% | ↑ Strong (Top 3) | ↑ |
     | Birdwatching | 52.5% | ↑ Very strong | ↑ |
     | Snowmobiling | 37.0% | ↓ Near zero | ↓ |
-    | Hunting | 9.3% | Still low | — |
-    | Swimming | 36.4% | Holding steady | — |
+    | Hunting | 9.3% | Still low | - |
+    | Swimming | 36.4% | Holding steady | - |
 - **Employment Status Comparison Table**
     
     
@@ -139,7 +139,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | 50 to 99 years | 125 | 21.82% | 23.29% |
     | 100 years or more | 110 | 19.21% | 9.00% |
     
-    🧭 **Observation**: Legacy ties remain strong, but there’s a notable increase in respondents reporting 100+ year family ties — up from 9% in 2015 to ~19% in 2025. Newer connections (<25 years) have shrunk in proportion, suggesting a legacy-weighted audience.
+    🧭 **Observation**: Legacy ties remain strong, but there’s a notable increase in respondents reporting 100+ year family ties - up from 9% in 2015 to ~19% in 2025. Newer connections (<25 years) have shrunk in proportion, suggesting a legacy-weighted audience.
     
 - **Visitation Frequency Comparison Table**
     
@@ -148,10 +148,10 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | --- | --- | --- | --- |
     | Once per year or less | 20% | 15.14% | ↑ |
     | 2 to 4 times per year | 30% | 35.86% | ↓ |
-    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | — |
+    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | - |
     | I have never visited a DCLT preserve | 5% | 3.00% | ↑ |
     
-    🧭 **Observation**: High engagement (5+ visits) is consistent over the decade, while those who *never* visit have increased slightly. Fewer respondents fall into the moderate (2–4x) category, suggesting an opportunity to guide low/moderate users toward deeper engagement.
+    🧭 **Observation**: High engagement (5+ visits) is consistent over the decade, while those who *never* visit have increased slightly. Fewer respondents fall into the moderate (2-4x) category, suggesting an opportunity to guide low/moderate users toward deeper engagement.
     
     ---
     
@@ -169,7 +169,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | I am not connected to the Land Trust | **~6%** | 7.29% |
     | Other | **~10%** *(* | 6.14% |
     
-    📌 **Insight:** Financial support remains strong and consistent. Declines in event and social engagement suggest a growing reliance on donors over community programming — an opportunity to **diversify engagement pathways** beyond fundraising.
+    📌 **Insight:** Financial support remains strong and consistent. Declines in event and social engagement suggest a growing reliance on donors over community programming - an opportunity to **diversify engagement pathways** beyond fundraising.
     
     The 2025 data shows that while **financial support is stable** (~84%, matching 2015), there’s been a notable **drop in social event attendance** (~30%, down from 43%), indicating reduced engagement in communal or in-person touchpoints. Meanwhile, **volunteering and legacy giving (bequests)** have held steady or slightly increased, and **direct land contributions** saw a small rise.
     
@@ -186,17 +186,17 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | --- | --- | --- |
     | Yes (relevant) | ~95% | 86.29% (combined 4 + 5 ratings) |
     | No (not relevant) | ~5% | 1.86% (combined 1 + 2 ratings) |
-    | Neutral / Mixed | – | 6.00% (3 rating) |
-    | Did not answer | – | 5.86% |
+    | Neutral / Mixed | - | 6.00% (3 rating) |
+    | Did not answer | - | 5.86% |
     
-    > 2015 Question: “How informative do you find the Door County Land Trust’s communications?” (1–5 scale)
+    > 2015 Question: “How informative do you find the Door County Land Trust’s communications?” (1-5 scale)
     Weighted average score:
     > 
     > 
     > **4.46**
     > 
     
-    📌 **Insight:** Relevance perception remains strong and has likely improved. In 2025, an overwhelming majority of engaged members affirm the value of communications — a critical validation for current tone, cadence, and content alignment.
+    📌 **Insight:** Relevance perception remains strong and has likely improved. In 2025, an overwhelming majority of engaged members affirm the value of communications - a critical validation for current tone, cadence, and content alignment.
     
     ---
     
@@ -207,7 +207,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | --- | --- | --- | --- |
     | Once per year or less | 20% | 15.14% | ↑ |
     | 2 to 4 times per year | 30% | 35.86% | ↓ |
-    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | — |
+    | 5 or more times per year *(2025 combined)* | 45% | 45.28%* | - |
     | I have never visited a DCLT preserve | 5% | 3.00% | ↑ |
     
     📌 **Insight:** Science and land care dominate member interest both years. Promotion-leaning topics remain low-priority. There’s slight growth in interest around transparency (funding) and acquisition mechanics
@@ -220,7 +220,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
     | **Giving Priority** | **2025 % (est.)** | **2015 %** |
     | --- | --- | --- |
     | The primary nonprofit I contribute to | 5% | 5.57% |
-    | Among the top 3 nonprofits I support | 20% | — |
+    | Among the top 3 nonprofits I support | 20% | - |
     | Among the top 5 nonprofits I support | 22% | 40.71% |
     | Among the top 10 nonprofits I support | 24% | 31.14% |
     | Not in top 10 | 15% | 17.57% |
@@ -280,15 +280,15 @@ Lessons Learned: Communications are highly effective among long-term members, bu
 
 ### 🪡 NLP-Based Keyword Clusters (LDA Analysis)
 
-**Theme 1: Preservation & Beauty** – land, natural, preserve, beauty, water
+**Theme 1: Preservation & Beauty** - land, natural, preserve, beauty, water
 
-**Theme 2: Protection & Wildlife** – protection, wildlife, areas, development
+**Theme 2: Protection & Wildlife** - protection, wildlife, areas, development
 
-**Theme 3: Development Pressure** – development, properties, need, nature
+**Theme 3: Development Pressure** - development, properties, need, nature
 
-**Theme 4: Trust & Mission** – believe, preserving, trust, space, legacy
+**Theme 4: Trust & Mission** - believe, preserving, trust, space, legacy
 
-**Theme 5: Updates & Engagement** – updates, animals, environment, future
+**Theme 5: Updates & Engagement** - updates, animals, environment, future
 
 ---
 
@@ -306,7 +306,7 @@ Lessons Learned: Communications are highly effective among long-term members, bu
 
 ### 🚀 Communications Manager Takeaway
 
-> “Your communications are working — for the people who already love you. Growth now depends on reaching the unengaged and improving the first-year member experience.”
+> “Your communications are working - for the people who already love you. Growth now depends on reaching the unengaged and improving the first-year member experience.”
 > 
 
 ---
@@ -338,7 +338,7 @@ Using open-ended responses from the question:
     - **Sentiment:** Strong ecological focus; deep familiarity with stewardship issues.
     - **Interpretation:** These members are *land literate*. They support restoration, policy, and habitat protection. Communications should reinforce science, progress updates, and ecosystem interdependence.
     
-    ### 🟡 Moderate Visitors (2–4 times/year)
+    ### 🟡 Moderate Visitors (2-4 times/year)
     
     - **Top keywords:** land, water, deer, development, endangered
     - **Sentiment:** Concerned and conservation-minded, but influenced by broader public narratives.
@@ -348,7 +348,7 @@ Using open-ended responses from the question:
     
     - **Top keywords:** land, access, beauty, trails
     - **Sentiment:** Motivated by aesthetics, quiet, and land enjoyment.
-    - **Interpretation:** Messaging should be about **opportunity** – what's open to explore, experience, and preserve for future use. Storytelling should evoke peace, wonder, and natural access.
+    - **Interpretation:** Messaging should be about **opportunity** - what's open to explore, experience, and preserve for future use. Storytelling should evoke peace, wonder, and natural access.
     
     ### 🔴 Never Visited a Preserve
     
@@ -362,7 +362,7 @@ Using open-ended responses from the question:
     | --- | --- | --- |
     | Frequent Visitors | Habitat, stewardship, restoration, systems thinking | "Help protect what you know" |
     | Moderate Visitors | Iconic species, threatened areas, development pressure | "Join others to save what matters" |
-    | Low Visitors | Access, scenic beauty, quiet places | "Come explore — and protect it" |
+    | Low Visitors | Access, scenic beauty, quiet places | "Come explore - and protect it" |
     | Non-Visitors | Shared values, legacy, protecting Door's character | "You don’t have to visit to care" |
 
 ---
@@ -382,7 +382,7 @@ Using open-ended responses from the question:
     🔵 **5 to 9 Years**
     
     - 🔍 **Top keywords:** land, protection, water, habitat
-    - 💬 **Sentiment:** Emerging engagement. Language is more general — aligned with mission but less detailed.
+    - 💬 **Sentiment:** Emerging engagement. Language is more general - aligned with mission but less detailed.
     - 🧠 **Interpretation:** Still forming a relationship with the place. Communications should focus on access, orientation, and concrete examples of impact to build connection and trust.
     
     ---
@@ -420,7 +420,7 @@ Using open-ended responses from the question:
 | **Audience Segment (Residency)** | **Focus Messaging On** | **CTA Style** |
 | --- | --- | --- |
 | Long-timers (25+ years) | Legacy, land ethic, generational stewardship | “Protect what we’ve built together” |
-| Mid-timers (10–24 years) | Place identity, belonging, visible impact | “Keep this place the way you found it” |
+| Mid-timers (10-24 years) | Place identity, belonging, visible impact | “Keep this place the way you found it” |
 | Newer residents (<10 years) | Discovery, invitation, accessible conservation | “This land is yours to care for, too” |
 - **🔑 High-Level Trends:**
     
@@ -429,15 +429,15 @@ Using open-ended responses from the question:
     | --- | --- |
     | **Year-Round Residents** | Most likely to rank DCLT among **Top 3 or Top 5**; lowest rates of “not in top 10” |
     | **Half-Time Residents** | Very strong representation in **Top 5**, but fewer consider DCLT a primary priority |
-    | **Seasonal Residents** | Spread between **Top 10**, **Top 5**, and **Top 3** — less concentrated giving priority |
+    | **Seasonal Residents** | Spread between **Top 10**, **Top 5**, and **Top 3** - less concentrated giving priority |
     | **Frequent Visitors** | Favor **Top 3** and **Top 10** rankings, fewer top-level commitments |
     | **Occasional Visitors** | Most likely to place DCLT in **Top 10** or lower; giving is present but distributed |
     | **Non-Residents** | Vast majority (75%) say DCLT is **not among their top 10** priorities |
     
     ### **🧠 Key Takeaways:**
     
-    - **Local ties correlate with giving priority** — the more time you spend in Door County, the more likely DCLT is a top-tier cause.
-    - **Seasonal and half-time residents** show mixed loyalty — strong potential if cultivated more intentionally.
+    - **Local ties correlate with giving priority** - the more time you spend in Door County, the more likely DCLT is a top-tier cause.
+    - **Seasonal and half-time residents** show mixed loyalty - strong potential if cultivated more intentionally.
     - **Opportunity**: Occasional visitors and part-timers may be emotionally engaged but see DCLT as a “secondary” cause. Tailored messaging, impact storytelling, or peer influence could elevate commitment.
     - **Strategic Flag**: 75% of non-residents rank DCLT outside their top 10. That’s a red flag for inclusion efforts and donor diversification.
     - 
@@ -449,10 +449,10 @@ Using open-ended responses from the question:
 | **Initiative** | **Metric** | **Owner** | **Timeline** |
 | --- | --- | --- | --- |
 | Welcome email revamp | Open & renewal rate | Comms | Q2 2025 |
-| “You don’t have to visit to care” social ad | CTR, new list signups | Comms/Dev | May–June |
+| “You don’t have to visit to care” social ad | CTR, new list signups | Comms/Dev | May-June |
 1. **Persona Mapping**
     - We’re already describing behavioral personas (frequent visitors, seasonal residents, etc.).
-    - Consider adding 3–5 “lightweight personas” with name, traits, needs, and best-fit messaging.
+    - Consider adding 3-5 “lightweight personas” with name, traits, needs, and best-fit messaging.
 - 
 - “Where do we see gaps between what members care about and what we’re communicating?”
     

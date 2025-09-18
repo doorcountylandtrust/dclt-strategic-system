@@ -19,7 +19,7 @@ last_updated: '2025-09-11'
 
 ### **🎯 Campaign Objective**
 
-To highlight the history, transformation, and emotional significance of the lands we protect — inspiring community connection and action.
+To highlight the history, transformation, and emotional significance of the lands we protect - inspiring community connection and action.
 
 ### **👥 Target Audiences**
 
@@ -52,7 +52,7 @@ To highlight the history, transformation, and emotional significance of the land
 > But in 2015, something changed.
 > 
 
-> The Johnson family, who had owned this land for generations, made a decision. Instead of selling to developers, they worked with DCLT to restore the prairie—protecting it forever.
+> The Johnson family, who had owned this land for generations, made a decision. Instead of selling to developers, they worked with DCLT to restore the prairie-protecting it forever.
 > 
 
 > It wasn’t easy. Years of invasive grasses had to be cleared. Wetlands restored. Native plants reintroduced.
@@ -73,7 +73,7 @@ To highlight the history, transformation, and emotional significance of the land
 
 **What it is:** Personal storytelling series sharing emotional connections to the land.
 
-**Example Story Title:** *“I Grew Up on This Land—Now I’m Protecting It Forever”*
+**Example Story Title:** *“I Grew Up on This Land-Now I’m Protecting It Forever”*
 
 **How to tell it:**
 

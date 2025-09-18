@@ -1,3 +1,9 @@
+---
+title: "membership-and-giving"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Membership and Giving
 
 *Date:* 2014-09-14 22:18:03

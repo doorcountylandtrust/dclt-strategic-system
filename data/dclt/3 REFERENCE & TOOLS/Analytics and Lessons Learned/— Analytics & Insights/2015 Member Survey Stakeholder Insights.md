@@ -43,7 +43,7 @@ Key Takeaways:
 Marketing Implications:
 Showcase conservation wins with measurable impact (e.g., "We protected X acres from development").
 Use storytelling to highlight how land preservation directly supports wildlife and local water quality.
-Leverage advocacy messaging—position DCLT as a trusted voice on land-use policies and conservation challenges.
+Leverage advocacy messaging-position DCLT as a trusted voice on land-use policies and conservation challenges.
 3. Financial & Donor Engagement
 Insight: Members strongly value DCLT’s work and prioritize it in charitable giving.
 Key Takeaways:

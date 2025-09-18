@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24013c7c74481f8d",
+        "id": "d77560baedf1533f",
         "type": "tabs",
         "children": [
           {
-            "id": "a2aecad7e886b69a",
+            "id": "4ee9151e1e2e89fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dclt/2 EXECUTION/Website Strategy Hub/— Public-Facing Land Protection Priorities – Comms/—— 2025 Little Sturgeon Land Project – Comms & Fun.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "—— 2025 Little Sturgeon Land Project – Comms & Fun"
+              "title": "New tab"
             }
           }
         ]
@@ -166,43 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2aecad7e886b69a",
+  "active": "4ee9151e1e2e89fc",
   "lastOpenFiles": [
-    "wp-archive/wp-rest-output/audit.csv",
-    "wp-archive/wp-rest-output",
-    "wp-archive/wp_rest_export.py",
-    "dclt/3 REFERENCE & TOOLS/Other Brands for Research/Land Trust Digital Competitive Analysis.md",
-    "wp-archive/wp-clean-output/page/membership-and-giving/become-a-member.md",
-    "wp-archive/wp-clean-output/page/white-cliff-nature-preserve.md",
-    "wp-archive/wp-clean-output/page/volunteer-page.md",
-    "wp-archive/wp-clean-output/page/richter-community-forest-nature-preserve.md",
-    "wp-archive/wp-clean-output/page/home.md",
-    "wp-archive/wp-clean-output/page/portfolio.md",
-    "wp-archive/wp-clean-output/page/membership-and-giving.md",
-    "wp-archive/wp-clean-output/page/membership-and-giving",
-    "wp-archive/wp-clean-output/page/harold-c-wilson-three-springs-nature-preserve.md",
-    "wp-archive/wp-clean-output/page/little-lake-nature-preserve-3.md",
-    "wp-archive/wp-clean-output/page/ephraim-preserve-at-anderson-pond.md",
-    "wp-archive/wp-clean-output/page/domer-neff-nature-preserve-and-bird-sanctuary.md",
-    "wp-archive/wp-clean-output/page/detroit-harbor-nature-preserve.md",
-    "wp-archive/wp-clean-output/page/blog.md",
-    "wp-archive/wp-clean-output/page/bay-shore-blufflands-nature-preserve_2.md",
-    "wp-archive/wp-clean-output/page/about-celebrating-open-spaces.md",
-    "wp-archive/wp-clean-output/page",
-    "wp-archive/wp-clean-output/index.csv",
-    "wp-archive/wp-clean-output",
-    "wp-archive/wp-output/page/membership-and-giving/evergreen-giving-monthly-recurring-giving.md",
-    "wp-archive/wp-output/page/membership-and-giving/3223.md",
-    "wp-archive/wp-output/page/membership-and-giving/become-a-member.md",
-    "wp-archive/wp-output/page/membership-and-giving/3489.md",
-    "wp-archive/wp-output/page/membership-and-giving/3226.md",
-    "wp-archive/wp-output/page/membership-and-giving/3224.md",
-    "wp-archive/wp-output/page/membership-and-giving/3222.md",
-    "wp-archive/wp-output/page/membership-and-giving/3195.md",
-    "wp-archive/wp-output/page/membership-and-giving/3221.md",
-    "wp-archive/wp-output/page/membership-and-giving",
-    "wp-archive/wp-output/itsec-dashboard/security-dashboard",
-    "wp-archive/wp-output/page",
-    "wp-archive/wp-output/nav_menu_item"
+    "dclt/1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Code Interview Themes.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/00 Brand + Website Executive Summary.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/🧾 Brand Audit Summary/🧾 Brand Audit Summary.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Tawnie Perkovich.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Stephanie.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Sandy Miller.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Robert Davis.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Rex Meikle.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Phyllis Geyer.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Miriam Liabo.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Mike VanZandt.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Mike Burton.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Michael Beeth.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Marji Andrae.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Laura Bokhop.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Kelly Avenson.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jeff Lutsey.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jack Finger.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Donna Hermann.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/David Ray.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Dan Eggert.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carolyn Hitzeman.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carol Olson.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Bruce Pikas.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Barb Ottum.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Anne Miller.md",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants",
+    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/Drafts",
+    "output",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts/Untitled",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/🧠 Idea Hub",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts",
+    "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline",
+    "dclt/02_EXECUTION/20 Operations/Campaigns",
+    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Modular Content Blocks/——— Master Modular Block Field Definitions",
+    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Information Architecture/📍 Preserve Experience (Explore Section)"
   ]
 }

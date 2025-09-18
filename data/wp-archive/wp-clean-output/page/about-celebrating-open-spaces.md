@@ -1,3 +1,9 @@
+---
+title: "about-celebrating-open-spaces"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # About Celebrating Open Spaces
 
 *Date:* 2014-05-06 12:45:35

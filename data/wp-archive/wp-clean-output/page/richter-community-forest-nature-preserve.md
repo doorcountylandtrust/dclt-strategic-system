@@ -1,3 +1,9 @@
+---
+title: "richter-community-forest-nature-preserve"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Richter Community Forest Nature Preserve
 
 *Date:* 2014-11-11 21:51:09

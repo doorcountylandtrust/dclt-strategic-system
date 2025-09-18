@@ -1,0 +1,74 @@
+State	Organization	URL	ExpectedLogo	HasLogo
+National	Wetlands America Trust (affiliate)	https://www.ducks.org/conservation/wetlands-america-trust	Wetlands_America_Trust_(affiliate)_logo.png	No
+National	Sustainable Conservation (affiliate)	https://suscon.org	Sustainable_Conservation_(affiliate)_logo.png	No
+National	The Trust for Public Land	https://www.tpl.org	The_Trust_for_Public_Land_logo.png	No
+Alabama	Land Trust of North Alabama	https://www.landtrustnal.org	Land_Trust_of_North_Alabama_logo.png	No
+Alaska	Great Land Trust	https://greatlandtrust.org	Great_Land_Trust_logo.png	No
+Alaska	Southeast Alaska Land Trust	https://sealt.org	Southeast_Alaska_Land_Trust_logo.png	No
+Arizona	Desert Foothills Land Trust	https://dflandtrust.org	Desert_Foothills_Land_Trust_logo.png	No
+California	Cayucos Land Conservancy	https://cayucoslandconservancy.org	Cayucos_Land_Conservancy_logo.png	No
+Colorado	Black Canyon Regional Land Trust	https://bcrlt.org	Black_Canyon_Regional_Land_Trust_logo.png	No
+Colorado	Colorado Cattlemen’s Agricultural Land Trust	https://ccalt.org	Colorado_Cattlemen’s_Agricultural_Land_Trust_logo.png	No
+Colorado	Colorado Headwaters Land Trust	https://headwaterslandtrust.org	Colorado_Headwaters_Land_Trust_logo.png	No
+Connecticut	Branford Land Trust	https://branfordlandtrust.org	Branford_Land_Trust_logo.png	No
+Connecticut	Candlewood Valley Regional Land Trust	https://candlewoodvalleylandtrust.org	Candlewood_Valley_Regional_Land_Trust_logo.png	No
+Florida	Conservation Foundation of the Gulf Coast	https://www.conservationfoundation.com	Conservation_Foundation_of_the_Gulf_Coast_logo.png	No
+Florida	Tall Timbers Research Station & Land Conservancy	https://talltimbers.org	Tall_Timbers_Research_Station_and_Land_Conservancy_logo.png	No
+Georgia	Athens Land Trust	https://athenslandtrust.org	Athens_Land_Trust_logo.png	No
+Georgia	Chattooga Conservancy	https://chattoogaconservancy.org	Chattooga_Conservancy_logo.png	No
+Georgia	Georgia Piedmont Land Trust	https://gplandtrust.org	Georgia_Piedmont_Land_Trust_logo.png	No
+Georgia	St. Simons Land Trust	https://sslt.org	St._Simons_Land_Trust_logo.png	No
+Idaho	Wood River Land Trust	https://www.woodriverlandtrust.org	Wood_River_Land_Trust_logo.png	No
+Illinois	Prairie Land Conservancy	https://www.prairielandconservancy.org	Prairie_Land_Conservancy_logo.png	No
+Illinois	The Conservation Foundation	https://www.theconservationfoundation.org	The_Conservation_Foundation_logo.png	No
+Illinois	The Land Conservancy of McHenry County	https://conservemc.org	The_Land_Conservancy_of_McHenry_County_logo.png	No
+Indiana	Central Indiana Land Trust	https://www.conservingindiana.org	Central_Indiana_Land_Trust_logo.png	No
+Indiana	NICHES Land Trust	https://www.nicheslandtrust.org	NICHES_Land_Trust_logo.png	No
+Iowa	Iowa Natural Heritage Foundation	https://www.inhf.org	Iowa_Natural_Heritage_Foundation_logo.png	No
+Kentucky	Louisville & Jefferson County Environmental Trust	https://louisvilleky.gov/government/advanced-planning/land-trust	Louisville_and_Jefferson_County_Environmental_Trust_logo.png	No
+Kentucky	Woods and Waters Land Trust	https://woodsandwaterslandtrust.org	Woods_and_Waters_Land_Trust_logo.png	No
+Maine	Brunswick-Topsham Land Trust	https://www.btlt.org	Brunswick_Topsham_Land_Trust_logo.png	No
+Maine	Chebeague & Cumberland Land Trust	https://www.ccltmaine.org	Chebeague_and_Cumberland_Land_Trust_logo.png	No
+Maine	Coastal Mountains Land Trust	https://www.coastalmountains.org	Coastal_Mountains_Land_Trust_logo.png	No
+Maine	Coastal Rivers Conservation Trust	https://www.coastalrivers.org	Coastal_Rivers_Conservation_Trust_logo.png	No
+Maine	Forest Society of Maine	https://www.fsmaine.org	Forest_Society_of_Maine_logo.png	No
+Maine	Frenchman Bay Conservancy	https://www.frenchmanbay.org	Frenchman_Bay_Conservancy_logo.png	No
+Maine	Harpswell Heritage Land Trust	https://hhltmaine.org	Harpswell_Heritage_Land_Trust_logo.png	No
+Maine	Loon Echo Land Trust	https://www.loonecholandtrust.org	Loon_Echo_Land_Trust_logo.png	No
+Maine	Oceanside Conservation Trust of Casco Bay	https://oceansidect.org	Oceanside_Conservation_Trust_of_Casco_Bay_logo.png	No
+Maryland	Potomac Conservancy	https://www.potomac.org	Potomac_Conservancy_logo.png	No
+Maryland	Scenic Rivers Land Trust	https://www.srlt.org	Scenic_Rivers_Land_Trust_logo.png	No
+Massachusetts	Ashburnham Conservation Trust	https://ashburnhamconservationtrust.org	Ashburnham_Conservation_Trust_logo.png	No
+Massachusetts	Buzzards Bay Coalition	https://www.savebuzzardsbay.org	Buzzards_Bay_Coalition_logo.png	No
+Massachusetts	Sheriff’s Meadow Foundation	https://sheriffsmeadow.org	Sheriff’s_Meadow_Foundation_logo.png	No
+Massachusetts	The Trustees of Reservations	https://thetrustees.org	The_Trustees_of_Reservations_logo.png	No
+Massachusetts	Wareham Land Trust	https://warehamlandtrust.org	Wareham_Land_Trust_logo.png	No
+Michigan	Chikaming Open Lands	https://chikamingopenlands.org	Chikaming_Open_Lands_logo.png	No
+Michigan	Grand Traverse Regional Land Conservancy	https://www.gtrlc.org	Grand_Traverse_Regional_Land_Conservancy_logo.png	No
+Michigan	Land Conservancy of West Michigan	https://naturenearby.org	Land_Conservancy_of_West_Michigan_logo.png	No
+Michigan	Little Forks Conservancy	https://littleforks.org	Little_Forks_Conservancy_logo.png	No
+Missouri	Ozark Regional Land Trust	https://orlt.org	Ozark_Regional_Land_Trust_logo.png	No
+Montana	Five Valleys Land Trust	https://www.fvlt.org	Five_Valleys_Land_Trust_logo.png	No
+Montana	Flathead Land Trust	https://www.flatheadlandtrust.org	Flathead_Land_Trust_logo.png	No
+Montana	Montana Land Reliance	https://mtlandreliance.org	Montana_Land_Reliance_logo.png	No
+Nebraska	Nebraska Land Trust	https://nebraskalandtrust.org	Nebraska_Land_Trust_logo.png	No
+New Hampshire	Ammonoosuc Conservation Trust	https://www.aconservationtrust.org	Ammonoosuc_Conservation_Trust_logo.png	No
+New Hampshire	Five Rivers Conservation Trust	https://5rct.org	Five_Rivers_Conservation_Trust_logo.png	No
+New Hampshire	Southeast Land Trust of New Hampshire	https://seltnh.org	Southeast_Land_Trust_of_New_Hampshire_logo.png	No
+New Hampshire	Upper Valley Land Trust	https://uvlt.org	Upper_Valley_Land_Trust_logo.png	No
+New Jersey	D&R Greenway Land Trust	https://drgreenway.org	DandR_Greenway_Land_Trust_logo.png	No
+New Jersey	Harding Land Trust	https://hardinglandtrust.org	Harding_Land_Trust_logo.png	No
+New Jersey	Ridge and Valley Conservancy	https://ridgeandvalleyconservancy.org	Ridge_and_Valley_Conservancy_logo.png	No
+New York	Champlain Area Trails	https://champlainareatrails.com	Champlain_Area_Trails_logo.png	No
+New York	Genesee Land Trust	https://www.geneseelandtrust.org	Genesee_Land_Trust_logo.png	No
+New York	Open Space Institute	https://www.openspaceinstitute.org	Open_Space_Institute_logo.png	No
+New York	Peconic Land Trust	https://peconiclandtrust.org	Peconic_Land_Trust_logo.png	No
+New York	Putnam County Land Trust	https://putnamlandtrust.org	Putnam_County_Land_Trust_logo.png	No
+New York	Thousand Islands Land Trust	https://tilandtrust.org	Thousand_Islands_Land_Trust_logo.png	No
+New York	Wallkill Valley Land Trust	https://wallkillvalleylt.org	Wallkill_Valley_Land_Trust_logo.png	No
+New York	Woodstock Land Conservancy	https://woodstocklandconservancy.org	Woodstock_Land_Conservancy_logo.png	No
+North Carolina	Conserving Carolina	https://conservingcarolina.org	Conserving_Carolina_logo.png	No
+North Carolina	Highlands-Cashiers Land Trust	https://www.hicashlt.org	Highlands_Cashiers_Land_Trust_logo.png	No
+North Carolina	Mainspring Conservation Trust	https://www.mainspringconserves.org	Mainspring_Conservation_Trust_logo.png	No
+North Carolina	Tar River Land Conservancy	https://tarriverlandconservancy.org	Tar_River_Land_Conservancy_logo.png	No
+North Carolina	The Walthour-Moss Foundation	https://walthour-moss.org	The_Walthour_Moss_Foundation_logo.png	No

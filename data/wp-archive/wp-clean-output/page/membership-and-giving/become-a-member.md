@@ -1,3 +1,9 @@
+---
+title: "become-a-member"
+created_date: '2025-09-12'
+last_updated: '2025-09-12'
+---
+
 # Become a Member
 
 *Date:* 2014-09-15 09:43:29

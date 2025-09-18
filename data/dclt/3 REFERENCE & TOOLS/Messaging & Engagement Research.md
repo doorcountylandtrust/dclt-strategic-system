@@ -21,10 +21,10 @@ last_updated: '2025-09-11'
 
 - **Donor Segmentation & Behavior**
     
-    > NeonOne – Donor Segmentation
+    > NeonOne - Donor Segmentation
     > 
     > 
-    > [Pew – Gen Z, Millennials & Climate](https://www.pewresearch.org/)
+    > [Pew - Gen Z, Millennials & Climate](https://www.pewresearch.org/)
     > 
     > ---
     > 
@@ -57,10 +57,10 @@ last_updated: '2025-09-11'
     >     > 
 - **Equity, Diversity & Belonging**
     
-    > Audubon – Inclusion & Belonging
+    > Audubon - Inclusion & Belonging
     > 
     > 
-    > 🔗 [Source: Audubon – Equity, Diversity, Inclusion, and Belonging](https://www.audubon.org/)
+    > 🔗 [Source: Audubon - Equity, Diversity, Inclusion, and Belonging](https://www.audubon.org/)
     > 
     > This piece outlines how the Audubon Society is integrating IDEA (Inclusion, Diversity, Equity, and Accessibility) into its conservation work. It positions IDEA not as an ancillary effort, but as fundamental to achieving stronger outcomes and greater impact.
     > 
@@ -72,7 +72,7 @@ last_updated: '2025-09-11'
     >     
     > - **Focus on Belonging.**
     >     
-    >     It’s not just about who is included—**it’s about who feels they truly belong** in conservation spaces, programs, and leadership.
+    >     It’s not just about who is included-**it’s about who feels they truly belong** in conservation spaces, programs, and leadership.
     >     
     > - **Actions Audubon has taken:**
     >     - Partnered with local and national groups representing BIPOC communities.
@@ -80,14 +80,14 @@ last_updated: '2025-09-11'
     >     - Updated internal policies and hiring practices to reflect inclusion commitments.
     > - **Why it matters for conservation:**
     >     
-    >     > “To protect birds and the places they need, we need everyone at the table—and everyone to feel like they have a seat.”
+    >     > “To protect birds and the places they need, we need everyone at the table-and everyone to feel like they have a seat.”
     >     > 
     > 
     > ✅ *Recommended for: informing DCLT’s IDEA commitments, staff training, and community engagement approaches.*
     > 
 - **Messaging Tone & Psychology**
     
-    > SGR – To Scare or Not to Scare
+    > SGR - To Scare or Not to Scare
     > 
     > 
     > ### Key Takeaways from “Fear and Hope in Climate Messages” (Climate Access):
@@ -106,21 +106,21 @@ last_updated: '2025-09-11'
     >     - Overuse of dramatic imagery (wildfires, droughts) can reduce perceived efficacy unless paired with a call to action.
     > 5. **Messaging Guidance:**
     >     
-    >     > “Paint a picture of the risk—but hand the reader a brush to help change the outcome.”
+    >     > “Paint a picture of the risk-but hand the reader a brush to help change the outcome.”
     >     > 
     > 
     > ---
     > 
-    > [Climate Access – Fear & Hope in Climate Messaging](https://climateaccess.org/)
+    > [Climate Access - Fear & Hope in Climate Messaging](https://climateaccess.org/)
     > 
 - **Storytelling & Engagement**
     
-    > LSE – Storytelling Impacts Wildlife Engagement
+    > LSE - Storytelling Impacts Wildlife Engagement
     > 
     > 
-    > [Society.com – Nonprofit Trends 2020](https://www.societ.com/)
+    > [Society.com - Nonprofit Trends 2020](https://www.societ.com/)
     > 
-    > 🔗 [Source: LSE.ac.uk – London School of Economics](https://www.lse.ac.uk/)
+    > 🔗 [Source: LSE.ac.uk - London School of Economics](https://www.lse.ac.uk/)
     > 
     > This study explored how narrative-based storytelling in social media advertisements influenced engagement with wildlife conservation topics. It offers data-backed insight into what types of content resonate with the public and why storytelling outperforms informational messaging.
     > 
@@ -132,7 +132,7 @@ last_updated: '2025-09-11'
     >     
     > - **Emotion leads to action.**
     >     
-    >     Ads that elicited empathy, wonder, or awe—not fear—were more likely to inspire viewers to learn more or donate.
+    >     Ads that elicited empathy, wonder, or awe-not fear-were more likely to inspire viewers to learn more or donate.
     >     
     > - **Character-driven storytelling works best.**
     >     
@@ -140,7 +140,7 @@ last_updated: '2025-09-11'
     >     
     > - **Short-form platforms still work.**
     >     
-    >     Even on fast-scroll platforms like Facebook and Instagram, short story-driven ads had measurable impact on audience behavior—especially with compelling visuals.
+    >     Even on fast-scroll platforms like Facebook and Instagram, short story-driven ads had measurable impact on audience behavior-especially with compelling visuals.
     >     
     > 
     > ✅ *Recommended for: social campaigns, donor ads, or community outreach where digital engagement is a priority.*
@@ -150,7 +150,7 @@ last_updated: '2025-09-11'
 > 🔗 Source: Societ.com (site now inactive or unavailable)
 > 
 > 
-> This pre-pandemic trends forecast offered a snapshot of shifting strategies and donor behaviors in the nonprofit sector entering 2020. While dated, many of its observations remain relevant today—especially around digital engagement and donor expectations.
+> This pre-pandemic trends forecast offered a snapshot of shifting strategies and donor behaviors in the nonprofit sector entering 2020. While dated, many of its observations remain relevant today-especially around digital engagement and donor expectations.
 > 
 > **Key Takeaways:**
 > 
@@ -160,7 +160,7 @@ last_updated: '2025-09-11'
 >     
 > 2. **Hyper-Personalized Donor Journeys**
 >     
->     Organizations began segmenting audiences not just by giving level, but by interest, behavior, and timing—enabling custom asks, thank-yous, and updates that feel individually tailored.
+>     Organizations began segmenting audiences not just by giving level, but by interest, behavior, and timing-enabling custom asks, thank-yous, and updates that feel individually tailored.
 >     
 > 3. **Increased Transparency & Impact Reporting**
 >     
@@ -174,10 +174,10 @@ last_updated: '2025-09-11'
 > ✅ *Recommended for: refining donor messaging strategies, impact storytelling, and digital-first communications planning.*
 > 
 
-[[— Setting Communication Goals (SMART & Beyond)|— Setting Communication Goals (SMART & Beyond)]]%201ea2a8cd57558064aeeec1786dbfc0ee.md)
+[[- Setting Communication Goals (SMART & Beyond)|- Setting Communication Goals (SMART & Beyond)]]%201ea2a8cd57558064aeeec1786dbfc0ee.md)
 
-[[Elizabeth Ward – Gaining Ground Communications Res|
-Elizabeth Ward – Gaining Ground Communications Research (2025-07-24)]]
+[[Elizabeth Ward - Gaining Ground Communications Res|
+Elizabeth Ward - Gaining Ground Communications Research (2025-07-24)]]
 
 ## Related Documents
 
