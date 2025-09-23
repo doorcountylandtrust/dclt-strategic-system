@@ -57,9 +57,73 @@ last_updated: '2025-09-11'
     - Volunteer Signup
     - Newsletter Signup
     - Donate
-    - 
+    
 
-## **🔁 Content Types & Reuse Strategy**
+## Content Migration Tasks (Sept–Oct 2025)
+
+We're rebuilding the content from the ground up — rewriting, restructuring, and pruning what's no longer needed. This task list outlines the steps we'll take during the content migration phase to prepare for development, block building, and internal review.
+
+### Setup & Preparation
+- [ ] Create master **Content Audit Table** 
+- [ ] Populate audit with current pages from:
+  - [ ] `page_hierarchy.json`
+  - [ ] Screenshots folder (`current-site-screenshots/`)
+  - [ ] Markdown exports (from XML)
+- [ ] Add columns for: Keep? / Rewrite? / Merge? / Notes / Priority
+
+### Content Review & Analysis
+- [ ] Review each top-level tab/page for:
+  - [ ] Relevance to 2025 site goals
+  - [ ] Tone and length
+  - [ ] Redundancy or fragmentation
+  - [ ] Outdated information
+- [ ] Mark each page:
+  - [ ] Keep as-is
+  - [ ] Rewrite
+  - [ ] Remove
+  - [ ] Merge with another
+
+### Rewrite & Restructure Priority Pages
+- [ ] Identify **top 10 pages** critical to rewrite by Oct
+- [ ] For each priority page:
+  - [ ] Create rewrite draft using template
+  - [ ] Propose new structure / blocks (hero, CTA, FAQ, etc.)
+  - [ ] Flag any missing images, PDFs, or maps
+
+### Identify Missing Content
+- [ ] Brainstorm **new pages** based on:
+  - [ ] Current supporter needs
+  - [ ] 40th anniversary goals
+  - [ ] Giving Tree, Explore, Volunteer funnels
+- [ ] Add new pages to audit table with notes
+
+### Page-to-Block Mapping
+- [ ] Break key page types into modular blocks:
+  - [ ] Hero intro
+  - [ ] Mission or vision
+  - [ ] Card grids
+  - [ ] CTA buttons
+  - [ ] Event or form embeds
+- [ ] Tag each section in audit with suggested blocks
+
+### Cross-Team Review & Notes
+- [ ] Share draft audit with Cinnamon for feedback
+- [ ] Flag pages needing program or stewardship input
+- [ ] Assign reviewers or owners per section (optional)
+
+### Content File Cleanup
+- [ ] Organize Markdown exports into:
+  - [ ] `/page/`
+  - [ ] `/post/`
+  - [ ] `/screenshots/`
+- [ ] Rename files if needed to match final slugs
+
+### Pre-Migration Testing (late October)
+- [ ] Export clean Markdown into sample WP blocks (optional)
+- [ ] QA test a few sample page imports
+- [ ] Confirm structure works with wireframes + dev templates
+
+## **Content Types & Reuse Strategy**
 
 - Evergreen Content (e.g., About, Strategic Plan                           ([[Campaigns]]))
 - Story-driven Campaigns (e.g., Donor Profiles, Species Spotlights)

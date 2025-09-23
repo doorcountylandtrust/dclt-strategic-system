@@ -1,11 +1,14 @@
 ---
-project_id: 003
+project_id: 3
 title: 2026 Nature Notes Calendar
-start_date: 2025-10-01
-end_date: 2026-01-15
+start_date: TBD
+end_date: TBD
 status: planning
 priority: medium
-notes: Design, photography, and production of annual calendar.
+project_type: recurring_publication
+recurrence: yearly
+recurrence_anchor: 01-01
+notes: "Annual calendar project, starts in fall each year"
 created_date: 2025-09-17
 ---
 

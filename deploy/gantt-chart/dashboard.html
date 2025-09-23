@@ -2,28 +2,72 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>DCLT Projects Dashboard</title>
+    <title>DCLT Projects Dashboard - Hierarchical View</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 20px; background: #f8f9fa; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+               margin: 20px; background: #f8f9fa; }
         .header { text-align: center; margin-bottom: 30px; }
         .stats { display: flex; gap: 20px; justify-content: center; margin-bottom: 30px; }
-        .stat-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center; }
-        table { width: 100%; background: white; border-collapse: collapse; border-radius: 8px; overflow: hidden; 
-                box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        th { background: #2c3e50; color: white; padding: 12px; text-align: left; }
-        td { padding: 12px; border-bottom: 1px solid #eee; }
-        .child-row { background: #f8f9fa; }
-        .status-badge, .priority-badge { padding: 4px 8px; border-radius: 4px; color: white; font-size: 12px; }
-        .completed { background: #27ae60; } .active, .in_progress, .in-progress { background: #f39c12; }
-        .planning, .not_started { background: #3498db; } .on_hold, .on-hold { background: #95a5a6; }
-        .high { background: #e74c3c; } .medium { background: #f39c12; } .low { background: #27ae60; }
-        .notes { max-width: 300px; }
+        .stat-card { background: white; padding: 20px; border-radius: 8px;
+                     box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center; }
+        table { width: 100%; background: white; border-collapse: collapse; border-radius: 8px;
+                overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        th { background: #2c3e50; color: white; padding: 12px; text-align: left; font-weight: 600; }
+        td { padding: 12px; border-bottom: 1px solid #eee; vertical-align: top; }
+
+        /* Parent project styling */
+        .parent-row { background: #ffffff; border-left: 4px solid #3498db; font-weight: 500; }
+        .parent-row:hover { background: #f8f9fa; }
+        .parent-title { font-weight: 600; color: #2c3e50; }
+
+        /* Child project styling with indentation levels */
+        .child-row { background: #f8f9fa; border-left: 4px solid #ecf0f1; }
+        .child-row:hover { background: #e8f4f8; }
+        .child-title { padding-left: 20px; color: #555; font-family: 'Monaco', 'Menlo', monospace; }
+        .last-child { border-bottom: 2px solid #bdc3c7; }
+
+        /* Group separators */
+        .group-separator { height: 12px; background: #ecf0f1; }
+        .group-separator td { padding: 0; border: none; }
+
+        /* Section headers */
+        .section-header { background: #34495e; }
+        .section-header h3 { color: white; margin: 0; padding: 8px 0; font-size: 16px; }
+        .section-header td { border: none; }
+
+        /* Orphan projects */
+        .orphan-row { background: #ffffff; border-left: 4px solid #95a5a6; }
+        .orphan-row:hover { background: #f8f9fa; }
+
+        /* Status and priority badges */
+        .status-badge, .priority-badge { padding: 4px 8px; border-radius: 4px; color: white;
+                                        font-size: 11px; font-weight: 500; text-transform: uppercase; }
+
+        /* Status colors */
+        .completed { background: #27ae60; }
+        .active, .in_progress, .in-progress { background: #f39c12; }
+        .planning, .not_started { background: #3498db; }
+        .on_hold, .on-hold { background: #95a5a6; }
+
+        /* Priority colors */
+        .high { background: #e74c3c; }
+        .medium { background: #f39c12; }
+        .low { background: #27ae60; }
+
+        /* Notes column */
+        .notes { max-width: 300px; font-size: 13px; color: #666; line-height: 1.4; }
+
+        /* Responsive adjustments */
+        @media (max-width: 1024px) {
+            .notes { max-width: 200px; }
+            .child-title { padding-left: 15px; }
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>DCLT Projects Dashboard</h1>
-        <p>Generated: 2025-09-18 12:50:21</p>
+        <p>Generated: 2025-09-18 13:10:56</p>
     </div>
     
     <div class="stats">
@@ -38,323 +82,44 @@
             <th>Project</th><th>Status</th><th>Priority</th><th>Start</th><th>End</th><th>Notes</th>
         </tr>
         
-            <tr class="parent-row">
-                <td>Custom Block Development Plan - Door County Land Trust</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Land-Seller & Realtor Interviews</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Website Overhaul</td>
+            <tr class="parent-row" data-parent-id="2">
+                <td class="parent-title">📁 Website Overhaul (2025–2026) (3 items)</td>
                 <td><span class="status-badge in_progress">in_progress</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Website Overhaul (2025–2026)</td>
-                <td><span class="status-badge active">active</span></td>
                 <td><span class="priority-badge high">high</span></td>
                 <td>2025-07-01</td>
                 <td>2026-02-28</td>
                 <td class="notes">Full redesign including Preserve Explorer and content migration.</td>
             </tr>
             
-            <tr class="parent-row">
-                <td>Website Strategy Hub</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Website CTAs & Messaging Updates</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Website Evaluation</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Conservation Director</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Content Types & Modeling</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Executive Director</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Land Project Manager</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— 🔭 Overview – Website Strategy (2025)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Donate</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Peer Website IA Scan</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>🧩 ACF Field Definitions – DCLT Custom Theme</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge high">high</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>DCLT Internal Resource Hub (Intranet Planning)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Donation Tube Vinyl Stickers</td>
-                <td><span class="status-badge not_started">not_started</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Letterhead Template for Renewals</td>
-                <td><span class="status-badge not_started">not_started</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Website Overhaul Roadmap (2025–2026)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Preserve Explorer Project Hub</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Retired Approach - Astro + Headless WP Technical Implementation ()</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Technical Implementation ()</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Website Content Strategy and Migration Plan</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— 🌲 Preserve Detail (Updated for In-App Panel UX)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— 2025 Little Sturgeon Land Project – Comms & Fundraising</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— CE Info Page – Wireframe Outline</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— DCLT Website & Communications Alignment</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Improved Homepage Mockup Concept</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Land Protection Manager</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Strategic Plan () – Public Content Brief</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Volunteer Interest Page — Find Your Role in Conservation</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Protect Your Land Hub (for Landowners)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>📊 CRM Reporting Dashboards</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge low">low</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>2026 Annual Comms Planning</td>
-                <td><span class="status-badge not_started">not_started</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>2026 Nature Notes Calendar</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>2026 Nature Notes Calendar</td>
+                <tr class="child-row " data-parent-id="2">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Content Migration Plan</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
+                </tr>
+                
+                <tr class="child-row " data-parent-id="2">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Preserve Explorer Map Build</td>
+                    <td><span class="status-badge in-progress">in-progress</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
+                </tr>
+                
+                <tr class="child-row last-child" data-parent-id="2">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;└─ Wireframes - Homepage</td>
+                    <td><span class="status-badge completed">completed</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
+                </tr>
+                <tr class="group-separator"><td colspan="6"></td></tr>
+            <tr class="parent-row" data-parent-id="3">
+                <td class="parent-title">📁 2026 Nature Notes Calendar (3 items)</td>
                 <td><span class="status-badge planning">planning</span></td>
                 <td><span class="priority-badge medium">medium</span></td>
                 <td>2025-10-01</td>
@@ -362,89 +127,35 @@
                 <td class="notes">Design, photography, and production of annual calendar.</td>
             </tr>
             
-            <tr class="parent-row">
-                <td>Brand_System_2026</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>CROSS-SYNTHESIS OF STAFF INTERVIEWS</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>CTA Panel</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Content Migration Plan</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Dashboard</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Dashboard_Index</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Design Draft</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Draft Email Copy</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Drip Emails for New Members</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Drip Emails for New Members</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Drip Emails for New Members</td>
+                <tr class="child-row " data-parent-id="3">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Layout Design</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
+                </tr>
+                
+                <tr class="child-row " data-parent-id="3">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Photography Selection</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
+                </tr>
+                
+                <tr class="child-row last-child" data-parent-id="3">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;└─ Print Vendor Setup</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
+                </tr>
+                <tr class="group-separator"><td colspan="6"></td></tr>
+            <tr class="parent-row" data-parent-id="5">
+                <td class="parent-title">📁 Drip Emails for New Members (3 items)</td>
                 <td><span class="status-badge planning">planning</span></td>
                 <td><span class="priority-badge medium">medium</span></td>
                 <td>TBD</td>
@@ -452,107 +163,35 @@
                 <td class="notes">Automated onboarding email sequence with Sara.</td>
             </tr>
             
-            <tr class="parent-row">
-                <td>Event Block</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>FAQ</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Featured Story</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Footer Signup</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Hero</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Home Page (index)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Impact Panel</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Layout Design</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Map Embed</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Page Header</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Pebble Beach Kiosk Panels</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Pebble Beach Kiosk Panels</td>
+                <tr class="child-row " data-parent-id="5">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Draft Email Copy</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Drip Emails for New Members</td>
+                </tr>
+                
+                <tr class="child-row " data-parent-id="5">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Set Up Automation</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Drip Emails for New Members</td>
+                </tr>
+                
+                <tr class="child-row last-child" data-parent-id="5">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;└─ Testing & QA</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Drip Emails for New Members</td>
+                </tr>
+                <tr class="group-separator"><td colspan="6"></td></tr>
+            <tr class="parent-row" data-parent-id="4">
+                <td class="parent-title">📁 Pebble Beach Kiosk Panels (3 items)</td>
                 <td><span class="status-badge planning">planning</span></td>
                 <td><span class="priority-badge medium">medium</span></td>
                 <td>TBD</td>
@@ -560,330 +199,699 @@
                 <td class="notes">Educational and interpretive panels for Pebble Beach kiosk.</td>
             </tr>
             
-            <tr class="child-row">
-                <td>  └ Photography Selection</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Preserve Explorer Map Build</td>
-                <td><span class="status-badge in-progress">in-progress</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Preserve Grid</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Print & Install</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Print Vendor Setup</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of 2026 Nature Notes Calendar</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Related Content</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Research Content</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Set Up Automation</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Drip Emails for New Members</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Statistic Panel</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>Storytelling CRM Overlay System</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Testing & QA</td>
-                <td><span class="status-badge planning">planning</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Drip Emails for New Members</td>
-            </tr>
-            
-            <tr class="child-row">
-                <td>  └ Wireframes - Homepage</td>
-                <td><span class="status-badge completed">completed</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes">Subtask of Website Overhaul (2025–2026)</td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Preserve IA (Overview & Routing)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Public-Facing Land Protection Priorities – Comms Brief</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Strategic Initiatives – Web Integration Build Spec</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>— Video Strategy & Production Hub</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Administrative</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Conservation Easement Program Manager</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Content Briefs</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Ecological Restoration Manager</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Evergreen Content Series Tracker</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Homepage Wireframe</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Information Architecture</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Public-Facing Land Protection Priorities – Content Ideas</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Staff Interviews & Departmental Input</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Stewardship Field Coordinator</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Tech Stack & Architecture</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>—— Wireframes - DCLT Website Redesign</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— About</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Contact</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Get Involved</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Stories</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>——— Website Sitemap - Draft V1</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>📊 Privacy-Friendly Analytics Setup</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>📍 Preserve Experience (Explore Section)</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
-            <tr class="parent-row">
-                <td>🧠 UX + Interaction Design Decisions Log</td>
-                <td><span class="status-badge unknown">unknown</span></td>
-                <td><span class="priority-badge medium">medium</span></td>
-                <td>TBD</td>
-                <td>TBD</td>
-                <td class="notes"></td>
-            </tr>
-            
+                <tr class="child-row " data-parent-id="4">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Design Draft</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
+                </tr>
+                
+                <tr class="child-row " data-parent-id="4">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;├─ Print & Install</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
+                </tr>
+                
+                <tr class="child-row last-child" data-parent-id="4">
+                    <td class="child-title">&nbsp;&nbsp;&nbsp;&nbsp;└─ Research Content</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes">Subtask of Pebble Beach Kiosk Panels</td>
+                </tr>
+                <tr class="group-separator"><td colspan="6"></td></tr><tr class="section-header"><td colspan="6"><h3>Standalone Projects</h3></td></tr>
+                <tr class="orphan-row">
+                    <td>Custom Block Development Plan - Door County Land Trust</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Website Strategy Hub</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Website CTAs & Messaging Updates</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Website Evaluation</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Conservation Director</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Content Types & Modeling</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Executive Director</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Land Project Manager</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— 🔭 Overview – Website Strategy (2025)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Donate</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Peer Website IA Scan</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>🧩 ACF Field Definitions – DCLT Custom Theme</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge high">high</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>DCLT Internal Resource Hub (Intranet Planning)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Donation Tube Vinyl Stickers</td>
+                    <td><span class="status-badge not_started">not_started</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Letterhead Template for Renewals</td>
+                    <td><span class="status-badge not_started">not_started</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Website Overhaul Roadmap (2025–2026)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Preserve Explorer Project Hub</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Retired Approach - Astro + Headless WP Technical Implementation ()</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Technical Implementation ()</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Website Content Strategy and Migration Plan</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— 🌲 Preserve Detail (Updated for In-App Panel UX)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— 2025 Little Sturgeon Land Project – Comms & Fundraising</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— CE Info Page – Wireframe Outline</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— DCLT Website & Communications Alignment</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Improved Homepage Mockup Concept</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Land Protection Manager</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Strategic Plan () – Public Content Brief</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Volunteer Interest Page — Find Your Role in Conservation</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Protect Your Land Hub (for Landowners)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>📊 CRM Reporting Dashboards</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge low">low</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Brand_System_2026</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>CROSS-SYNTHESIS OF STAFF INTERVIEWS</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>CTA Panel</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Dashboard</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Dashboard_Index</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Drip Emails for New Members</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Event Block</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>FAQ</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Featured Story</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Footer Signup</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Hero</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Home Page (index)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Impact Panel</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Map Embed</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Page Header</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Pebble Beach Kiosk Panels</td>
+                    <td><span class="status-badge planning">planning</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Preserve Grid</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Related Content</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Statistic Panel</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>Storytelling CRM Overlay System</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Preserve IA (Overview & Routing)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Public-Facing Land Protection Priorities – Comms Brief</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Strategic Initiatives – Web Integration Build Spec</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>— Video Strategy & Production Hub</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Administrative</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Conservation Easement Program Manager</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Content Briefs</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Ecological Restoration Manager</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Evergreen Content Series Tracker</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Homepage Wireframe</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Information Architecture</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Public-Facing Land Protection Priorities – Content Ideas</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Staff Interviews & Departmental Input</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Stewardship Field Coordinator</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Tech Stack & Architecture</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>—— Wireframes - DCLT Website Redesign</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— About</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Contact</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Get Involved</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Stories</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>——— Website Sitemap - Draft V1</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>📊 Privacy-Friendly Analytics Setup</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>📍 Preserve Experience (Explore Section)</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
+                <tr class="orphan-row">
+                    <td>🧠 UX + Interaction Design Decisions Log</td>
+                    <td><span class="status-badge unknown">unknown</span></td>
+                    <td><span class="priority-badge medium">medium</span></td>
+                    <td>TBD</td>
+                    <td>TBD</td>
+                    <td class="notes"></td>
+                </tr>
+                
     </table>
 </body>
 </html>
