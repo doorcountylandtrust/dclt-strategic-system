@@ -10,7 +10,7 @@ import subprocess
 # === CONFIG ===
 PROJECT_ROOT = Path(__file__).resolve().parents[2]  # repo root
 DATA_DIR = PROJECT_ROOT / "data/dclt/02_EXECUTION/10_Projects"
-INDEX_PATH = PROJECT_ROOT / "data/index.json"
+INDEX_PATH = Path("reports/index.json")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # === HELPERS ===
