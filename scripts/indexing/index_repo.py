@@ -1,104 +1,83 @@
 #!/usr/bin/env python3
 import os
 import json
-import time
 import hashlib
 from pathlib import Path
 from openai import OpenAI
-import subprocess
 
-# === CONFIG ===
-PROJECT_ROOT = Path(__file__).resolve().parents[2]  # repo root
-DATA_DIR = PROJECT_ROOT / "data/dclt/02_EXECUTION/10_Projects"
-INDEX_PATH = Path("reports/index.json")
+# 🔧 Config
+ROOT_DIR = "data/dclt/02_EXECUTION/10_Projects"
+INDEX_PATH = "reports/index.json"
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# === HELPERS ===
-def file_hash(path):
-    """Return md5 hash of file contents."""
-    h = hashlib.md5()
+def file_hash(path: Path):
+    """Return SHA1 hash of a file."""
+    h = hashlib.sha1()
     with open(path, "rb") as f:
-        h.update(f.read())
+        while chunk := f.read(8192):
+            h.update(chunk)
     return h.hexdigest()
 
-def git_commit(message, add_all=False):
-    """Run a git commit with a message. Add changes if requested."""
-    try:
-        if add_all:
-            subprocess.run(["git", "add", "-A"], cwd=PROJECT_ROOT)
-        else:
-            subprocess.run(["git", "add", str(INDEX_PATH)], cwd=PROJECT_ROOT)
-        subprocess.run(
-            ["git", "commit", "-m", message],
-            cwd=PROJECT_ROOT,
-            check=False
-        )
-    except Exception as e:
-        print(f"[WARN] Git commit skipped: {e}")
+def embed_text(text: str):
+    """Generate an embedding for the given text."""
+    return client.embeddings.create(
+        model="text-embedding-3-small",
+        input=text[:5000]  # truncate to 5000 chars
+    ).data[0].embedding
 
-# === LOAD PREVIOUS INDEX ===
-if INDEX_PATH.exists():
-    with open(INDEX_PATH, "r") as f:
-        index = json.load(f)
-else:
-    index = {}
+def load_index():
+    if Path(INDEX_PATH).exists():
+        with open(INDEX_PATH, "r") as f:
+            return json.load(f)
+    return {}
 
-# Track stats
-indexed, skipped, removed = 0, 0, 0
-seen_files = set()
+def save_index(index):
+    os.makedirs(Path(INDEX_PATH).parent, exist_ok=True)
+    with open(INDEX_PATH, "w") as f:
+        json.dump(index, f, indent=2)
 
-# === PRE-INDEX SNAPSHOT COMMIT ===
-git_commit(f"Pre-index snapshot {time.strftime('%Y-%m-%d %H:%M')}", add_all=True)
+def main():
+    index = load_index()
+    updated = {}
+    new_files = 0
+    skipped = 0
+    removed = 0
 
-# === WALK FILES ===
-for path in DATA_DIR.rglob("*.md"):
-    rel_path = str(path.relative_to(PROJECT_ROOT))
-    seen_files.add(rel_path)
-    mtime = os.path.getmtime(path)
-    hash_val = file_hash(path)
+    # Walk through all .md files
+    for path in Path(ROOT_DIR).rglob("*.md"):
+        rel_path = str(path.relative_to(ROOT_DIR))
+        hash_val = file_hash(path)
 
-    # Skip unchanged
-    if rel_path in index and index[rel_path]["hash"] == hash_val:
-        skipped += 1
-        continue
+        # Skip if unchanged
+        if rel_path in index and index[rel_path]["hash"] == hash_val:
+            updated[rel_path] = index[rel_path]
+            skipped += 1
+            continue
 
-    # Read text
-    with open(path, "r") as f:
-        text = f.read()
+        # Read content
+        text = path.read_text(errors="ignore")
 
-    # Generate embedding (truncate if too long)
-    try:
-        emb = client.embeddings.create(
-            model="text-embedding-3-small",
-            input=text[:5000]
-        ).data[0].embedding
-    except Exception as e:
-        print(f"[ERROR] embedding failed for {rel_path}: {e}")
-        continue
+        # Generate embedding + preview
+        emb = embed_text(text)
+        preview = text.strip().replace("\n", " ")[:200] + "..."
 
-    index[rel_path] = {
-        "mtime": mtime,
-        "hash": hash_val,
-        "embedding": emb
-    }
-    indexed += 1
+        updated[rel_path] = {
+            "hash": hash_val,
+            "embedding": emb,       # stored as JSON array (not string!)
+            "preview": preview
+        }
+        new_files += 1
 
-# Remove stale entries
-for old_file in list(index.keys()):
-    if old_file not in seen_files:
-        del index[old_file]
-        removed += 1
+    # Detect removed files
+    for old_path in index.keys():
+        if old_path not in updated:
+            removed += 1
 
-# Save index
-INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
-with open(INDEX_PATH, "w") as f:
-    json.dump(index, f, indent=2)
+    save_index(updated)
 
-# === AUTO COMMIT INDEX UPDATE ===
-git_commit(f"Auto: updated index.json {time.strftime('%Y-%m-%d %H:%M')}")
+    print(f"✅ Index updated at {INDEX_PATH}")
+    print(f"   {new_files} new/updated, {skipped} unchanged, {removed} removed.")
 
-# === OPTIONAL PUSH ===
-# subprocess.run(["git", "push"], cwd=PROJECT_ROOT)
-
-# === SUMMARY ===
-print(f"[DONE] {indexed} files indexed, {skipped} skipped, {removed} removed.")
+if __name__ == "__main__":
+    main()
