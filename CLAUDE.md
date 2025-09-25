@@ -4,41 +4,36 @@
 
 **Organization**: Door County Land Trust (DCLT)  
 **System Purpose**: Strategic project management and communications planning system  
-**Primary Use**: Visual project timelines, brand system management, and strategic planning workflows
+**Primary Use**: Strategic project planning, competitive research, and knowledge organization workflows
 
 ## 🎯 **System Capabilities**
 
-### **Live Gantt Chart System**
-- **Professional project management** with DHTMLX Gantt charts
-- **FigJam-style visual timelines** with swim lanes and strategic grouping
-- **Automatic file watching** - charts update when markdown files change
-- **Real-time deployment** at http://localhost:8081/
+### **Visualization Pipeline (paused)**
+- Legacy Gantt/visual timeline scripts removed for a future rebuild
+- Repository content remains structured to support the next iteration
+- No live deployment or watcher processes at the moment
 
-### **Data Management**
-- **350+ project files** organized in strategic hierarchy
-- **Clean, standardized data** with professional frontmatter
-- **Automated quality control** and data validation
-- **Hierarchical project structure** (Epic → Project → Task → Subtask)
+### **Data & Knowledge Management**
+- Strategic markdown files organized with consistent frontmatter
+- Competitive intelligence datasets under `data/landtrusts/`
+- Reminder inbox (`data/dclt/reminders.json`) for lightweight task capture
+- Embedding index + Q&A assistant powered by OpenAI APIs
 
 ## 🚀 **Quick Commands**
 
-### **Start the Live System**
+### **Reminder Inbox**
 ```bash
-./start_live_gantt.sh
+python3 scripts/add_reminder.py --text "Follow up with design team" --due 2025-10-15 --project "Website Overhaul" --open-md
+python3 scripts/list_reminders.py
 ```
-Launches web server + file watcher for automatic chart updates
+Capture new reminders and review the queue.
 
-### **Manual Chart Generation**
+### **Knowledge Index Refresh**
 ```bash
-# Advanced Gantt Chart
-python3 scripts/visualization/advanced_gantt_generator.py
-
-# FigJam-Style Timeline
-python3 scripts/visualization/figjam_style_generator.py
-
-# Both charts
-python3 scripts/automation/simple_file_watcher.py
+python3 scripts/indexing/index_repo.py
+python3 scripts/ask.py "What are the next milestones for the website overhaul?"
 ```
+Regenerate embeddings for execution docs and query them.
 
 ### **Data Quality Management**
 ```bash
@@ -64,12 +59,13 @@ dclt-strategic-system-v2/
 │   ├── 2 EXECUTION/                    # Implementation projects
 │   └── 3 REFERENCE & TOOLS/            # Reference materials
 ├── scripts/
-│   ├── visualization/                  # Chart generators
-│   ├── data_cleanup/                   # Data quality tools
-│   ├── data_organization/              # Hierarchy management
-│   └── automation/                     # Live update system
-├── deploy/gantt-chart/                 # Web deployment
-├── output/reports/                     # Generated charts & analysis
+│   ├── dashboards/                     # Dashboard utilities (under rebuild)
+│   ├── indexing/                       # Embedding + search tooling
+│   ├── query/                          # CLI helpers for indexed data
+│   ├── scrapers/                       # Competitive intelligence scrapers
+│   ├── utils/                          # Shared helpers (currently empty)
+│   └── *.py                            # Standalone helpers (e.g., reminders)
+├── output/reports/                     # Generated analysis & exports
 └── backup/                            # Data backups
 ```
 
@@ -167,63 +163,6 @@ last_updated: '2025-09-12'
 ---
 ```
 
-## 🎨 **Visualization Features**
-
-### **Advanced DHTMLX Gantt Chart**
-- **Hierarchical project structure** with expand/collapse
-- **Interactive timeline** with drag-and-drop scheduling
-- **Progress tracking** with completion percentages
-- **Dependency arrows** showing project relationships
-- **Professional project management** interface
-
-### **FigJam-Style Timeline**
-- **Swim lane organization** by strategic theme
-- **Varied visual heights** based on project importance
-- **Rich color coding** by project type and priority
-- **Milestone markers** and status indicators
-- **Hand-crafted aesthetic** with automated data
-
-## 🔄 **Live Update Workflow**
-
-1. **Edit any markdown file** in `data/dclt/`
-2. **Save the file** - system detects changes within 3 seconds
-3. **Automatic regeneration** begins (10-30 seconds)
-4. **Refresh browser** - charts reflect changes immediately
-5. **No manual intervention** required
-
-## 📊 **Current System Statistics**
-
-- **Total Projects**: 257 items across all strategic themes
-- **Brand System Projects**: 51 hierarchically organized items
-- **Timeline Span**: March 2025 - November 2025 (254 days)
-- **Active Work**: 175 projects currently in progress
-- **Strategic Themes**: 5 major areas with swim lane organization
-
-## 🛠️ **Maintenance Commands**
-
-### **System Health Checks**
-```bash
-# Check web server status
-curl -I http://localhost:8081/
-
-# View file watcher logs
-tail -f watcher_test.log
-
-# Check for data quality issues
-python3 scripts/data_cleanup/project_data_auditor.py
-```
-
-### **Backup and Recovery**
-```bash
-# Manual backup
-cp -r data/ backup/manual_$(date +%Y%m%d_%H%M%S)/
-
-# Restore from backup
-cp -r backup/cleanup_20250912_094936/data/ ./
-
-# View cleanup history
-cat output/reports/cleanup_report.json
-```
 
 ## 🎯 **Strategic Context**
 
@@ -241,27 +180,6 @@ Comprehensive approach to stakeholder engagement including:
 - **Digital transformation** with website modernization
 - **Membership strategy** evolution into movement building
 
-## 📈 **Success Metrics**
-
-### **Project Management Excellence**
-- **Real-time visibility** into all strategic initiatives
-- **Professional timeline management** with dependency tracking
-- **Resource allocation** optimization across projects
-- **Risk identification** and mitigation planning
-
-### **Data Quality Achievement**
-- **Improved from 0/100 to clean data** through automated cleanup
-- **51 hierarchical fixes** applied to brand projects
-- **Standardized frontmatter** across 350+ project files
-- **Automated quality control** preventing future degradation
-
-## 🌐 **Access Points**
-
-- **Advanced Gantt Chart**: http://localhost:8081/
-- **FigJam-Style Timeline**: http://localhost:8081/figjam-style.html
-- **System Documentation**: `README_LIVE_SYSTEM.md`
-- **Project Reports**: `output/reports/`
-
 ## 💡 **Best Practices**
 
 ### **File Management**
@@ -275,16 +193,3 @@ Comprehensive approach to stakeholder engagement including:
 - Use epic → project → task hierarchy for complex initiatives
 - Include resource allocation and risk assessment
 - Maintain regular progress updates and status tracking
-
-### **System Maintenance**
-- Run data quality audits before major planning sessions
-- Use automated cleanup tools to maintain data standards
-- Keep backup of data before major organizational changes
-- Monitor live system logs for optimal performance
-
----
-
-**System Status**: ✅ **OPERATIONAL**  
-**Last Major Update**: 2025-09-12  
-**Data Quality**: Professional Grade  
-**Automation**: Fully Live with File Watching

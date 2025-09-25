@@ -1,83 +1,91 @@
-#!/usr/bin/env python3
 import os
 import json
 import hashlib
+import datetime
+import numpy as np
 from pathlib import Path
 from openai import OpenAI
 
-# 🔧 Config
-ROOT_DIR = "data/dclt/02_EXECUTION/10_Projects"
-INDEX_PATH = "reports/index.json"
+# === CONFIG ===
+ROOT_DIR = Path("data/dclt/02_EXECUTION/10_Projects")
+REPORTS_DIR = Path("reports")
+EMBED_DIR = REPORTS_DIR / "embeddings"
+INDEX_PATH = REPORTS_DIR / "index.json"
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def file_hash(path: Path):
-    """Return SHA1 hash of a file."""
-    h = hashlib.sha1()
-    with open(path, "rb") as f:
-        while chunk := f.read(8192):
-            h.update(chunk)
-    return h.hexdigest()
+# === HELPERS ===
+def file_hash(path: Path) -> str:
+    """SHA256 hash of file contents"""
+    return hashlib.sha256(path.read_bytes()).hexdigest()
 
-def embed_text(text: str):
-    """Generate an embedding for the given text."""
-    return client.embeddings.create(
-        model="text-embedding-3-small",
-        input=text[:5000]  # truncate to 5000 chars
-    ).data[0].embedding
-
-def load_index():
-    if Path(INDEX_PATH).exists():
+def load_index() -> dict:
+    if INDEX_PATH.exists():
         with open(INDEX_PATH, "r") as f:
             return json.load(f)
     return {}
 
-def save_index(index):
-    os.makedirs(Path(INDEX_PATH).parent, exist_ok=True)
+def save_index(index: dict):
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     with open(INDEX_PATH, "w") as f:
         json.dump(index, f, indent=2)
 
-def main():
-    index = load_index()
-    updated = {}
-    new_files = 0
-    skipped = 0
-    removed = 0
+def embed_text(text: str) -> np.ndarray:
+    """Call OpenAI embeddings API and return numpy array"""
+    response = client.embeddings.create(
+        model="text-embedding-3-small",
+        input=text[:5000]  # truncate for safety
+    )
+    return np.array(response.data[0].embedding, dtype=np.float32)
 
-    # Walk through all .md files
-    for path in Path(ROOT_DIR).rglob("*.md"):
+# === MAIN INDEXER ===
+def main():
+    REPORTS_DIR.mkdir(exist_ok=True)
+    EMBED_DIR.mkdir(exist_ok=True)
+
+    index = load_index()
+    updated_index = {}
+    new_files, unchanged_files, removed_files = 0, 0, 0
+
+    for path in ROOT_DIR.rglob("*.md"):
         rel_path = str(path.relative_to(ROOT_DIR))
         hash_val = file_hash(path)
 
-        # Skip if unchanged
+        # skip unchanged
         if rel_path in index and index[rel_path]["hash"] == hash_val:
-            updated[rel_path] = index[rel_path]
-            skipped += 1
+            updated_index[rel_path] = index[rel_path]
+            unchanged_files += 1
             continue
 
-        # Read content
+        # read file and make preview
         text = path.read_text(errors="ignore")
+        preview = text[:200].replace("\n", " ")
 
-        # Generate embedding + preview
+        # embed and save vector to .npy file
         emb = embed_text(text)
-        preview = text.strip().replace("\n", " ")[:200] + "..."
+        emb_file = f"{hash_val}.npy"
+        np.save(EMBED_DIR / emb_file, emb)
 
-        updated[rel_path] = {
+        # record metadata
+        updated_index[rel_path] = {
             "hash": hash_val,
-            "embedding": emb,       # stored as JSON array (not string!)
+            "modified": datetime.datetime.now().isoformat(),
+            "embedding_file": emb_file,
             "preview": preview
         }
+
         new_files += 1
 
-    # Detect removed files
-    for old_path in index.keys():
-        if old_path not in updated:
-            removed += 1
+    # detect removed files
+    for rel_path in index.keys():
+        if rel_path not in updated_index:
+            removed_files += 1
 
-    save_index(updated)
+    # save index
+    save_index(updated_index)
 
     print(f"✅ Index updated at {INDEX_PATH}")
-    print(f"   {new_files} new/updated, {skipped} unchanged, {removed} removed.")
+    print(f"   {new_files} new/updated, {unchanged_files} unchanged, {removed_files} removed.")
 
 if __name__ == "__main__":
     main()

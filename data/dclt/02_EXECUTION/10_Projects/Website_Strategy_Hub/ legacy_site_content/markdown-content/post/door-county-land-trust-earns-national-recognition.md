@@ -1,0 +1,31 @@
+---
+title: "Door County Land Trust Earns National Recognition"
+slug: "door-county-land-trust-earns-national-recognition"
+date: "Fri, 19 Aug 2016 03:50:12 +0000"
+tags: ['Home Page feeds', 'How We Save Land', 'In The News', 'Join &amp; Support']
+type: "post"
+---
+
+<img class="wp-image-3838 size-full" src="https://www.doorcountylandtrust.org/wp-content/uploads/2017/02/ephraim.jpg" alt="ephraim" width="780" height="288" /> Photo by Dan Eggert, Ephraim Nature Preserve at Anderson Pond, a Door County Land Trust protected property.
+
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">Sturgeon Bay, WI August 18, 2016 - The Door County Land Trust announced today it has achieved accreditation - a mark of distinction in land conservation. The nationally-recognized Land Trust Accreditation Commission awards accreditation to land trusts that meet standards for excellence, uphold the public trust and ensure that their conservation efforts are permanent.</span>
+
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">Cathy Fiorato, secretary of the Door County Land Trust board of directors and leader of the accreditation application process says, "Our mission statement is a promise: 'To protect Door County's exceptional lands and waters forever,' and as an accredited land trust we are confident that we can keep that promise to our community, our conservation partners, and our donors." Earning the seal of accreditation is a validation of the strength of the Door County Land Trust's work since 1986 and an assurance that future work will uphold the same high standards. Accreditation advances excellence and fosters continuous improvement as land trusts maintain their accredited status by applying for renewal every five years.</span>
+
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">The Door County Land Trust has protected more than 7,000 acres from Washington Island to southern Door County, WI. In 2016, the Door County Land Trust will complete more than 9 land acquisition projects, an expansion of about 650 acres. In addition, the organization maintains and stewards these lands with ongoing reforestation and wildlife habitat improvements, such as the recent planting of 1800 trees at three protected properties. The largest landscape-scale restoration project of the Land Trust is currently underway at the Sturgeon Bay Ship Canal Nature Preserve, where more than 300 acres will be restored to ecological health.</span>
+
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">The Door County Land Trust joins the more than 350 accredited land trusts that demonstrate their commitment to professional excellence through accreditation, helping to maintain the public's trust in their work. Tammara Van Ryn, executive director of the Commission says, "Accredited land trusts stand together, united behind strong ethical standards ensuring the places people love will be conserved forever. This network of land trusts has demonstrated fiscal accountability, strong organizational leadership and lasting stewardship of conservation land."</span>
+
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">Each accredited land trust meets extensive documentation requirements and undergoes a comprehensive review as part of its accreditation application. The process is rigorous and strengthens land trusts so they can help landowners and communities achieve their goals.</span>
+
+<hr />
+
+<b><span style="font-family: 'quattrocento sans'; font-size: 14pt;">About the Door County Land Trust</span></b>
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">The Door County Land Trust's mission is "To protect Door County's exceptional lands and waters...forever." It is a nonprofit, community-based organization that actively works to conserve land by undertaking or assisting with direct land transactions-primarily the purchase or acceptance of donations of land or conservation easements. Founded in 1986, the Door County Land Trust has protected more than 7,000 acres from Washington Island through southern Door County and many points in between.</span>
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">Door County Land Trust nature preserves are open year-round to the public at no charge for hiking, cross-country skiing, wildlife observation, hunting, and other low-impact, non-motorized recreational activities. For more information and to become a Land Trust member visit <a href="https://www.doorcountylandtrust.org" target="_blank">www.doorcountylandtrust.org</a> or call (920)746-1359. </span>
+
+<b><span style="font-family: 'quattrocento sans'; font-size: 14pt;">About the Land Trust Accreditation Commission</span></b>
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">The Land Trust Accreditation Commission inspires excellence, promotes public trust and ensures permanence in the conservation of open lands by recognizing organizations that meet rigorous quality standards and strive for continuous improvement. The Commission, established in 2006 as an independent program of the Land Trust Alliance, is governed by a volunteer board of diverse land conservation and nonprofit management experts. For more, visit <a href="http://www.landtrustaccreditation.org" target="_blank">www.landtrustaccreditation.org</a>.</span>
+
+<b><span style="font-family: 'quattrocento sans'; font-size: 14pt;">About the Land Trust Alliance</span></b>
+<span style="font-family: 'quattrocento sans'; font-size: 14pt;">Founded in 1982, the Land Trust Alliance is a national land conservation organization that works to save the places people love by strengthening land conservation across America. The Alliance represents more than 1,100 member land trusts supported by more than 100,000 volunteers and 5 million members nationwide. The Alliance is based in Washington, D.C. and operates several regional offices. More information about the Alliance is available at <a href="http://www.landtrustalliance.org" target="_blank">www.landtrustalliance.org</a>.</span>

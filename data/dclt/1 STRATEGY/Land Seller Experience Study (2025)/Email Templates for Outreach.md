@@ -26,7 +26,7 @@ I’m Don Krumpos, the Communications Manager at Door County Land Trust. I’m r
 
 Your story could help shape how we connect with and support future landowners in making conservation-minded decisions.
 
-**The conversation would take about 30–45 minutes** and can be by phone, Zoom, or in-person — whatever works best for you.
+**The conversation would take about 30 minutes** and can be by phone, Zoom, or in-person — whatever works best for you.
 
 If you’re open to chatting, just reply to this email and let me know your availability over the next few weeks. And of course, if you’d prefer not to participate, no problem at all — just let me know.
 

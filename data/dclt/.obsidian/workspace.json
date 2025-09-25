@@ -11,17 +11,35 @@
             "id": "2670084e79ea4304",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "37cf1fea21f0dc3f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Evaluation/--_Improved_Homepage_Mockup_Concept.md",
+                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "--_Improved_Homepage_Mockup_Concept"
+              "title": "Website_Overhaul_(2025–2026)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5
+    "width": 332.5
   },
   "right": {
     "id": "31137e3c06613c6c",
@@ -166,51 +184,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2670084e79ea4304",
+  "active": "37cf1fea21f0dc3f",
   "lastOpenFiles": [
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Evaluation/DCLT_Content_Audit_Integrated.tsv",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Evaluation/--_Website_Evaluation_-_Legacy_Site_Pages/Home_Page_index_.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Overview_-_Website_Strategy_2025_.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Evaluation/DCLT_Screenshot_Content_Audit.tsv",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_DCLT_Website_Communications_Alignment.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/DCLT_Screenshot_Content_Audit.tsv",
-    "02_EXECUTION/10_Projects/DCLT_Screenshot_Content_Audit.tsv",
-    "data/dclt/02_EXECUTION/DCLT_Screenshot_Content_Audit.tsv",
-    "data/dclt/DCLT_Screenshot_Content_Audit.tsv",
-    "data/dclt/02_EXECUTION/10_Projects/DCLT_Screenshot_Content_Audit.tsv",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/-_Website_Content_Strategy_and_Migration_Plan.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/Website_Overhaul_Roadmap_2025-2026_.md",
-    "3 REFERENCE & TOOLS/Other Brands for Research.md",
-    "3 REFERENCE & TOOLS/Other Brands for Research/Land Trust Digital Competitive Analysis.md",
-    "02_EXECUTION/10_Projects/Website_Strategy_Hub/Website_Strategy_Hub.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Wireframes_-_Homepage.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Preserve_Explorer_Map_Build.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration_Plan.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025-2026).md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md",
-    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/2026_Nature_Notes_Calendar_Overview.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul/Website_Overhaul_Roadmap.md",
-    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Layout_Design.md",
-    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Photography_Selection.md",
-    "02_EXECUTION/10_Projects/2026_Nature_Notes_Calendar/subtasks/Print_Vendor_Setup.md",
-    "02_EXECUTION/00 Dashboards/DCLT Projects.md",
-    "02_EXECUTION/00 Dashboards/Website Timeline.md",
-    "02_EXECUTION/00 Dashboards/Website_Overhaul_Gantt.md",
-    "02_EXECUTION/10_Projects/Dashboard_Index.md",
-    "02_EXECUTION/10_Projects/Dashboard.md",
-    "02_EXECUTION/10_Projects/2026_Annual_Comms_Planning.md",
-    "02_EXECUTION/10_Projects/Dashboards",
-    "02_EXECUTION/00 Dashboards/projects.json",
-    "02_EXECUTION/00 Dashboards/projects-dashboard.html",
-    "02_EXECUTION/00 Dashboards/Website_Overhaul_Timeline.html",
-    "02_EXECUTION/10_Projects/Dashboards/Website_Overhaul_Gantt.png",
-    "website-timeline-20250919.png",
-    "Pasted image 20250919120112.png",
-    "Pasted image 20250919120107.png",
-    "Pasted image 20250919120051.png"
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_Roadmap.md",
+    "02_EXECUTION/10_Projects/Drip_Emails_for_New_Members/Drip_Emails_for_New_Members.md",
+    "1 STRATEGY/Land Seller Experience Study (2025)/Email Templates for Outreach.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/scripts/ocr_screenshots.py",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/scripts/wp_content_extractor.py",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/scripts/page_hierarchy_extractor.py",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/scripts",
+    "1 STRATEGY/Research & Audits/Website Content Audit (2025)/page_hierarchy_summary.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/wp_content_extractor.py",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/working_pages.xml",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/working_export.xml",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/selected_export.xml.temp_truncated",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/selected_export.xml",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/pages_working.xml",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/export/page_hierarchy_summary.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Statistic_Panel.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Related_Content.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Preserve_Grid.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Page_Header.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Map_Embed.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Hero.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Impact_Panel.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Footer_Signup.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Featured_Story.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Get_Involved/--_Volunteer_Interest_Page_-_Find_Your_Role_in_Con.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/FAQ.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/CTA_Panel.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Event_Block.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_IA_Overview_Routing_.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_Explorer_Project_Hub.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_Detail_Updated_for_In-App_Panel_UX_.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Wireframes_-_DCLT_Website_Redesign/--_Homepage_Wireframe.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Wireframes_-_DCLT_Website_Redesign/--_CE_Info_Page_-_Wireframe_Outline.md",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/06-gift-shop.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/05-give-generously-05-planned-giving.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/05-give-generously-04-business-members.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/05-give-generously-03-give-stocks.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/05-give-generously-02-become-a-member.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/05-give-generously-01.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/04-upcoming-events.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/03-preserves-to-explore-05-mail-me-a-map.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/03-preserves-to-explore-04-other-protected-places.png",
+    "02_EXECUTION/10_Projects/Website_Strategy_Hub/ legacy_site_content/current-site-screenshots/03-preserves-to-explore-03-white-cliff-nature-preserve.png",
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,52 @@
+---
+title: "Camp Cuesta: Protecting Land, Preserving Tradition"
+slug: "camp-cuesta-protecting-land-preserving-tradition"
+date: "Thu, 11 Jul 2024 15:08:31 +0000"
+tags: ['Behind the Scenes', 'Camp Cuesta', 'Daily Nature', 'Door County Land Trust', 'Girl Scouts', 'Girls Scouts of the Northwestern Great Lakes', 'How We Save Land', 'In The News', 'land protection', 'Uncategorized']
+type: "post"
+---
+
+<a href="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Cropped-Camp-Cuesta-cehrfurth-20240606-18.jpg"><img class=" wp-image-64539" src="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Cropped-Camp-Cuesta-cehrfurth-20240606-18-300x214.jpg" alt="" width="654" height="466" /></a> ‘Cuesta’ is Spanish for a ridge or hill with a slope on one side, which perfectly describes the exposed Niagara Escarpment behind the Girl Scout Troop house. Photo by Carrie Ehrfurth.
+
+<span data-contrast="none">Local Girl Scout Troop Co-leaders Sarah Martin and Anna Knapp call Camp Cuesta, a Girl Scout camp in Baileys Harbor, their “happy place,” a place to take in the calm and wonder of nature. This feeling is deeply rooted in the Door County community, through decades of Girl Scouting and an appreciation of the ecological value of the land by naturalists.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<a href="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/IMG_4512.jpg"><img class=" wp-image-64534" src="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/IMG_4512-300x225.jpg" alt="" width="348" height="261" /></a> The Camp Cuesta troop house. Photo by Kay McKinley
+
+<span data-contrast="none">When word of the sale of Camp Cuesta became public, rather than being sold on the open market, the Girl Scout of the Northwestern Great Lakes reached an agreement to sell the land and camp to Door County Land Trust. The agreement is a win for both parties. For the Girl Scouts, the Land Trust’s possible purchase of the camp means extending the generations-long local tradition at the camp, which was built in the early 1960s. For the Land Trust, the aim is to preserve wildlife and their habitat by protecting the undeveloped land adjacent to its Kangaroo Lake Nature Preserve. Among the preserve’s wild residents are bald eagles, osprey, panfish, and various species of waterfowl.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">“We are thrilled to collaborate with the Girl Scouts to protect Camp Cuesta,” said Door County Land Trust Executive Director Emily Wood.  “Our common goal of preservation has resulted in a productive and positive relationship.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">Land Program Director Jesse Koyen agrees. “The Camp Cuesta property is a key piece of conservation land,” he said. “Its protection ensures that the hardwood forest and quiet open space will remain wild in perpetuity and be enjoyed by current and future generations of Girl Scouts and the community.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">Martin and Knapp attended the camp as Girl Scouts from Gibraltar Area Schools in the 1980’s and 90’s. The tradition continues with their daughters, who began Girl Scouting in kindergarten. Knapp said that Camp Cuesta has provided a “magic” that bonds a troop. “When we’re out there, we’re all one unit,” she said.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<a href="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Cinn-cuesta3.jpg"><img class=" wp-image-64483" src="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Cinn-cuesta3-300x214.jpg" alt="" width="387" height="276" /></a> Then: Gibraltar Troop 369 at the starting line for a wheelbarrow race, circa 1987. Standing second from left is Land Trust Director of Charitable Giving Cinnamon Rossman. Standing second from right is current Gibraltar Girl Scout Co-Leader Sarah Martin.
+
+<a href="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Camp-Cuesta-2023-1.jpg"><img class=" wp-image-64487" src="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Camp-Cuesta-2023-1-300x200.jpg" alt="" width="413" height="275" /></a> Now: Gibraltar scouts learn about composting from the Climate<br />Change Coalition of Door County this past fall.
+
+<span data-contrast="none">Martin attributes part of the magic to the unspoiled nature of the land. “Over the years, thousands of girls have had time on that property,” she said. “When you’re there you feel removed from everything else—it’s secluded and quiet and pristine. Discovering the importance of nature was a huge part of the time we spent at Camp Cuesta. The girls would go outside to catc</span><span data-contrast="none">h frogs—and they weren’t afraid to pick up a snake.  They’ve had hands-on experiences that you could never have watching a documentary on TV.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">“Camp Cuesta gave them a place to think about their role in nature,” Knapp said. “We spent a lot of time taking care of the trails and the buildings.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">“Wanting to protect Camp Cuesta from development and having the funds to protect it are two very different issues,” said Wood, while talking about the steps to completing the purchase. “But we know there is a deep love of this place by the community. We’re counting on their support.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">The Land Trust must raise $420,000 through community donations to purchase the property. The Land Trust is calling on the community and their deep attachment to this landmark with an invitation to donate toward a $50,000 matching gift challenge offered by a generous Land Trust supporter.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">How far the community’s attachment to Camp Cuesta extends is indicated by how easy it is to find former Camp Cuesta Girl Scouts. In this case, right in the Land Trust office. Director of Charitable Giving Cinnamon Rossman, and member of the Land Trust Board of Directors, Meredith Coulson-Kanter, understand firsthand the dual purpose of preserving the camp property—as scouts who attended the camp during the 1980s and 1990s, and by actively working toward its protection today.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">“Exploring the woods and rock ledges at Camp Cuesta shaped my love for nature,” Rossman said. “Working with the Land Trust to help protect the camp as a place for Girl Scouts, hike leaders, and those who want to appreciate nature—it’s a love of land and nature coming full circle.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">Coulson-Kanter said, “Through working on the Camp Cuesta project, I’ve seen a community-wide, multi-generational sharing of camp adventures. The opportunity to protect it from development while partnering </span><span data-contrast="none">with the Girl Scouts so the legacy of creating memories on the land can continue, is truly poetic.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<a href="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Protect-Camp-Cuesta-Merit-Badge-FINAL-1.png"><img class=" wp-image-64488" src="https://www.doorcountylandtrust.org/wp-content/uploads/2024/07/Protect-Camp-Cuesta-Merit-Badge-FINAL-1-300x300.png" alt="" width="274" height="274" /></a> All donors will receive a 'Protect Camp Cuesta' Land Protection Merit Badge.
+
+<span data-contrast="none">Knapp and Martin share a particularly special memory: the evening the Brownie Troop became Junior Scouts. “We were sleeping in the troop house and had the girls go out to the pavilion after dark with flashlights,” Knapp said. “We took part in a very solemn ceremony by candlelight. Camp Cuesta facilitated that kind of experience for us. It felt special every time we were out there.”</span>
+
+<span data-contrast="none">Martin and Knapp can look forward to creating meaningful memories in the future thanks to the Land Trust’s pending purchase.<strong> “If there was anybody the Girl Scout Council was going to partner with to maintain </strong></span><span data-contrast="none"><strong>the property,  I think the Land Trust is a great match,” Martin said.</strong> “We’ve partnered with the Land Trust on numerous activities, and it’s always been successful. I am hopeful that this partnership will keep the camp available to our Girl Scouts for generations." Knapp added, "The Land Trust is valued in our community and is an organization that people trust.”</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+<span data-contrast="none">Those who donate during the matching gift challenge will receive a land protection merit badge for their achievement of having their dollars doubled. </span><span data-contrast="none">All donations received by September 30 will be matched dollar-for-dollar up to the first $50,000. Donations are accepted online at <a href="https://secure.doorcountylandtrust.org/events-registration-merchandise/campcuesta/">DoorCountyLandTrust.org/CampCuesta</a>.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+<div class="mceTemp">
+
+<span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span>
+
+</div>
