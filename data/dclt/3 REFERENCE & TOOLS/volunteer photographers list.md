@@ -12,3 +12,4 @@ Heather Harle Frykman <frykmangallery@gmail.com>
 krusechris@yahoo.com <krusechris@yahoo.com>
 acornimages@me.com <acornimages@me.com>
 chitzeman4@gmail.com
+Naseem Reza

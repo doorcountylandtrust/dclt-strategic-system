@@ -13,6 +13,7 @@ tags:
 created_date: '2025-09-11'
 last_updated: '2025-09-11'
 ---
+
 # — 🌲 Preserve Detail (Updated for In-App Panel UX)
 
 ### **📸 Hero Section**
