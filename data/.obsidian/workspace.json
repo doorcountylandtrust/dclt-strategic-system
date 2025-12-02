@@ -11,10 +11,14 @@
             "id": "4ee9151e1e2e89fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dclt/04 DAILY FOCUS/20251103.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20251103"
             }
           }
         ]
@@ -164,6 +168,23 @@
   },
   "active": "4ee9151e1e2e89fc",
   "lastOpenFiles": [
+    "dclt/1 STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Case Study Carl Barnard/Case Study Carl Barnard.md",
+    "dclt/04 DAILY FOCUS/20251103.md",
+    "dclt/04 DAILY FOCUS/week of November 3, 2025.md",
+    "dclt/04 DAILY FOCUS/Untitled.md",
+    "Untitled.md",
+    "dclt/Untitled.md",
+    "dclt/04 DAILY FOCUS/Untitled 2.canvas",
+    "dclt/04 DAILY FOCUS",
+    "dclt/Untitled",
+    "dclt/1 STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Case Study Carl Barnard/Carl Barnard Speech Transcript.md",
+    "landtrusts/datasets/screens/logos/Ashby_Land_Trust_logo.png",
+    "landtrusts/datasets/screens/logos/Arizona_Land_and_Water_Trust_logo.png",
+    "landtrusts/datasets/screens/logos/Androscoggin_Land_Trust_logo.png",
+    "landtrusts/datasets/screens/logos/American_Chestnut_Land_Trust_logo.png",
+    "landtrusts/datasets/screens/logos/Agricultural_Stewardship_Association_logo.png",
+    "landtrusts/datasets/screens/logos/Adirondack_Land_Trust_logo.png",
+    "landtrusts/datasets/screens/logos/Access_Fund_logo.png",
     "dclt/1 STRATEGY/Land Seller Experience Study (2025)/Timeline - Land Seller Experience Study/Untitled/Code Interview Themes.md",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/00 Brand + Website Executive Summary.md",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/🧾 Brand Audit Summary/🧾 Brand Audit Summary.md",
@@ -183,13 +204,6 @@
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jeff Lutsey.md",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Jack Finger.md",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Donna Hermann.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/David Ray.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Dan Eggert.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carolyn Hitzeman.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Carol Olson.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Bruce Pikas.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Barb Ottum.md",
-    "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants/Anne Miller.md",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/— Focus Group Participation & Feedback/Focus Group Participants",
     "dclt/02_EXECUTION/10 Projects/Brand System (2026)/Drafts",
     "output",
@@ -197,8 +211,6 @@
     "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/🧠 Idea Hub",
     "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts",
     "dclt/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline",
-    "dclt/02_EXECUTION/20 Operations/Campaigns",
-    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Modular Content Blocks/——— Master Modular Block Field Definitions",
-    "dclt/02_EXECUTION/10 Projects/Website Strategy Hub/— Website Content Strategy and Migration Plan/—— Information Architecture/📍 Preserve Experience (Explore Section)"
+    "dclt/02_EXECUTION/20 Operations/Campaigns"
   ]
 }

@@ -9,20 +9,20 @@ notes: Automated onboarding email sequence for new members, developed with Sara 
 created_date: 2025-09-17
 ---
 
-# 📧 Drip Emails for New Members
+# Drip Emails for New Members
 
 Automated onboarding email sequence to engage new members after their first donation or signup.
 
 Owner: Don (setup + copy), Sara (day-to-day)
 
-## 🎯 Goals
+## Goals
 
 - Welcome and orient new members
 - Reinforce mission and impact
 - Promote further engagement (newsletter, social, events)
 - Invite follow-up actions (recurring giving, volunteering)
 
-## 📆 Timeline
+## Timeline
 
 | Phase | Task | Owner | Target Date | Status |
 |-------|------|--------|--------------|--------|
@@ -43,14 +43,14 @@ Owner: Don (setup + copy), Sara (day-to-day)
 | 4 | Stay in the Loop | Invite to newsletter, social, events |
 | 5 | Support That Grows | Recurring gift ask or volunteer interest |
 
-## 🗂️ Assets Needed
+## Assets Needed
 
 - Logo + header image for emails
 - Mobile-friendly templates (Constant Contact)
 - Stories, photos, or stats for Email 2
 - Preserve map link or embed for Email 3
 
-## ✅ Next Steps
+## Next Steps
 
 - [ ] Finalize copy
 - [ ] Build automations

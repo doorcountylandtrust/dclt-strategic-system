@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: 📆 Active Projects
+    filters:
+      and:
+        - status == "active"
+        - priority == "high"
+    order:
+      - file.name
+      - due_date
+      - status
+      - dependencies
+      - assigned_to
+      - milestones
+      - methodology
+      - notes
+      - owner
+      - priority
+      - tags
+      - timeline
+    sort:
+      - property: status
+        direction: ASC
+  - type: table
+    name: 🚧 Website Overhaul Tasks
+  - type: table
+    name: View 2
