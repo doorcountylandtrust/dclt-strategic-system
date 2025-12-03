@@ -1,48 +1,15 @@
-Ariel donated the land to honor her father, Jon "Fritz" Renner.
+Preserving the Magic: A Daughter’s Gift Becomes a Legacy of Protection
 
-Section 1: Land and Legacy
-	1.	What does this land mean to you personally?
-	2.	If you were standing on the land right now, where would you go first—and what would you see, hear, or feel there?
-	3.	What was the moment—or feeling—that helped you know this gift was the right decision?
-	4.	What values or hopes do you feel are carried forward through this gift?
-	5.	How do you imagine the land being experienced or cared for by future generations?
-	6.	If this land could tell a story, what would it say?
-	7.	When you think about your journey toward making this decision, what moments stand out the most?
-	8.	Are there particular places, features, or memories connected to this land that hold special meaning to you?
-⸻
-Section 2: Optional Father Connection
-	9.	You’ve chosen to make this gift in memory of your father. What feels most meaningful to you about honoring him in this way?
-	10. Are there values, lessons, or qualties from your father that influenced this gift?
-	11. If you’d like, could you share a story about your father that comes to mind when you think of this land?
-  (Only if you’re comfortable—feel free to skip if it’s too personal.)
-	12.	What do you think your father would feel if he could see this land protected today?
-	13.	How would you describe your father in just a few words—and do any of those qualities feel present in this place?
-⸻
-Section 3: Quick-Quote Prompts
-	14.	“To me, this land is…”
-	15.	“My father taught me…”
-	16.	“What I love most about this place is…”
-	17.	“When I think of its future, I hope…”
-	18.	“One word I’d use to describe this gift is…”
-⸻
-Section 4: Open Invitation
-	19.	Is there anything else you’d like to share—about your father, the land, or your hopes—that would help others understand the heart behind your gift?
+As a child, Ariel Pate would occasionally visit her family’s wooded 40-acre property in northern Door County with her father, Fritz Renner, but each time felt magical. “It always felt slightly mystical,” she recalls. Nestled between Whitefish Bay and Clark Lake, the land quietly held a vernal stream and thick stands of trees that seemed to whisper their own story.
 
+Now, Ariel has ensured that story will continue. By donating the land to Door County Land Trust in memory of her father, a lifelong conservationist, she has added a powerful new chapter to her family’s legacy of stewardship.
 
+The decision came into focus when she studied satellite maps and saw just how unique the property was. Her family’s parcel sat quietly within a much larger stretch of undeveloped forest, a rare remnant in the heart of the peninsula. “due to a whole host of factors, it’s been mostly left alone,” she said. As she returned over time, walking the land in different seasons, she noticed how the trees had matured and how certain plants had adapted around the spring-fed stream. What began as a personal act of remembrance became something more: a chance to protect a rare, living corridor of wild land.
 
-## Answers
-1. What does this land mean to you personally?
+“It was an opportunity to preserve a large swath of land, that couldn’t be accomplished by simply keeping the acreage as private property,” she said. With each walk—through snowmelt, spring bloom, and autumn hush—the land revealed more of itself. The vernal stream curved through the forest floor. Ferns pushed through damp soil. Native plants settled into patterns of light, water, and resilience. “The trees there are truly beautiful, and my family and I have enjoyed hiking through it at different times of year, observing the ways different plants have grown in particular ways.”
 
-I visited the land with my father several times as a kid, and it always felt slightly mystical, since it was off the beaten path and our visits were sporadic. As an adult, I’ve come to appreciate how unique it is, since it has a vernal stream running through it that feeds into Whitefish Bay and Clark Lake.
+For Ariel, donating the land was about more than protecting habitat. It was a way to honor her father’s values and extend them into the future. “I hope people can experience a connection to place,” she said, “and an appreciation for how nature recovers and adapts.” She imagines future visitors walking those same quiet trails, noticing the light through the trees, the hush of the stream, the way wild spaces invite reflection. In giving this land to the Land Trust, she’s ensured that the feeling she once had—a sense of something slightly mystical, just off the beaten path—will still be waiting for those who seek it.
 
-2. What inspired you to donate it in memory of your father?
-
-My dad, Fritz Renner, was passionate about conservation and preservation, and he was a long-time member of the Door County Environmental Council. He and my aunt stewarded the property for many years, with the help of Ryan Kiehnau, who hunted on it. After my dad’s passing in 2009, I’ve always sought out ways to remember him that were connected to nature, and this donation seemed like a logical extension of that.   
-
-3. What do you hope people feel or experience on this land in the future?
-
-I hope people can experience a connection to place, and appreciation for how nature recovers and adapts. I hope they feel inspired to support the continued preservation of natural areas, either through direct donations, or by advocating for the robust funding of programs like the Knowles-Nelson Stewardship program.
-
-4. Was there a moment—or feeling—that helped you know this gift was the right decision?
-
-When I first considered donating, I looked at the satellite maps of Northern Door, and noticed that this acreage is in a large area of undeveloped land in the middle of the peninsula. Due to a whole host of factors, it’s been mostly left alone. The trees there are truly beautiful, and my family and I have enjoyed hiking through it at different times of year, observing the ways different plants have grown in particular ways. It felt important to make sure the land remained undeveloped. When I heard from the Lutsey family **(Don, please check with them about if that mention is OK)** about their neighboring property coming up for sale, it seemed like that by donating this parcel to the Land Trust, and alerting the Land Trust to the opportunity to purchase the Lutsey's property, it was an opportunity to preserve a large swath of land, that couldn’t be accomplished by simply keeping the acreage as private property.
+This protected 40-acre property includes mature upland forest, nine acres of wetland, and a tributary of the West Branch of Whitefish Bay Creek—features that support a diversity of native plant and animal species. Rolling glacial moraine formations and existing two-track paths wind through the woods, creating potential for future hiking opportunities. Together, these natural features form a rare, contiguous stretch of riparian habitat, part of the larger Whitefish Bay watershed. The protection of this parcel enhances the ecological corridor surrounding Door County Land Trust’s nearby Oak Road Nature Preserve and strengthens ongoing efforts to safeguard the region’s clean water, intact forests, and wildlife movement.  
+  
+“I hope they feel inspired to support the continued preservation of natural areas,” Ariel said, “either through direct donations, or by advocating for the robust funding of programs like the Knowles-Nelson Stewardship Program.” Her gift, made in memory of her father, reflects not just a love for this land, but a belief in the broader systems—like land trusts and public conservation funding—that make lasting protection possible. As part of a larger corridor of forest and wetlands, this newly protected parcel advances Door County Land Trust’s ongoing mission to safeguard the peninsula’s clean water, wildlife habitat, and scenic beauty.
