@@ -205,7 +205,7 @@ The project modernizes the Door County Land Trust’s public presence with:
 
 - **Automated Checks (via GitHub Actions)**:
     - ✅ Lighthouse score >90 on performance, accessibility
-    - ✅ HTML syntax validation (e.g., [html-validate](https://html-validate.org/))
+    - ✅ HTML syntax validation (e.g., <!-- BROKEN LINK: [html-validate](https://html-validate.org/) -->)
     - ✅ Broken image/link detection
 - **Future**: axe-core integration for accessibility snapshot testing
 - **Status**: Manual for now — automation planned

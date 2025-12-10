@@ -33,15 +33,15 @@ last_updated: '2025-09-11'
 
 [[📍 Preserve Experience (Explore Section)|📍 Preserve Experience (Explore Section)]]%202382a8cd575580f59d5be2df28daa2bc.md)
 
-[  ——— Donate](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Donate%201f12a8cd575580ccae41de753d8b35b9.md)
+<!-- BROKEN LINK: [  ——— Donate](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Donate%201f12a8cd575580ccae41de753d8b35b9.md) -->
 
 [[——— Get Involved|  ——— Get Involved]]
 
-[  ——— About](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20About%201f22a8cd575580caa978d6612f48fd0c.md)
+<!-- BROKEN LINK: [  ——— About](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20About%201f22a8cd575580caa978d6612f48fd0c.md) -->
 
-[  ——— Stories](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Stories%201f22a8cd575580928e9beba9b03b33dd.md)
+<!-- BROKEN LINK: [  ——— Stories](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Stories%201f22a8cd575580928e9beba9b03b33dd.md) -->
 
-[  ——— Contact](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Contact%201f22a8cd57558036809bff72135d04ac.md)
+<!-- BROKEN LINK: [  ——— Contact](%E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Contact%201f22a8cd57558036809bff72135d04ac.md) -->
 
 [[——— Peer Website IA Scan|  ——— Peer Website IA Scan]]
 

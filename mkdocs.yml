@@ -1,0 +1,7 @@
+site_name: DCLT Strategic System
+site_description: Internal documentation for Door County Land Trust
+theme:
+  name: mkdocs
+  custom_dir: docs/overrides
+# MkDocs will use default theme and auto-generate the sidebar
+# This is the cleanest starting point possible

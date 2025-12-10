@@ -21,7 +21,7 @@ last_updated: '2025-09-11'
 
 A framework to help Door County Land Trust understand how different stakeholders relate to land, privilege, and conservation. It supports more inclusive and strategic messaging by identifying gaps in our audience reach and helping us speak meaningfully to diverse priorities.
 
-![Screenshot 2025-06-04 at 3.31.10 PM.png](%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens)%201c42a8cd575580338ca5de52561a9f97/Screenshot_2025-06-04_at_3.31.10_PM.png)
+!<!-- BROKEN LINK: [Screenshot 2025-06-04 at 3.31.10 PM.png](%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens) -->%201c42a8cd575580338ca5de52561a9f97/Screenshot_2025-06-04_at_3.31.10_PM.png)
 
 ### Summary of the Four Quadrants:
 
@@ -47,7 +47,7 @@ This helps us ask:
 - Which voices or communities are absent?
 - How can we *co-create* programming or messages that are more relevant across all quadrants?
 
-[🌍 **DEI Strategy for Communications & Website**](%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens)%201c42a8cd575580338ca5de52561a9f97/%F0%9F%8C%8D%20DEI%20Strategy%20for%20Communications%20&%20Website%202082a8cd5755802e8631e8968d5ca506.md)
+<!-- BROKEN LINK: [🌍 **DEI Strategy for Communications & Website**](%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens) -->%201c42a8cd575580338ca5de52561a9f97/%F0%9F%8C%8D%20DEI%20Strategy%20for%20Communications%20&%20Website%202082a8cd5755802e8631e8968d5ca506.md)
 
 ## Related Documents
 

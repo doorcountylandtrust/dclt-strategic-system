@@ -110,7 +110,7 @@ Use a **general map** showing regions, not parcels. Group ~5–7 zones:
 
 💡 *Consider* iconography, banners, or a visual “storybook” scroll layout
 
-[Mapbox Storytelling](https://storymaps.arcgis.com/)
+<!-- BROKEN LINK: [Mapbox Storytelling](https://storymaps.arcgis.com/) -->
 
 ---
 

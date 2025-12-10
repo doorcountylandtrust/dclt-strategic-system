@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8bf31d4e6fe4a77b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3318bea0e047df84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea9ae599e6e1c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hunting-program"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "605c02f33418ed39",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf5c5209be4d250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35416fa1aab3b256",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c339f44c91315f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc33874e453ac46f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cf322ce73d48cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ece457e45ad3937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1cdec34a43709f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hunting-program"
+            }
+          },
+          {
+            "id": "9895971007d6b834",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hunting-program"
+            }
+          },
+          {
+            "id": "3e8f9ebd4c605196",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efd8f8a35d15ad28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e97d6c409889de0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hunting-program"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6ea9ae599e6e1c94",
+  "lastOpenFiles": [
+    "01_STRATEGY/Comms Strategy Master Hub/2026 Strategic Marketing Insights & Implications.md",
+    "01_STRATEGY/Mission, Values & Brand Voice/Brand-Archetypes.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Untitled.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/LP-Door-Farms.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Kristin-Duffey-&-Jeanne-Kress.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/John-&-Susan-Schartner.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jim-Harris.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jeff-Larson-&-Family.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jason-Herrbold.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jason-&-Cara-Perkins.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/James-&-Kelly-Jorgenson.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Flavian-&-Melanie-Wallis.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Donald-&-Adam-Benson.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dennis-Kruswick.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dennis-&-Susan-Bhirdo.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/David-Kaczmarek.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dave-Chapman.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dale-&-Karen-Cihlar.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Craig-Brickell.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Clark-Trust.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Carl-&-Barbara-Lewis.md",
+    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Modern-Membership-Strategy-&-Research-Brief.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Fall–Winter-2025-New-Member-Campaign-(Execution.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/5-Year-Membership-Experience-System.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Modern Membership Strategy & Research Brief/Strategic-Summary-Evolving-Membership-into-a-Mo.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Modern Membership Strategy & Research Brief/Recurring-Giving-Funnel-Page-—-Wild-Door-Sustai.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Modern Membership Strategy & Research Brief",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Fall–Winter 2025 New Member Campaign (Execution",
+    "01_STRATEGY/Comms Strategy Master Hub/Audience Segmentation & Messaging Strategy/Messaging Frameworks & Lenses",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/— Modern Membership Strategy & Research Brief",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/— Fall–Winter 2025 New Member Campaign (Execution",
+    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub",
+    "01_STRATEGY/Comms Strategy Master Hub/Strategic Initiatives – Comms Summary",
+    "01_STRATEGY/Comms Strategy Master Hub/Whole Communities Framework (Stakeholder Lens)",
+    "01_STRATEGY/Comms Strategy Master Hub/Strategic Initiative Alignment Matrix"
+  ]
+}

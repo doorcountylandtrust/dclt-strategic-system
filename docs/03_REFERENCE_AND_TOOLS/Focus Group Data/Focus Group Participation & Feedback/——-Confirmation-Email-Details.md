@@ -57,7 +57,7 @@ Final thoughts, what we’ve learned from you, and how your input will shape our
 
 **Questions?**
 
-Contact Don Krumpos at [dkrumpos@doorcountylandtrust.org](mailto:dkrumpos@doorcountylandtrust.org)
+Contact Don Krumpos at <!-- BROKEN LINK: [dkrumpos@doorcountylandtrust.org](mailto:dkrumpos@doorcountylandtrust.org) -->
 
 ## Related Documents
 

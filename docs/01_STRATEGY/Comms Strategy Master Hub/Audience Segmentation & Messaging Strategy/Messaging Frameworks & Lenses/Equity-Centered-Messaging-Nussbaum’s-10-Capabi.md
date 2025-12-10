@@ -24,7 +24,7 @@ last_updated: '2025-09-11'
 > This framework applies philosopher Martha Nussbaum’s 10 central human capabilities to Door County Land Trust’s messaging and engagement strategy. It helps ensure that our communications are not only compelling and human-centered, but also equitable, inclusive, and grounded in the idea that access to nature and conservation is a human right—not a luxury.
 > 
 
-![image.png](%E2%80%94%E2%80%94%E2%80%94%20Equity-Centered%20Messaging%20Nussbaum%E2%80%99s%2010%20Capabi%201ea2a8cd575580b48069e7ce6ba8034d/image.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%E2%80%94%E2%80%94%20Equity-Centered%20Messaging%20Nussbaum%E2%80%99s%2010%20Capabi%201ea2a8cd575580b48069e7ce6ba8034d/image.png) -->
 
 # Applying Martha Nussbaum’s 10 Capabilities to DCLT Communications
 

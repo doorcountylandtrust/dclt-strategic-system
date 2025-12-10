@@ -1,0 +1,763 @@
+.
+├── .DS_Store
+├── .chroma
+│   ├── cfdfec26-cb8c-49cb-9a7b-65ca36f8559b
+│   │   ├── data_level0.bin
+│   │   ├── header.bin
+│   │   ├── length.bin
+│   │   └── link_lists.bin
+│   └── chroma.sqlite3
+├── .claude
+│   └── settings.local.json
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   ├── objects
+│   │   ├── 00
+│   │   ├── 01
+│   │   ├── 02
+│   │   ├── 03
+│   │   ├── 04
+│   │   ├── 05
+│   │   ├── 06
+│   │   ├── 07
+│   │   ├── 08
+│   │   ├── 09
+│   │   ├── 0a
+│   │   ├── 0b
+│   │   ├── 0c
+│   │   ├── 0d
+│   │   ├── 0e
+│   │   ├── 0f
+│   │   ├── 10
+│   │   ├── 11
+│   │   ├── 12
+│   │   ├── 13
+│   │   ├── 14
+│   │   ├── 15
+│   │   ├── 16
+│   │   ├── 17
+│   │   ├── 18
+│   │   ├── 19
+│   │   ├── 1a
+│   │   ├── 1b
+│   │   ├── 1c
+│   │   ├── 1d
+│   │   ├── 1e
+│   │   ├── 1f
+│   │   ├── 20
+│   │   ├── 21
+│   │   ├── 22
+│   │   ├── 23
+│   │   ├── 24
+│   │   ├── 25
+│   │   ├── 26
+│   │   ├── 27
+│   │   ├── 28
+│   │   ├── 29
+│   │   ├── 2a
+│   │   ├── 2b
+│   │   ├── 2c
+│   │   ├── 2d
+│   │   ├── 2e
+│   │   ├── 2f
+│   │   ├── 30
+│   │   ├── 31
+│   │   ├── 32
+│   │   ├── 33
+│   │   ├── 34
+│   │   ├── 35
+│   │   ├── 36
+│   │   ├── 37
+│   │   ├── 38
+│   │   ├── 39
+│   │   ├── 3a
+│   │   ├── 3b
+│   │   ├── 3c
+│   │   ├── 3d
+│   │   ├── 3e
+│   │   ├── 3f
+│   │   ├── 40
+│   │   ├── 41
+│   │   ├── 42
+│   │   ├── 43
+│   │   ├── 44
+│   │   ├── 45
+│   │   ├── 46
+│   │   ├── 47
+│   │   ├── 48
+│   │   ├── 49
+│   │   ├── 4a
+│   │   ├── 4b
+│   │   ├── 4c
+│   │   ├── 4d
+│   │   ├── 4e
+│   │   ├── 4f
+│   │   ├── 50
+│   │   ├── 51
+│   │   ├── 52
+│   │   ├── 53
+│   │   ├── 54
+│   │   ├── 55
+│   │   ├── 56
+│   │   ├── 57
+│   │   ├── 58
+│   │   ├── 59
+│   │   ├── 5a
+│   │   ├── 5b
+│   │   ├── 5c
+│   │   ├── 5d
+│   │   ├── 5e
+│   │   ├── 5f
+│   │   ├── 60
+│   │   ├── 61
+│   │   ├── 62
+│   │   ├── 63
+│   │   ├── 64
+│   │   ├── 65
+│   │   ├── 66
+│   │   ├── 67
+│   │   ├── 68
+│   │   ├── 69
+│   │   ├── 6a
+│   │   ├── 6b
+│   │   ├── 6c
+│   │   ├── 6d
+│   │   ├── 6e
+│   │   ├── 6f
+│   │   ├── 70
+│   │   ├── 71
+│   │   ├── 72
+│   │   ├── 73
+│   │   ├── 74
+│   │   ├── 75
+│   │   ├── 76
+│   │   ├── 77
+│   │   ├── 78
+│   │   ├── 79
+│   │   ├── 7a
+│   │   ├── 7b
+│   │   ├── 7c
+│   │   ├── 7d
+│   │   ├── 7e
+│   │   ├── 7f
+│   │   ├── 80
+│   │   ├── 81
+│   │   ├── 82
+│   │   ├── 83
+│   │   ├── 84
+│   │   ├── 85
+│   │   ├── 86
+│   │   ├── 87
+│   │   ├── 88
+│   │   ├── 89
+│   │   ├── 8a
+│   │   ├── 8b
+│   │   ├── 8c
+│   │   ├── 8d
+│   │   ├── 8e
+│   │   ├── 8f
+│   │   ├── 90
+│   │   ├── 91
+│   │   ├── 92
+│   │   ├── 93
+│   │   ├── 94
+│   │   ├── 95
+│   │   ├── 96
+│   │   ├── 97
+│   │   ├── 98
+│   │   ├── 99
+│   │   ├── 9a
+│   │   ├── 9b
+│   │   ├── 9c
+│   │   ├── 9d
+│   │   ├── 9e
+│   │   ├── 9f
+│   │   ├── a0
+│   │   ├── a1
+│   │   ├── a2
+│   │   ├── a3
+│   │   ├── a4
+│   │   ├── a5
+│   │   ├── a6
+│   │   ├── a7
+│   │   ├── a8
+│   │   ├── a9
+│   │   ├── aa
+│   │   ├── ab
+│   │   ├── ac
+│   │   ├── ad
+│   │   ├── ae
+│   │   ├── af
+│   │   ├── b0
+│   │   ├── b1
+│   │   ├── b2
+│   │   ├── b3
+│   │   ├── b4
+│   │   ├── b5
+│   │   ├── b6
+│   │   ├── b7
+│   │   ├── b8
+│   │   ├── b9
+│   │   ├── ba
+│   │   ├── bb
+│   │   ├── bc
+│   │   ├── bd
+│   │   ├── be
+│   │   ├── bf
+│   │   ├── c0
+│   │   ├── c1
+│   │   ├── c2
+│   │   ├── c3
+│   │   ├── c4
+│   │   ├── c5
+│   │   ├── c6
+│   │   ├── c7
+│   │   ├── c8
+│   │   ├── c9
+│   │   ├── ca
+│   │   ├── cb
+│   │   ├── cc
+│   │   ├── cd
+│   │   ├── ce
+│   │   ├── cf
+│   │   ├── d0
+│   │   ├── d1
+│   │   ├── d2
+│   │   ├── d3
+│   │   ├── d4
+│   │   ├── d5
+│   │   ├── d6
+│   │   ├── d7
+│   │   ├── d8
+│   │   ├── d9
+│   │   ├── da
+│   │   ├── db
+│   │   ├── dc
+│   │   ├── dd
+│   │   ├── de
+│   │   ├── df
+│   │   ├── e0
+│   │   ├── e1
+│   │   ├── e2
+│   │   ├── e3
+│   │   ├── e4
+│   │   ├── e5
+│   │   ├── e6
+│   │   ├── e7
+│   │   ├── e8
+│   │   ├── e9
+│   │   ├── ea
+│   │   ├── eb
+│   │   ├── ec
+│   │   ├── ed
+│   │   ├── ee
+│   │   ├── ef
+│   │   ├── f0
+│   │   ├── f1
+│   │   ├── f2
+│   │   ├── f3
+│   │   ├── f4
+│   │   ├── f5
+│   │   ├── f6
+│   │   ├── f7
+│   │   ├── f8
+│   │   ├── f9
+│   │   ├── fa
+│   │   ├── fb
+│   │   ├── fc
+│   │   ├── fd
+│   │   ├── fe
+│   │   ├── ff
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       ├── remotes
+│       └── tags
+├── .gitignore
+├── .venv
+│   ├── .gitignore
+│   ├── bin
+│   │   ├── Activate.ps1
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── f2py
+│   │   ├── normalizer
+│   │   ├── numpy-config
+│   │   ├── pip
+│   │   ├── pip3
+│   │   ├── pip3.13
+│   │   ├── python -> python3.13
+│   │   ├── python3 -> python3.13
+│   │   └── python3.13 -> /opt/homebrew/opt/python@3.13/bin/python3.13
+│   ├── include
+│   │   └── python3.13
+│   ├── lib
+│   │   └── python3.13
+│   └── pyvenv.cfg
+├── CLAUDE.md
+├── INSTALL_REQUIREMENTS.md
+├── PROJECT_ORGANIZATION_SUMMARY.md
+├── README_SCREENSHOT_OPTIMIZER.md
+├── REBRAND_HIERARCHY_SUMMARY.md
+├── additional_cleanup_backup
+│   ├── Ashburnham_Conservation_Trust_homepage.png
+│   ├── Black_Canyon_Regional_Land_Trust_homepage.png
+│   ├── Land_Trust_of_the_Treasure_Valley_homepage.png
+│   ├── Louisville_Jefferson_County_Environmental_Trust_homepage.png
+│   ├── The_Trust_for_Public_Land_homepage.png
+│   └── Weeks_Bay_Foundation_homepage.png
+├── config
+│   └── settings.yaml
+├── data_backup
+│   ├── .DS_Store
+│   ├── dclt
+│   │   ├── .DS_Store
+│   │   ├── 1-STRATEGY-1e52a8cd575580f09c07e3a0026d2c12.md
+│   │   ├── 1-strategy
+│   │   ├── 2-EXECUTION-1e52a8cd5755806b9553cd0f59698dfc.md
+│   │   ├── 2-execution
+│   │   ├── 3-REFERENCE-&-TOOLS-1e52a8cd575580c7a886f4de373f194d.md
+│   │   └── 3-reference-tools
+│   ├── landtrusts
+│   │   ├── analysis
+│   │   ├── datasets
+│   │   └── profiles
+│   └── other_orgs
+│       ├── analysis
+│       ├── datasets
+│       └── profiles
+├── dclt-strategic-system-v2.code-workspace
+├── docs
+│   ├── 01_STRATEGY
+│   │   ├── .DS_Store
+│   │   ├── 2026-Budgeting.md
+│   │   ├── Brand Strategy Hub
+│   │   ├── Comms Strategy Master Hub
+│   │   ├── Land Seller Experience Study (2025)
+│   │   ├── Mission, Values & Brand Voice
+│   │   ├── Research & Audits
+│   │   ├── Website_Strategy_Hub
+│   │   └── legacy_site_content
+│   ├── 02_EXECUTION
+│   │   ├── .DS_Store
+│   │   ├── 00 Dashboards
+│   │   ├── 10_Projects
+│   │   ├── 20 Operations
+│   │   ├── 30 Calendars
+│   │   ├── 40 Pipelines
+│   │   └── README.md
+│   ├── 03_REFERENCE_AND_TOOLS
+│   │   ├── .DS_Store
+│   │   ├── Analytics and Lessons Learned
+│   │   ├── Analytics-and-Lessons-Learned.md
+│   │   ├── Focus Group Data
+│   │   ├── Messaging & Engagement Research
+│   │   ├── Messaging Library
+│   │   ├── Messaging-&-Engagement-Research.md
+│   │   ├── Messaging-Library.md
+│   │   ├── Other Brands for Research
+│   │   ├── Other-Brands-for-Research.md
+│   │   ├── Project-Communication-Templates.md
+│   │   ├── README.md
+│   │   ├── Standard Operating Procedures
+│   │   ├── Temporary Notes
+│   │   └── volunteer-photographers-list.md
+│   ├── 04_DAILY_FOCUS
+│   │   ├── .DS_Store
+│   │   ├── 20251103.md
+│   │   ├── 20251117.md
+│   │   ├── 20251124.md
+│   │   └── 20251204.md
+│   ├── docs-structure.txt
+│   └── index.md
+├── full-tree.txt
+├── input
+│   └── .DS_Store
+├── mkdocs.yml
+├── output
+│   ├── .DS_Store
+│   ├── CLEANUP_REPORT.md
+│   ├── archive
+│   ├── brand_system_analysis.md
+│   ├── cleanup_rename_log.txt
+│   ├── current
+│   ├── dashboards
+│   │   └── projects_dashboard.html
+│   └── reports
+│       ├── .DS_Store
+│       ├── cleanup_report.json
+│       ├── data_quality_audit.json
+│       ├── dclt_advanced_gantt_chart.html
+│       ├── dclt_advanced_project_analysis.md
+│       ├── dclt_complete_filename_cleaning.md
+│       ├── dclt_crossreference_analysis.md
+│       ├── dclt_crossreference_data.json
+│       ├── dclt_hierarchy_reorganization.md
+│       ├── dclt_intelligent_crossrefs_final.md
+│       ├── dclt_timeline_data_quality.md
+│       ├── digital_presence_analysis.md
+│       ├── extracted_metadata.json
+│       ├── final_processing_report.md
+│       ├── final_screenshot_cleanup_summary.md
+│       ├── frontmatter_candidates.md
+│       ├── frontmatter_final_implementation_report.md
+│       ├── frontmatter_implementation_review.md
+│       ├── migration_executive_summary.md
+│       ├── notion_export_analysis.json
+│       ├── notion_migration_analysis.md
+│       ├── notion_processing_report.json
+│       ├── obsidian_links_fixed_final.md
+│       ├── processing_summary_and_findings.md
+│       ├── rebrand_hierarchy_analysis.json
+│       ├── rebrand_hierarchy_fixes.json
+│       ├── screenshot_analysis.json
+│       ├── screenshot_optimization_20250911_145007.log
+│       ├── screenshot_optimization_report_20250911_145223.md
+│       ├── screenshot_quality_assessment.md
+│       └── yaml_frontmatter_repair_report.md
+├── repo-structure.txt
+├── reports
+│   ├── embeddings
+│   │   ├── 0139623b4dfc71c53bc157ac503155fed5b9caafa9f9df81710e4aa48c5bdc1e.npy
+│   │   ├── 015638fd4874c3e98b44cbba69c2f132bd076ad31bde0d2023fefaa0b6aae645.npy
+│   │   ├── 01a463e5883b3b83184f6522a9021d91595f66bade6440f7c545cd38488549d7.npy
+│   │   ├── 04ca2c1da541adbb3d908411e3081072f514c4ca86135f201e68edfe28f2d76d.npy
+│   │   ├── 06faaa20190d1f5a767b14f6ab3b227b31e6508c5bc0dd74db4a7f1b583fe2f1.npy
+│   │   ├── 0adb61fbeab0d3ac1e2a1fca7733b84f4ffa5ce811eea2af46e3bb321e4ecc71.npy
+│   │   ├── 0e14a263b96d78286ca60e665f3ba8a3cbec5ee244e977b91eab8924f3116579.npy
+│   │   ├── 0eda6f97db3736257758ace82150d1adad42747e33384109b00b39a4cb0664eb.npy
+│   │   ├── 132de4cf3d396fbc31f92ada6d58acdb8f610344cb3d6ac193029ead0ac8b6c2.npy
+│   │   ├── 13355c38a40b0cc0544b55facdfac9646deae5df474c4b0b7a9ac7b364111842.npy
+│   │   ├── 15074c2982e951c77204aff8beaf523b6f54bacbdd4005fb553fa94526382af1.npy
+│   │   ├── 1613bf5ccbea249e12e5365e128de55e28473139f353a02bf6c380c4718743c0.npy
+│   │   ├── 19b3379bfc6320355de3495438296e6e3f412750f3fadfcc38b98116405d4628.npy
+│   │   ├── 1c1a173aef19c1e7088aaa37478cf5078ad378ed6bff760b287ed5c3a12e2ccb.npy
+│   │   ├── 1c342b3e04a6b918310245aeed69f1c6fd499b43dd595c03ed10c9cf5a53f7b3.npy
+│   │   ├── 1d332dfe531e651a8924458a78a08c2706c8ee9d18827883351bb1d6d29eac05.npy
+│   │   ├── 1d74c416227848e2731e5252a60b571527dda120213d81047bd2fc396a765dec.npy
+│   │   ├── 1d978311588adbc5ec51fd5e106f5b5ca7b1ec73eaa77a84e8c03cc56f312d30.npy
+│   │   ├── 20c00cac09d8685de5becd5138be0c07eb1ca374d8e7f4afe693c98e2712d100.npy
+│   │   ├── 25ea58767eeb004e09ac355288adec3efd056c128dcc032b7ef38c0c871ecf80.npy
+│   │   ├── 29069b77c456002580d667148689e52cae663a5585ebbab7e641f56c7306ce78.npy
+│   │   ├── 2943cd31678b3ce6bd19403223af4d353e4b1b174fe91c51cfafaa662be16168.npy
+│   │   ├── 2a27294711f7096896b31b0dcd57a11964479e15adac26f300f8a9f7c2a22ac1.npy
+│   │   ├── 2da7273c59a11f3b79f1d4d350199f2ce8e7dd2fa8faf9409f219953c7a778ed.npy
+│   │   ├── 2fd02dcdc675401b04c5f1714ae3b757db2718cca8b99ef3e5e5213b48c2a65e.npy
+│   │   ├── 35d0ecfb239c94522d1b8ef8aa176557f585cc3408b30cd254e80c3857bb2721.npy
+│   │   ├── 362ae3dd113d28b07bece7b67e2e4a071b63dbcdda6483125cfae741fb771a0a.npy
+│   │   ├── 3651067d11c836d9447b3c178bd2d9372cffeca44ff5ab0e2e90302db5bd5edf.npy
+│   │   ├── 389198c56646411204ed83b306a9c6a8bb345cd1e8edd67c7c3e395d9684777c.npy
+│   │   ├── 3986d2983280a020a33c68b917940f21300f7338ad0720be97a09ca5be1dc559.npy
+│   │   ├── 3aee849e2caaf24ed636ec0c304719ea981296d1f21904214450a00dbffbd034.npy
+│   │   ├── 3dbb4c4657a35f8e23040a5acccc53293b6df486133c39e35d52784e8a646906.npy
+│   │   ├── 3e3ca94d0c66792e58210c7e7ea340c1b6622af3e6e9702b19143c664f51e164.npy
+│   │   ├── 422e73dda57a7173502fb7f355147e5577e5e0dd28bc03e9421657f5cd44e0bb.npy
+│   │   ├── 439a266eba794ba156278d193d18c3d48e5082af0df2da21fd51e48b6ddb0512.npy
+│   │   ├── 47eb774618989a86b1e6c3bf5c79fcb9c3811e8b0e846ccda14d2e9c21ec6dd9.npy
+│   │   ├── 4d7b148bd362d1e62c4726bc55ca9d3d80b496e61b92e2bce8ea67532e351ec2.npy
+│   │   ├── 5086d5a2b2be780011678ccecfdff57f679d93f58f478793c6b77758f3d42039.npy
+│   │   ├── 523f7e777c652e4b5e17c1085df658c52409ca85b52a72cf3263591f84ae036e.npy
+│   │   ├── 5c486469c8d26b902f214649d87ce0e1603db069de303d48c1ba88be9acee654.npy
+│   │   ├── 5c58472da82c967d792fa6a743fd5a210d890b1fdf928131875b2214e6abc14f.npy
+│   │   ├── 5d65982a32d54c96a40b2e32aaa14133064bacb45523fe596aabe0bcbc0fc27d.npy
+│   │   ├── 5f3cd94f29a7664cc01aebbb5592c9ea1115c43b2f5f9487c9b6726a12e3e963.npy
+│   │   ├── 61a17bde6c361237c8aca1fbda9d7866746ef6101e88c2c300f5f65e60cbe5a5.npy
+│   │   ├── 6b868b90b4c01c26f8f5b5ff6b55ee021f5a4d4da866688d6b2a97924a5a57cd.npy
+│   │   ├── 6c142b5852a3f4ecc32c4091579759cbd3bd3b97af21bf82af275b22c4331213.npy
+│   │   ├── 6e8bfb2b91cd0b2d700ee1e8e18e6ab2345f92d924a98a8eb0608387cc370c21.npy
+│   │   ├── 760945d422523d8c3ee486149d3fc8761f1e356f8ca06d73a2d91fb0b8683bbc.npy
+│   │   ├── 7b1dfd93eb0f0b4a61c4d58660d950017c258beed54e23f94d2a4ba646405269.npy
+│   │   ├── 7fa16d55d69d14e97f819ab80aabc697070eee0c7d04307c7cad3b2ebeaedd8c.npy
+│   │   ├── 804978ac17abb149c7bbdc8f8af3028545626b3aa077730c22f4782a6941a93d.npy
+│   │   ├── 8533cb1b417c9617ef30c1ec9eb43eac83ea3685caf7bdf3bb5aafb47ff8b2ae.npy
+│   │   ├── 875ccf2c9e701c483f6e62fae2a7dc3b00a506e42376364b96a2a5904d919bb3.npy
+│   │   ├── 88b2f8d5710cf390ad537bd93512806708f5eabe607e426fd20d3ec0071dc403.npy
+│   │   ├── 88da3b0828ee8299a03aaa51baa50e7154a30b5826f0cc6780e6cf469dd48cac.npy
+│   │   ├── 8926c98d8ea6415232024a66b2ddec8071f613959886ccf0813c513805fca6c9.npy
+│   │   ├── 893e78af81f710be058c946e2603bc7867be565243a8ba77f23b258425f47961.npy
+│   │   ├── 8beb123d89b6123bbca483266439f8718291464ab355105a930fdbb85496e726.npy
+│   │   ├── 91e66bc111978b62495a126e602e48c2b7e415319c65513d22cc8b97205e6025.npy
+│   │   ├── 94703785463fe10561c2ed5e20159b845f248017a50dbaada5071b80ab954cc1.npy
+│   │   ├── 9d6b4fbeb0053baa55b6d66b48f1cb16d71c34b41cd5842389bd029b73f968bd.npy
+│   │   ├── 9e4c402c4dd8a8ee90e7c9c15d0cf91e3d74caf35a4596a2fa1d844ee6a4979e.npy
+│   │   ├── a15c75ecf7da5363a70e91161d40b17dadb23e7cea179b67f1f7e8116242e7b1.npy
+│   │   ├── a2f7a8fefa50ce37875a1676175c2fb2fd4462bbce9813eb38c5aafc4c688fa2.npy
+│   │   ├── a3580da1b0b8df7c0428540b8921d65abb8642d17a18a5f352b5b2ccc16c3db6.npy
+│   │   ├── a4722610a847813839e9667d7a065c221359846415d668d26da95bfccf8d872b.npy
+│   │   ├── a52735578ba39be3f352b2dc9205a2def2926750c83619589c27248b462bb9ed.npy
+│   │   ├── a6e263071681cfea453042655e15d8f17b99b968ed90c9cee1ec00491fc0ccca.npy
+│   │   ├── b16e6be477d0a6ca20d678ef8712e67a216aef239dd9b7cd076f9a257274aebf.npy
+│   │   ├── b291eac351e3da13ad8a5471a4a8d6fed1752d5441060fcc2a130761bde6efb4.npy
+│   │   ├── b304e2ba6e542b41e463445fb265679bdb32ace68faae6159cb661f5e8a69a67.npy
+│   │   ├── b4b939fc4cd40efc5632ac79b3b19120157de8002c16fca551b042148ef0074b.npy
+│   │   ├── b744d91abd6cb549e37671664081ad66b4ef4a76e832dcd8e68c1acbd3ff108a.npy
+│   │   ├── bacf6993e8295cb1d21606c0a8c18ce013bb9cf3456e6c2fc36150db21550833.npy
+│   │   ├── bbfdc602b82c09d3b4aaead115e60a8da7853771cf27911f8c1d1c1b44109676.npy
+│   │   ├── bde27ca7764121d4f8d330c73b2cf90e15ee9725aef747ddbf76efb555d3e36b.npy
+│   │   ├── c40f60d3370a6755ba0ab724e4b41228ec417262ef3cda82c6c52650cbaa748e.npy
+│   │   ├── c49c5b1782c8291bb9e47ba8ee0479753d248f200692beff20007078e1c5e416.npy
+│   │   ├── c87ca261fe8d72242af4e9f107c9dd2a651eea0fb4d1a8704182d6b4e4073736.npy
+│   │   ├── c96a2c713311710a69ca546e1ca76aa3da0e1d30c0f2a60043e1f035f44122d4.npy
+│   │   ├── cf51bb5301004e3444ba28ec11878abfab59c45ec05a3db2eacc88160ff508d2.npy
+│   │   ├── da1d16a4e694ddc3882f2dff78bb4882184bdd9b7868eb0c38dafcafcea80879.npy
+│   │   ├── dbc4115f5d4522fe39c5228d79f340dcc541c6c70b9dc613a1cd957fc81c7b75.npy
+│   │   ├── e3fe9f785fa14fcea41306aed21f19359ea1575504ab3f7eb1ecf418364618a2.npy
+│   │   ├── e7dd8b930e79dd97f951508196d6fad25ff98a1f976a1735e197cedbcc0d630e.npy
+│   │   ├── f0abdd3d61f296ee503dfcd9b3e01f81600eebe440263377d5345c58958b8112.npy
+│   │   ├── f54b6e852510a0bb05a329d1e580866730086e3acc2753c05fd412409ec26acb.npy
+│   │   ├── f69dceb72018dfdcad030be8d6980bfab6157be977e90be68063da02b650bd04.npy
+│   │   ├── fb7530f0981512db7022e9ec56dda185f0013c7f3124c60110d78cec5a98ba39.npy
+│   │   ├── fcf12568f7598f0dddf04d9dd26c4be1a4699469e75d96208ecb842576fd06c2.npy
+│   │   └── ffb1b90b44e9f8b655daf58fb5f3a9207e905d5a3a19eb04f9e4b6fb7a3cad7d.npy
+│   └── index.json
+├── requirements.txt
+├── research_data
+│   ├── .DS_Store
+│   ├── .obsidian
+│   │   ├── app.json
+│   │   ├── appearance.json
+│   │   ├── core-plugins.json
+│   │   ├── graph.json
+│   │   └── workspace.json
+│   ├── external_docs
+│   │   ├── analysis
+│   │   ├── datasets
+│   │   └── originals
+│   ├── landtrusts
+│   │   ├── .DS_Store
+│   │   ├── analysis
+│   │   ├── datasets
+│   │   └── profiles
+│   ├── other_orgs
+│   │   ├── .DS_Store
+│   │   ├── analysis
+│   │   ├── datasets
+│   │   ├── profiles
+│   │   └── screens
+│   └── wp-archive
+│       ├── doorcountylandtrust.WordPress.2025-09-11.xml
+│       ├── wp-clean-output
+│       ├── wp-rest-output
+│       ├── wp_export_to_md.py
+│       └── wp_rest_export.py
+├── screenshot_backups
+│   ├── Access_Fund_homepage.png
+│   ├── Alachua_Conservation_Trust_homepage.png
+│   ├── American_Chestnut_Land_Trust_homepage.png
+│   ├── Arizona_Land_and_Water_Trust_homepage.png
+│   ├── Ashby_Land_Trust_homepage.png
+│   ├── Aspen_Valley_Land_Trust_homepage.png
+│   ├── Athens_Land_Trust_homepage.png
+│   ├── Ausbon_Sargent_Land_Preservation_Trust_homepage.png
+│   ├── Avalonia_Land_Conservancy_homepage.png
+│   ├── Bear_Yuba_Land_Trust_homepage.png
+│   ├── Blue_Ridge_Conservancy_homepage.png
+│   ├── Boothbay_Region_Land_Trust_homepage.png
+│   ├── Bur_Oak_Land_Trust_homepage.png
+│   ├── Buzzards_Bay_Coalition_homepage.png
+│   ├── Cape_Elizabeth_Land_Trust_homepage.png
+│   ├── Catawba_Lands_Conservancy_homepage.png
+│   ├── Cazenovia_Preservation_Foundation_homepage.png
+│   ├── Central_Arizona_Land_Trust_homepage.png
+│   ├── Central_Indiana_Land_Trust_homepage.png
+│   ├── Central_Savannah_River_Land_Trust_homepage.png
+│   ├── Coastal_Mountains_Land_Trust_homepage.png
+│   ├── Coastal_Rivers_Conservation_Trust_homepage.png
+│   ├── Colorado_Cattlemen_s_Agricultural_Land_Trust_homepage.png
+│   ├── Columbia_Land_Conservancy_homepage.png
+│   ├── Conservation_Florida_homepage.png
+│   ├── Conservation_Trust_for_North_Carolina_homepage.png
+│   ├── Conserving_Carolina_homepage.png
+│   ├── Dartmouth_Natural_Resources_Trust_homepage.png
+│   ├── Davidson_Lands_Conservancy_homepage.png
+│   ├── Ducks_Unlimited_homepage.png
+│   ├── Finger_Lakes_Land_Trust_homepage.png
+│   ├── Five_Rivers_Conservation_Trust_homepage.png
+│   ├── Foothills_Conservancy_of_North_Carolina_homepage.png
+│   ├── Frenchman_Bay_Conservancy_homepage.png
+│   ├── Friends_of_Hopewell_Valley_Open_Space_homepage.png
+│   ├── Gallatin_Valley_Land_Trust_homepage.png
+│   ├── Genesee_Land_Trust_homepage.png
+│   ├── Genesee_Valley_Conservancy_homepage.png
+│   ├── Georgia_Alabama_Land_Trust_homepage.png
+│   ├── Grand_Traverse_Regional_Land_Conservancy_homepage.png
+│   ├── Great_Land_Trust_homepage.png
+│   ├── Great_Pond_Mountain_Conservation_Trust_homepage.png
+│   ├── Groton_Conservation_Trust_homepage.png
+│   ├── Highlands_Cashiers_Land_Trust_homepage.png
+│   ├── Hudson_Highlands_Land_Trust_homepage.png
+│   ├── Interior_Alaska_Land_Trust_homepage.png
+│   ├── Jo_Daviess_Conservation_Foundation_homepage.png
+│   ├── Kachemak_Heritage_Land_Trust_homepage.png
+│   ├── Keweenaw_Land_Trust_homepage.png
+│   ├── Lake_George_Land_Conservancy_homepage.png
+│   ├── Land_Trust_for_the_Mississippi_Coastal_Plain_homepage.png
+│   ├── Leelanau_Conservancy_homepage.png
+│   ├── Little_Forks_Conservancy_homepage.png
+│   ├── Loon_Echo_Land_Trust_homepage.png
+│   ├── Lowell_Parks_and_Conservation_Trust_homepage.png
+│   ├── Mahoosuc_Land_Trust_homepage.png
+│   ├── Maine_Coast_Heritage_Trust_homepage.png
+│   ├── Maine_Farmland_Trust_homepage.png
+│   ├── Mainspring_Conservation_Trust_homepage.png
+│   ├── Midcoast_Conservancy_homepage.png
+│   ├── Minnesota_Land_Trust_homepage.png
+│   ├── NICHES_Land_Trust_homepage.png
+│   ├── Natural_Land_Institute_homepage.png
+│   ├── New_Jersey_Conservation_Foundation_homepage.png
+│   ├── New_River_Conservancy_homepage.png
+│   ├── North_Florida_Land_Trust_homepage.png
+│   ├── North_Oakland_Headwaters_Land_Conservancy_homepage.png
+│   ├── North_Shore_Land_Alliance_homepage.png
+│   ├── Northern_Waters_Land_Trust_homepage.png
+│   ├── Northwest_Arkansas_Land_Trust_homepage.png
+│   ├── Openlands_homepage.png
+│   ├── Orange_County_Land_Trust_homepage.png
+│   ├── Otsego_Land_Trust_homepage.png
+│   ├── Ozark_Regional_Land_Trust_homepage.png
+│   ├── Piedmont_Land_Conservancy_homepage.png
+│   ├── Piscataquog_Land_Conservancy_homepage.png
+│   ├── Potomac_Conservancy_homepage.png
+│   ├── Prairie_Land_Conservancy_homepage.png
+│   ├── Prickly_Pear_Land_Trust_homepage.png
+│   ├── Ranchland_Trust_of_Kansas_homepage.png
+│   ├── Rangeley_Lakes_Heritage_Trust_homepage.png
+│   ├── Raritan_Headwaters_Association_homepage.png
+│   ├── Rensselaer_Plateau_Alliance_homepage.png
+│   ├── Rio_Grande_Agricultural_Land_Trust_homepage.png
+│   ├── RiverLink_homepage.png
+│   ├── Saratoga_PLAN_homepage.png
+│   ├── Scenic_Hudson_homepage.png
+│   ├── Scenic_Rivers_Land_Trust_homepage.png
+│   ├── Sheriff_s_Meadow_Foundation_homepage.png
+│   ├── Southern_Appalachian_Highlands_Conservancy_homepage.png
+│   ├── Sudbury_Valley_Trustees_homepage.png
+│   ├── Sycamore_Land_Trust_homepage.png
+│   ├── Tampa_Bay_Conservancy_homepage.png
+│   ├── Taos_Land_Trust_homepage.png
+│   ├── Teton_Regional_Land_Trust_homepage.png
+│   ├── The_Conservation_Foundation_homepage.png
+│   ├── The_Conservation_Fund_homepage.png
+│   ├── The_Nature_Conservancy_homepage.png
+│   ├── Tug_Hill_Tomorrow_Land_Trust_homepage.png
+│   ├── Upper_Peninsula_Land_Conservancy_homepage.png
+│   ├── Upper_Valley_Land_Trust_homepage.png
+│   ├── Vinalhaven_Land_Trust_homepage.png
+│   ├── Vital_Ground_Foundation_homepage.png
+│   ├── Wareham_Land_Trust_homepage.png
+│   ├── Westchester_Land_Trust_homepage.png
+│   └── Woodstock_Land_Conservancy_homepage.png
+├── scripts
+│   ├── .DS_Store
+│   ├── add_reminder.py
+│   ├── ask.py
+│   ├── dashboards
+│   ├── indexing
+│   │   └── index_repo.py
+│   ├── list_reminders.py
+│   ├── query
+│   ├── scrapers
+│   │   ├── merge_master_with_scrape.py
+│   │   ├── merge_scrape_results.py
+│   │   ├── scrape_all.py
+│   │   ├── scrape_lighthouse.py
+│   │   ├── scrape_logos.py
+│   │   ├── scrape_metadata.py
+│   │   └── scrape_socials.py
+│   └── utils
+├── templates
+│   ├── full_document_analysis_and_integration.md
+│   ├── initiative_template.md
+│   ├── project_template.md
+│   └── reference_template.md
+├── venv
+│   ├── .gitignore
+│   ├── bin
+│   │   ├── Activate.ps1
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── choreo_diagnose
+│   │   ├── choreo_get_chrome
+│   │   ├── chroma
+│   │   ├── coloredlogs
+│   │   ├── distro
+│   │   ├── dotenv
+│   │   ├── f2py
+│   │   ├── hf
+│   │   ├── httpx
+│   │   ├── huggingface-cli
+│   │   ├── humanfriendly
+│   │   ├── isympy
+│   │   ├── jsonschema
+│   │   ├── kaleido_get_chrome
+│   │   ├── kaleido_mocker
+│   │   ├── markdown-it
+│   │   ├── markdownify
+│   │   ├── normalizer
+│   │   ├── numpy-config
+│   │   ├── onnxruntime_test
+│   │   ├── openai
+│   │   ├── pip
+│   │   ├── pip3
+│   │   ├── pip3.13
+│   │   ├── playwright
+│   │   ├── plotly_get_chrome
+│   │   ├── py.test
+│   │   ├── pybase64
+│   │   ├── pygmentize
+│   │   ├── pyproject-build
+│   │   ├── pyrsa-decrypt
+│   │   ├── pyrsa-encrypt
+│   │   ├── pyrsa-keygen
+│   │   ├── pyrsa-priv2pub
+│   │   ├── pyrsa-sign
+│   │   ├── pyrsa-verify
+│   │   ├── pytest
+│   │   ├── python -> python3.13
+│   │   ├── python3 -> python3.13
+│   │   ├── python3.13 -> /opt/homebrew/opt/python@3.13/bin/python3.13
+│   │   ├── tiny-agents
+│   │   ├── tqdm
+│   │   ├── typer
+│   │   ├── uvicorn
+│   │   ├── watchfiles
+│   │   ├── websockets
+│   │   └── wsdump
+│   ├── include
+│   │   ├── python3.13
+│   │   └── site
+│   ├── lib
+│   │   └── python3.13
+│   ├── pyvenv.cfg
+│   └── share
+│       ├── jupyter
+│       └── man
+└── watcher_test.log
+
+361 directories, 400 files

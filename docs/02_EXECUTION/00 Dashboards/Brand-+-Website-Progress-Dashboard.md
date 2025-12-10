@@ -21,9 +21,9 @@ last_updated: '2025-09-11'
 
 🔗 See related: [[🗺️ Brand + Website Timeline & Milestones|Brand + Website Timeline & Milestones]] ▪ *milestone scheduling & delivery focus*
 
-[Brand System (2026)](Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42.md) 
+<!-- BROKEN LINK: [Brand System (2026)](Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42.md) 
 
-[**Website Overhaul Roadmap (2025-2026)**](Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026)%202292a8cd5755804a96abdc701b4139f2.md) 
+<!-- BROKEN LINK: [**Website Overhaul Roadmap (2025-2026)**](Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026) -->%202292a8cd5755804a96abdc701b4139f2.md) 
 
 [[Brand + Website Executive Summary|📊 Brand + Website: Executive Summary]] - High-level goals, decisions, and timeline overview
 
@@ -47,7 +47,7 @@ last_updated: '2025-09-11'
 > 🔗 See also:
 > 
 > 
-> [Timeline & Milestones](https://www.notion.so/paste%20link)
+> <!-- BROKEN LINK: [Timeline & Milestones](https://www.notion.so/paste%20link) -->
 > 
 
 ## **🗂️ Brand + Website Progress Dashboard**
@@ -68,9 +68,9 @@ last_updated: '2025-09-11'
 
 ## 🔹 Phase 1: Strategy & Audience
 
-- ✅ [Personas and psychographic segments finalized](https://docs.google.com/document/d/1zh0BVpoqMB3itT_kiN2jU55LVJKTVZfl_yU6278ilO4/edit?tab=t.0#heading=h.d1qot3nukxnb)
-- ✅ [Focus group testing (2 rounds completed)](Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Focus%20Group%20Participation%20&%20Feedback%202152a8cd57558032a3c3cd21254b5fa2.md)
-- ✅ [Cross-group synthesis & insight analysis complete (with 2 groups)](Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Focus%20Group%20Participation%20&%20Feedback%202152a8cd57558032a3c3cd21254b5fa2/Combined%20Focus%20Groups%20Analysis%2022d2a8cd5755800cb6accf995288dd10.md)
+- ✅ <!-- BROKEN LINK: [Personas and psychographic segments finalized](https://docs.google.com/document/d/1zh0BVpoqMB3itT_kiN2jU55LVJKTVZfl_yU6278ilO4/edit?tab=t.0#heading=h.d1qot3nukxnb) -->
+- ✅ <!-- BROKEN LINK: [Focus group testing (2 rounds completed)](Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Focus%20Group%20Participation%20&%20Feedback%202152a8cd57558032a3c3cd21254b5fa2.md)
+- ✅ <!-- BROKEN LINK: [Cross-group synthesis & insight analysis complete (with 2 groups)](Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Focus%20Group%20Participation%20&%20Feedback%202152a8cd57558032a3c3cd21254b5fa2/Combined%20Focus%20Groups%20Analysis%2022d2a8cd5755800cb6accf995288dd10.md)
 
 [[- Monthly Check-Ins|
 **- Monthly Check-Ins**
@@ -78,7 +78,7 @@ last_updated: '2025-09-11'
 
 [[🗺️ Brand + Website Timeline & Milestones|🗺️ Brand + Website Timeline & Milestones]]
 
-[- **Brand Delivery Kit**](Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Brand%20Delivery%20Kit%201e72a8cd575580bbaca6cadc0d6c8d57.md)
+<!-- BROKEN LINK: [- **Brand Delivery Kit**](Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Brand%20Delivery%20Kit%201e72a8cd575580bbaca6cadc0d6c8d57.md)
 
 ## 🔹 Phase 2: Creative Direction
 
@@ -86,7 +86,7 @@ last_updated: '2025-09-11'
 - 🟡 Brand system development underway
 - 🟡 Symbolism aligned with mission and visual system tested for accessibility, tone, and flexibility
 
-[- Moodboard Exploration](Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Moodboard%20Exploration%201e72a8cd5755800bb061f073dde4ef19.md)
+<!-- BROKEN LINK: [- Moodboard Exploration](Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Moodboard%20Exploration%201e72a8cd5755800bb061f073dde4ef19.md)
 
 ## 🔹 Phase 3: Assets & Rollout
 

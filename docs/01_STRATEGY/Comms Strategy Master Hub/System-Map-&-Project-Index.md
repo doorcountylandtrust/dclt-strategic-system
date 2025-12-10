@@ -37,10 +37,10 @@ This page helps orient users to the full communications system behind the DCLT B
 
 - [[Comms Strategy Master Hub|**Comms Strategy Master Hub**]] → Long-term research, personas, messaging frameworks
 - [[Website Strategy Hub|**Website Strategy Hub**]] → Structural planning, UX, content modeling
-- [**Brand System (2026)**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42.md) → Visual identity system, usage, templates
+- <!-- BROKEN LINK: [**Brand System (2026)**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42.md) → Visual identity system, usage, templates
 - [[— Video Strategy & Production Hub|**Video Strategy & Production Hub**]] → Campaign and evergreen video planning
-- [**Task Tracker**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Task%20Tracker%201b22a8cd57558014b583dcde7f6291ba.md) → Cross-project action and deadlines
-- [**Website Overhaul Roadmap (2025–2026)**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026)%202292a8cd5755804a96abdc701b4139f2.md) → Timeline and phase-by-phase web rebuild
+- <!-- BROKEN LINK: [**Task Tracker**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Task%20Tracker%201b22a8cd57558014b583dcde7f6291ba.md) --> → Cross-project action and deadlines
+- <!-- BROKEN LINK: [**Website Overhaul Roadmap (2025–2026)**](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026) -->%202292a8cd5755804a96abdc701b4139f2.md) → Timeline and phase-by-phase web rebuild
 
 ---
 
@@ -84,22 +84,22 @@ This page helps orient users to the full communications system behind the DCLT B
 | --- | --- | --- | --- |
 | [[Website Strategy Hub|Website Strategy Hub]] | Execution Hub | ✅ | Main planning space for redesign |
 | [[— Website Content Strategy and Migration Plan|Website Content Strategy & Migration]] | Strategy + Tracker | ✅ | Structure for building and migrating content |
-| [Website Overhaul Roadmap (2025–2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026)%202292a8cd5755804a96abdc701b4139f2.md) | Timeline/Phases | ✅ | Big-picture progress over time |
+| <!-- BROKEN LINK: [Website Overhaul Roadmap (2025–2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026) -->%202292a8cd5755804a96abdc701b4139f2.md) | Timeline/Phases | ✅ | Big-picture progress over time |
 | I[[—— Improved Homepage Mockup Concept|mproved Homepage Mockup Concept]] | Design | 🛠️ | Still in progress |
 | [[—— Wireframes - DCLT Website Redesign|Wireframes – Website Redesign]] | UX Design | 🛠️ | In progress |
 | [[Modular Content Blocks|Modular Content Blocks]] | Design System | ✅ | Inventory and field structure |
-| [Filter Strategy & Structure](https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21) | UX + IA | ✅ | For map filters and tag logic |
-| [Technical Implementation (2025–2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/%E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build)%202302a8cd575580208f20c94bcf644264.md) | Engineering Plan | ✅ | Timeline and system notes |
+| <!-- BROKEN LINK: [Filter Strategy & Structure](https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21) --> | UX + IA | ✅ | For map filters and tag logic |
+| <!-- BROKEN LINK: [Technical Implementation (2025–2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/%E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build) -->%202302a8cd575580208f20c94bcf644264.md) | Engineering Plan | ✅ | Timeline and system notes |
 
 ## **🎨 Section 3: Brand & Creative**
 
 | **Page** | **Type** | **Status** | **Notes** |
 | --- | --- | --- | --- |
 | [[Brand + Website Progress Dashboard|Brand + Website Progress Dashboard]] | Tracking | ✅ | Status of both workstreams |
-| [Brand System (2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42.md) | Design System | 🛠️ | Color, type, icons, logo, templates |
-| [Creative Direction](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Creative%20Direction%201e72a8cd575580539fc2fc0efec17d0f.md) | Moodboards & Style | ✅ | Focus group-tested visual systems |
-| [System Elements](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20System%20Elements%201e72a8cd5755808abab1fe36a60025eb.md) | Checklist | 🛠️ | Logo file types, usage rules, etc. |
-| [Final Brand Package](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Brand%20Delivery%20Kit%201e72a8cd575580bbaca6cadc0d6c8d57.md) | Output | ⏳ | Will live here post-rollout |
+| <!-- BROKEN LINK: [Brand System (2026)](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42.md) | Design System | 🛠️ | Color, type, icons, logo, templates |
+| <!-- BROKEN LINK: [Creative Direction](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Creative%20Direction%201e72a8cd575580539fc2fc0efec17d0f.md) | Moodboards & Style | ✅ | Focus group-tested visual systems |
+| <!-- BROKEN LINK: [System Elements](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20System%20Elements%201e72a8cd5755808abab1fe36a60025eb.md) | Checklist | 🛠️ | Logo file types, usage rules, etc. |
+| <!-- BROKEN LINK: [Final Brand Package](../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Brand%20Delivery%20Kit%201e72a8cd575580bbaca6cadc0d6c8d57.md) | Output | ⏳ | Will live here post-rollout |
 
 ## **📽️ Section 4: Content & Production**
 

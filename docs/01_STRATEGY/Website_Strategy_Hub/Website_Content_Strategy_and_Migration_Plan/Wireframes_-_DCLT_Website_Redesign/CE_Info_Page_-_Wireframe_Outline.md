@@ -16,7 +16,7 @@ last_updated: '2025-09-11'
 ---
 # —— CE Info Page – Wireframe Outline
 
-![image.png](%E2%80%94%E2%80%94%20CE%20Info%20Page%20%E2%80%93%20Wireframe%20Outline%202032a8cd5755808c9113c20415643042/image.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%E2%80%94%20CE%20Info%20Page%20%E2%80%93%20Wireframe%20Outline%202032a8cd5755808c9113c20415643042/image.png) -->
 
 ### **🖼️ Hero Section**
 

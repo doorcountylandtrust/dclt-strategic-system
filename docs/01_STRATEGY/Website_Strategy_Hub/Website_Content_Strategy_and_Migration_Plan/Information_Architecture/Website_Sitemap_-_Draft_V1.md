@@ -22,7 +22,7 @@ last_updated: '2025-09-11'
 
 [Explore the Land]    [Protect Land]    [Get Involved]    [About Us]    [News & Events]    [Donate]
 
-![image.png](%E2%80%94%E2%80%94%E2%80%94%20Website%20Sitemap%20-%20Draft%20V1%202022a8cd57558084ba25e911f87f4d51/image.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%E2%80%94%E2%80%94%20Website%20Sitemap%20-%20Draft%20V1%202022a8cd57558084ba25e911f87f4d51/image.png) -->
 
 ## **🔽 Explore the Land**
 

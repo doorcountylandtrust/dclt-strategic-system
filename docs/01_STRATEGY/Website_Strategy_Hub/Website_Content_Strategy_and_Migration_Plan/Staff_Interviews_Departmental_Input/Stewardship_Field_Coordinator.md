@@ -63,7 +63,7 @@ last_updated: '2025-09-11'
 ### **🤝 Cultural Acknowledgement**
 
 - More visible **recognition of Indigenous nations** connected to the land
-- [https://ridgessanctuary.org/indigenous-heritage/](https://ridgessanctuary.org/indigenous-heritage/)
+- <!-- BROKEN LINK: [https://ridgessanctuary.org/indigenous-heritage/](https://ridgessanctuary.org/indigenous-heritage/) -->
 - Include land acknowledgements where appropriate
 
 ### **♿ Accessibility & Inclusion**

@@ -30,7 +30,7 @@ While Google Analytics (GA4) is a powerful tool, it:
 - Conflicts with our values of transparency and community trust
 - Adds technical and legal complexity (e.g. cookie consent banners)
 
-Instead, we are implementing **privacy-first analytics** using [Plausible](https://plausible.io/) or [Fathom](https://usefathom.com/), which offer:
+Instead, we are implementing **privacy-first analytics** using <!-- BROKEN LINK: [Plausible](https://plausible.io/) --> or <!-- BROKEN LINK: [Fathom](https://usefathom.com/) -->, which offer:
 
 - No cookies or fingerprinting
 - No personal data collection
@@ -59,7 +59,7 @@ Instead, we are implementing **privacy-first analytics** using [Plausible](https
 ### **🔧 Setup Steps**
 
 1. **Create Account**
-    - Go to [plausible.io](https://plausible.io/)
+    - Go to <!-- BROKEN LINK: [plausible.io](https://plausible.io/) -->
     - Sign up with DCLT’s analytics email (e.g. analytics@doorcountylandtrust.org)
 2. **Add Website**
     - Enter our main site URL

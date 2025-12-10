@@ -21,7 +21,7 @@ last_updated: '2025-09-11'
 
 🔗 See related  [[Brand + Website Progress Dashboard|Brand + Website Progress Dashboard]]  ▪ *status at-a-glance*
 
-![milestone chart.png](%F0%9F%97%BA%EF%B8%8F%20Brand%20+%20Website%20Timeline%20&%20Milestones%202372a8cd5755805198deecfb977e6e72/milestone_chart.png)
+!<!-- BROKEN LINK: [milestone chart.png](%F0%9F%97%BA%EF%B8%8F%20Brand%20+%20Website%20Timeline%20&%20Milestones%202372a8cd5755805198deecfb977e6e72/milestone_chart.png) -->
 
 ## *Purpose:*
 
@@ -40,7 +40,7 @@ last_updated: '2025-09-11'
 > 🔗 See also:
 > 
 > 
-> [Progress Dashboard](https://www.notion.so/paste%20link)
+> <!-- BROKEN LINK: [Progress Dashboard](https://www.notion.so/paste%20link) -->
 > 
 
 # **✅ Project Roadmap Summary**

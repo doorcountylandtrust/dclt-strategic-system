@@ -121,9 +121,9 @@ Suggested pull quote:
 
 ## Linked Pages
 
-- [Land Seller Experience Study (2025)](https://www.notion.so/link-here)
-- [Audience Segmentation & Messaging Strategy](https://www.notion.so/link-here)
-- [Stakeholder Journey Maps](https://www.notion.so/link-here)
+- <!-- BROKEN LINK: [Land Seller Experience Study (2025)](https://www.notion.so/link-here) -->
+- <!-- BROKEN LINK: [Audience Segmentation & Messaging Strategy](https://www.notion.so/link-here) -->
+- <!-- BROKEN LINK: [Stakeholder Journey Maps](https://www.notion.so/link-here) -->
 
 [[Case Study Carl Barnard|Case Study: Carl Barnard]]
 

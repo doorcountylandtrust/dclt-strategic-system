@@ -62,7 +62,7 @@ Define reusable content components that will appear across multiple pages on the
     - Or separate CPTs fetched dynamically
 - Match each block with a **GraphQL fragment** in Astro for clean querying and rendering
 
-[  --- Master Modular Block Field Definitions](%E2%80%94%E2%80%94%20Modular%20Content%20Blocks%201f12a8cd57558061a6c9d9314be3cd49/%E2%80%94%E2%80%94%E2%80%94%20Master%20Modular%20Block%20Field%20Definitions%201f12a8cd575580708d65d0deb83f009f.csv)
+<!-- BROKEN LINK: [  --- Master Modular Block Field Definitions](%E2%80%94%E2%80%94%20Modular%20Content%20Blocks%201f12a8cd57558061a6c9d9314be3cd49/%E2%80%94%E2%80%94%E2%80%94%20Master%20Modular%20Block%20Field%20Definitions%201f12a8cd575580708d65d0deb83f009f.csv) -->
 
 ## Related Documents
 

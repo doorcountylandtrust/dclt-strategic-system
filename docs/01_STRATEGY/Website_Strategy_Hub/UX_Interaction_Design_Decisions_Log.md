@@ -56,9 +56,9 @@ We are open to reverting to hover behavior **only if:**
 
 ### **📚 References & Inspiration**
 
-- [Nielsen Norman Group – Hover Menus](https://www.nngroup.com/articles/mega-menus-work-well/)
-- [WCAG 2.1 Guidelines – Content on Hover or Focus](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html)
-- [Inclusive Components – Menus](https://inclusive-components.design/menus-menu-buttons/)
+- <!-- BROKEN LINK: [Nielsen Norman Group – Hover Menus](https://www.nngroup.com/articles/mega-menus-work-well/) -->
+- <!-- BROKEN LINK: [WCAG 2.1 Guidelines – Content on Hover or Focus](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html) -->
+- <!-- BROKEN LINK: [Inclusive Components – Menus](https://inclusive-components.design/menus-menu-buttons/) -->
 
 ## **List View vs. Map View**
 
@@ -116,9 +116,9 @@ These modes reflect different user **intent** and **cognitive framing**.
 
 ### **🔗 Related**
 
-- [UX System: Design Paradigms Log](https://www.notion.so/notion-link-if-you-have-it)
-- [Preserve Explorer – Wireframes](https://www.notion.so/link)
-- [Preserve Explorer – IA Map](https://www.notion.so/link)
+- <!-- BROKEN LINK: [UX System: Design Paradigms Log](https://www.notion.so/notion-link-if-you-have-it) -->
+- <!-- BROKEN LINK: [Preserve Explorer – Wireframes](https://www.notion.so/link) -->
+- <!-- BROKEN LINK: [Preserve Explorer – IA Map](https://www.notion.so/link) -->
 
 ## Breadcrumb Retention Rationale
 

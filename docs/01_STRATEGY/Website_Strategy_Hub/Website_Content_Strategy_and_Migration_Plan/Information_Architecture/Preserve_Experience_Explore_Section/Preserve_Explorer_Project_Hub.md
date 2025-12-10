@@ -132,27 +132,27 @@ We **can use internal GIS** data:
 - **Map View** supports location-first exploration (spatial awareness, proximity)
 - Panel overlay design supports in-place detail without full navigation
 
-See full rationale in [🧠 UX + Interaction Design Decisions Log →](https://www.notion.so/your-link-here)
+See full rationale in <!-- BROKEN LINK: [🧠 UX + Interaction Design Decisions Log →](https://www.notion.so/your-link-here) -->
 
 ---
 
 ## **📎 Linked Resources**
 
-[—— Vision & Wireframes](https://www.notion.so/1f82a8cd575580e59efbfe70b0442529?pvs=21)
+<!-- BROKEN LINK: [—— Vision & Wireframes](https://www.notion.so/1f82a8cd575580e59efbfe70b0442529?pvs=21) -->
 
-[—— Technical Options](https://www.notion.so/1f82a8cd5755803a87accab8f62b6398?pvs=21)
+<!-- BROKEN LINK: [—— Technical Options](https://www.notion.so/1f82a8cd5755803a87accab8f62b6398?pvs=21) -->
 
-[—— UX Features & Filters Wishlist](https://www.notion.so/1f82a8cd5755802da19cd8ec288266d0?pvs=21)
+<!-- BROKEN LINK: [—— UX Features & Filters Wishlist](https://www.notion.so/1f82a8cd5755802da19cd8ec288266d0?pvs=21) -->
 
-[—— Content Model (Preserve Fields, Icons, Tags)](https://www.notion.so/1f82a8cd575580248957e390efdf7ef8?pvs=21)
+<!-- BROKEN LINK: [—— Content Model (Preserve Fields, Icons, Tags)](https://www.notion.so/1f82a8cd575580248957e390efdf7ef8?pvs=21) -->
 
-[—— Roadmap & Phases](https://www.notion.so/1f82a8cd575580e0ae3ed390269ba60b?pvs=21)
+<!-- BROKEN LINK: [—— Roadmap & Phases](https://www.notion.so/1f82a8cd575580e0ae3ed390269ba60b?pvs=21) -->
 
-[—— Filter Strategy & Structure](https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21)
+<!-- BROKEN LINK: [—— Filter Strategy & Structure](https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21) -->
 
-[—— Event and Stewardship Map Integration](https://www.notion.so/21e2a8cd575580baa073c606d62f19a0?pvs=21)
+<!-- BROKEN LINK: [—— Event and Stewardship Map Integration](https://www.notion.so/21e2a8cd575580baa073c606d62f19a0?pvs=21) -->
 
-[🛠 Developer Brief](https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21)
+<!-- BROKEN LINK: [🛠 Developer Brief](https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21) -->
 
 See full rationale in 
 

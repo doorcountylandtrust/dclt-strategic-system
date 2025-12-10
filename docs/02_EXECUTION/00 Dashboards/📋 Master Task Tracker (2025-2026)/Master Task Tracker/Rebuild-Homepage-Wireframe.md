@@ -60,7 +60,7 @@ Reimagine the homepage layout to reflect DCLT’s updated brand strategy, strate
 
 [[Brand + Website Executive Summary|Brand + Website: Executive Summary]]
 
-[— Foundations: Visual Strategy & Research](../../Brand%20System%20(2026)%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Foundations%20Visual%20Strategy%20&%20Research%201d72a8cd57558090a4f9d7c09afc0c58.md)
+<!-- BROKEN LINK: [— Foundations: Visual Strategy & Research](../../Brand%20System%20(2026) -->%201e72a8cd57558049b1bbdde707622e42/%E2%80%94%20Foundations%20Visual%20Strategy%20&%20Research%201d72a8cd57558090a4f9d7c09afc0c58.md)
 
 [[——— Website Sitemap - Draft V1|  ——— Website Sitemap - Draft V1]]
 

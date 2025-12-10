@@ -39,7 +39,7 @@ Since our inception in 1986, the Door County Land Trust has worked to preserve, 
 > The Land Trust protects land in three primary ways...
 
 - **We purchase properties**
-    We [purchase properties](https://doorcountylandtrust.org/how-we-save-land/protect-your-land/#bargain_sales). Purchases are conducted only on lands that are identified as high priority in terms of ecological and/or scenic significance.
+    We <!-- BROKEN LINK: [purchase properties](https://doorcountylandtrust.org/how-we-save-land/protect-your-land/#bargain_sales) -->. Purchases are conducted only on lands that are identified as high priority in terms of ecological and/or scenic significance.
 
 - **We accept land donations**
     We accept land donations from landowners who wish to see their properties permanently protected.

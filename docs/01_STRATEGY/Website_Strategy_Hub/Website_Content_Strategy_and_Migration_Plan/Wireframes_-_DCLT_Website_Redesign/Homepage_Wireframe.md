@@ -16,7 +16,7 @@ last_updated: '2025-09-11'
 ---
 # —— Homepage Wireframe
 
-![image.png](%E2%80%94%E2%80%94%20Homepage%20Wireframe%202032a8cd575580f7a36ad7aca424db33/image.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%E2%80%94%20Homepage%20Wireframe%202032a8cd575580f7a36ad7aca424db33/image.png) -->
 
 ## **🔽 Homepage**
 

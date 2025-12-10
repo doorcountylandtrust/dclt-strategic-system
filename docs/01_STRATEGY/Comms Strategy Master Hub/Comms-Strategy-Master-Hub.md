@@ -175,13 +175,13 @@ Consistent Branding & Messaging – Update print/digital materials to reflect th
 
 [[— Legacy Research & Historical Context|— Legacy Research & Historical Context]]
 
-[— Strategic Initiative Alignment Matrix](Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Strategic%20Initiative%20Alignment%20Matrix%201bd2a8cd57558032a5ebc3e15f32e5db.csv)
+<!-- BROKEN LINK: [— Strategic Initiative Alignment Matrix](Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Strategic%20Initiative%20Alignment%20Matrix%201bd2a8cd57558032a5ebc3e15f32e5db.csv) -->
 
 [[—— Strategic Initiatives – Comms Summary|—— Strategic Initiatives – Comms Summary]]
 
 [[— Audience Segmentation & Messaging Strategy|— Audience Segmentation & Messaging Strategy]]
 
-[— Whole Communities Framework (Stakeholder Lens)](Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens)%201c42a8cd575580338ca5de52561a9f97.md)
+<!-- BROKEN LINK: [— Whole Communities Framework (Stakeholder Lens)](Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens) -->%201c42a8cd575580338ca5de52561a9f97.md)
 
 [[— 5-Year Roadmap & Timeline|— 5-Year Roadmap & Timeline]]
 

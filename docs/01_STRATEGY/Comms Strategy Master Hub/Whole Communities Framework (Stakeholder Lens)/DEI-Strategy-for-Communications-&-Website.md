@@ -102,16 +102,16 @@ Reference this page in the following areas to ensure consistent alignment:
 
 **Inclusive Design Inspiration**
 
-- [https://webaim.org](https://webaim.org/)
-- [https://a11yproject.com](https://a11yproject.com/)
-- [https://rootid.com/think/building-equity-centered-communications-harnessing-the-power-of-a-creative-brief/](https://rootid.com/think/building-equity-centered-communications-harnessing-the-power-of-a-creative-brief/)
-- [https://www.audubon.org/about/edi](https://www.audubon.org/about/edi)
-- [https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism](https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism)
+- <!-- BROKEN LINK: [https://webaim.org](https://webaim.org/) -->
+- <!-- BROKEN LINK: [https://a11yproject.com](https://a11yproject.com/) -->
+- <!-- BROKEN LINK: [https://rootid.com/think/building-equity-centered-communications-harnessing-the-power-of-a-creative-brief/](https://rootid.com/think/building-equity-centered-communications-harnessing-the-power-of-a-creative-brief/) -->
+- <!-- BROKEN LINK: [https://www.audubon.org/about/edi](https://www.audubon.org/about/edi) -->
+- <!-- BROKEN LINK: [https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism](https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism) -->
 - https://designjustice.org/ttps://www.ptny.org/news-and-events/e-news-1/2023/05/building-equitable-trails
 - https://cdeinspires.org/
-- [https://diversegreen.org](https://diversegreen.org/)
+- <!-- BROKEN LINK: [https://diversegreen.org](https://diversegreen.org/) -->
 - https://landtrustalliance.org/news/why-inclusion-matters
-- [https://www.wilderness.org/articles/blog/how-new-bipoc-led-conservation-vision-came-life](https://www.wilderness.org/articles/blog/how-new-bipoc-led-conservation-vision-came-life)
+- <!-- BROKEN LINK: [https://www.wilderness.org/articles/blog/how-new-bipoc-led-conservation-vision-came-life](https://www.wilderness.org/articles/blog/how-new-bipoc-led-conservation-vision-came-life) -->
 
 ---
 

@@ -1,0 +1,437 @@
+[REMOVED] docs/02_EXECUTION/README.md → 2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/%F0%9F%93%8B%20Master%20Task%20Tracker%20(2025-2026
+[REMOVED] docs/02_EXECUTION/README.md → 2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Task%20Tracker%201b22a8cd57558014b583dcde7f6291ba.csv
+[REMOVED] docs/02_EXECUTION/README.md → 2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://groundswellconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/groundswell.wi
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/groundswell.wi/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.iceagetrail.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/iceagetrailorg
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/iceagetrail
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@iceagetrail
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.driftlessconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/driftless_dalc/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/driftlessconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCVA-I8CGn-XqahF6GD5GSTA
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://swibirds.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/swibirds
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/swibirds/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@SWiBirds
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://tallpinesconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/tall_pines_conservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/people/Tall-Pines-Conservancy/100064812427853/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/TallPinesConservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://northwoodslandtrust.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/northwoods_land_trust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/NorthwoodsLandTrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@northwoodslandtrust6460
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://theprairieenthusiasts.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/theprairieenthusiasts/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ThePrairieEnthusiasts
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@theprairieenthusiasts350
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://gatheringwaters.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/gatheringwaters/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/GatheringWatersWI/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.owlt.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/owlt1992/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/owlt1992/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCFW7IgqFkxwYH3NAK9u44TQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://ridgessanctuary.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/ridgessanctuary/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/RidgesSanctuary
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@TheRidgesSanctuary
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.kinniriver.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/kinnickinnic_river_land_trust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/kinniriver/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCHdX7n0eAGnxwJ3piScHB0Q
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.glaciallakes.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/glacial.lakes/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/people/Glacial-Lakes-Conservancy/100064727197140/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://mississippivalleyconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/mississippi_valley_conservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/mississippivalleyconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/BluffConservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://bairdcreek.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/baird_creek/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/BairdCreek/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://midwestadvocates.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/midwestadvocates/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/MidwestEnvironmentalAdvocates
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@midwestenvironmentaladvoca6119
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://landmarkwi.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/landmarkwisconsin/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/LandmarkConservancyWI/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.newlt.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/newlandtrust96/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/northeastwisconsinlandtrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@northeastwisconsinlandtrus7389
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://kmlandtrust.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/kettlemorainelandtrust
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/KettleMoraineLandTrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://theclcf.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/theclcf
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/theclcf
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@theclcf
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.genevalakeconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/genevalakeconservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/GenevaLakeConservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@genevalakeconservancy3194
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.ncctwi.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/ncct_landtrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ncctwi
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://knowlesnelson.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://landtrustalliance.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/LTAlliance
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/landtrustalliance
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/LandTrustAlliance
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://natlands.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/natural.lands/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/NatLands/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.columbialandtrust.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/columbialandtrust
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ColumbiaLT/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCie00CEFdbTKPZ0i6WQuHzQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://conservingindiana.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/centralindianalandtrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/conservingindiana/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCtabDTMpDg1C0ZmySMiK1lw
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://lowcountrylandtrust.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/lowcountrylandtrust
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/lowcountrylandtrust
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.nature.org/en-us/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/nature_org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/thenatureconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/natureconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.aldoleopold.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/aldoleopoldfoundation/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/AldoLeopoldFoundation/?ref=bookmarks
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCbDUto-7-ynE90cOjudYGXQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://mnland.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/mnlandtrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.conservationminnesota.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/conservationminnesota/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ConservationMN/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/ConservationMinn
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.conservationfund.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/theconservationfund
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/TheConservationFund/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/TheConservationFund
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://belwin.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/belwinconservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/belwinconservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UC4fZFFDIsSc9OnqTGsp3oGQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.gbbg.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/gbbotanicalgarden/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/GreenBayBotanicalGarden/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.woodlanddunes.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/people/Woodland-Dunes-Nature-Center-and-Preserve/100064917630306/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@woodlanddunesnaturecenterp7507
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://standingcedars.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://crossroadsatbigcreek.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/crossroadsatbigcreek/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/CrossroadsAtBigCreek
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://riveredgenaturecenter.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/riveredgenaturecenter/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/riveredgenaturecenter/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCwaOkZYuVLjta80vSxSHMBw
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://appalachiantrail.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://appalachiantrail.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/appalachiantrail/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ATHike
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/atconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://1kfriends.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/1kfriends/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/1kfriends
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://wiwf.org/cdnwiwf/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/WisconsinWildlifeFederation/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCbSFLqwuUWoxiotnvwcuanA
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.wisconsinwetlands.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/WisconsinWetlands
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://wigreenfire.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/wisgreenfire/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/wigreenfire
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCvX2ONR2agCeT5fTOVDordA
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://waukeshalandconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://waukeshalandconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/wclandconservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/waukeshalandconservancy/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCHVXK1yc-9WEgbsaD26tRgA?view_as=subscriber
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.ulaocreek.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/profile.php?id=100057720840539
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/watch?v=VY3pEzfYO1g
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://wicouncil.tu.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://ruffedgrousesociety.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/ruffedgrousesociety
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/watch?v=Kmr9CUWk17E
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.railstotrails.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/railstotrails
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/railstotrails
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/c/RailstoTrailsConservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://riverlandconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.lnrp.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.lnrp.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/4lnrp/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/4lnrp
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UC4N3DxsZvb-Bn-Y2hS-RcnA
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://ghtrails.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/GHTrails/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UC2tonVl51uJIHKYhy9ZYhJQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.chippewaconservancy.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/chippewaconservancy
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.baraboorange.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/BarabooRange/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.wisconservation.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.wisconservation.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/wisconservation/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/NaturalResourcesFoundation
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@Wisconservation
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.inhf.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/inhf/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/IowaNaturalHeritage/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://missourilandtrusts.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/molandtrusts/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/molandtrusts/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UCKrFUufsnjopAADJyTxcoTQ
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.protectindianaland.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.ecga.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/ecgreenbelt/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/ECGreenbelt/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@EssexCountyGreenbelt
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.linkedin.com/company/essex-county-greenbelt-association
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.svtweb.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/sudbury_valley_trustees/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/SudburyValleyTrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.mountgrace.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/MountGraceLCT
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/mountgracelct/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/channel/UC6cSuMUawRgTkLKgFbKQwwA/videos
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.kestreltrust.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/kestrel_land_trust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/KestrelTrust/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.savebuzzardsbay.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/savebuzzardsbay/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/savebuzzardsbay
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/savebuzzardsbay
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F9365674
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://thetrustees.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/thetrustees/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/thetrustees
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/@TheTrustees
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/thetrustees
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.instagram.com/massaudubon/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.facebook.com/MassAudubon
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.youtube.com/user/massaudubon
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → https://www.linkedin.com/company/mass-audubon/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Other-Brands-for-Research.md → Other%20Brands%20for%20Research%201f82a8cd575580d591ffce2c94cb64da/Accredited%20Land%20Trusts%202692a8cd5755806db700f6691ea1ec14.csv
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-&-Engagement-Research.md → https://www.pewresearch.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-&-Engagement-Research.md → https://www.audubon.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-&-Engagement-Research.md → https://climateaccess.org/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-&-Engagement-Research.md → https://www.societ.com/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-&-Engagement-Research.md → https://www.lse.ac.uk/
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Analytics-and-Lessons-Learned.md → Analytics%20and%20Lessons%20Learned%201b22a8cd57558099baf6ebb0050e6a3b/%E2%80%94%20Analytics%20&%20Insights%201b22a8cd5755807da9ebf96ba9b5bcb7.csv
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Messaging-Library.md → Messaging%20Library%201b22a8cd575580b3a338d139c6e4d263/%E2%80%94%20Key%20Messaging%20Database%201b22a8cd575580909c2bfbd6b8c75695.csv
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Focus-Group-Participation-&-Feedback.md → %E2%80%94%20Focus%20Group%20Participation%20&%20Feedback%202152a8cd57558032a3c3cd21254b5fa2/Untitled%202152a8cd575580b3a642c27c5ba38b74.csv
+[REMOVED] docs/03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/——-Confirmation-Email-Details.md → mailto:dkrumpos@doorcountylandtrust.org
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build_.md → https://www.notion.so/paste-link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build_.md → https://www.notion.so/paste-link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build_.md → https://www.notion.so/paste-link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build_.md → https://www.notion.so/paste-link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build_.md → %E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://www.nngroup.com/articles/mega-menus-work-well/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://inclusive-components.design/menus-menu-buttons/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://www.notion.so/notion-link-if-you-have-it
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://www.notion.so/link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md → https://www.notion.so/link
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Strategy_Hub.md → Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Strategy_Hub.md → Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Strategic_Initiatives_-_Web_Integration_Build_Sp.md → %E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Strategic_Initiatives_-_Web_Integration_Build_Sp.md → %E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image%201.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Overhaul_Roadmap_2025-2026_.md → https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Privacy-Friendly_Analytics_Setup.md → https://plausible.io/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Privacy-Friendly_Analytics_Setup.md → https://usefathom.com/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Privacy-Friendly_Analytics_Setup.md → https://plausible.io/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Evaluation.md → https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-367&t=XiuP7E51pcQimAIS-4
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Evaluation.md → %E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Fixes%20Tracker%201b32a8cd575580f4a9a0feba6f91aac7.csv
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Evaluation.md → %E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Evaluation%20-%20Legacy%20Site%20Pages%201b32a8cd575580e695dad1fcbf68800f.csv
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/Comms-Strategy-Master-Hub.md → Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Strategic%20Initiative%20Alignment%20Matrix%201bd2a8cd57558032a5ebc3e15f32e5db.csv
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/Comms-Strategy-Master-Hub.md → Comms%20Strategy%20Master%20Hub%201bd2a8cd5755806bb267f10826c84403/%E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Task%20Tracker%201b22a8cd57558014b583dcde7f6291ba.md
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/%E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/System-Map-&-Project-Index.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/Stakeholder-Journey-Maps.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Whole-Communities-Framework-(Stakeholder-Lens).md → %E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Whole-Communities-Framework-(Stakeholder-Lens).md → %E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → %E2%80%94%20Audience%20Segmentation%20&%20Messaging%20Strategy%201c22a8cd575580dbae92e4d70d9ee90d/image.png
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/topics/communications#:~:text=There%20is%20increasing%20pressure%20to,the%20core%20of%20our%20work
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=Very%20few%20land%20trusts%20are,even%20coming%20close%20to%20that
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=support%20organizations%20tackling%20the%20climate,crisis
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.engaginglandowners.org/sites/default/files/documents/resources/EngagementGuide-Complete.pdf#:~:text=If%20you%E2%80%99re%20reading%20this%2C%20you,enhance%20our%20quality%20of%20life
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=There%20are%20regional%20variations%20for,is%20the%20audience%20we%20have
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=There%20are%20regional%20variations%20for,is%20the%20audience%20we%20have
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=support%20organizations%20tackling%20the%20climate,crisis
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → %E2%80%94%20Whole%20Communities%20Framework%20(Stakeholder%20Lens
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/meeting-with-landowners#:~:text=The%20first%20contact%20a%20landowner,for%20a%20successful%20landowner%20meeting
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=And%20what%20about%20the%20messaging%3F
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=And%20what%20about%20the%20messaging%3F
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://fiftyandfifty.org/are-your-donor-communication-strategies-effective/#:~:text=Create%20a%20communication%20plan
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=People%20Who%20Give%20Money%20absorb,good%20decisions%20with%20their%20money
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=People%20Who%20Give%20Money%20absorb,good%20decisions%20with%20their%20money
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://developmentforconservation.com/2022/communicating-with-people-who-give-money/#:~:text=To%20communicate%20effectively%20with%20People,pager%20delivered%20only%20twice
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://miro.com/templates/stakeholder-analysis/#:~:text=of%20a%202,teams%20as%20well%20as%20individuals
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=support%20organizations%20tackling%20the%20climate,crisis
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=resilience,4%20years
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://library.weconservepa.org/guides/155-social-media-basics-for-conservation-organizations#:~:text=makes%20social%20media%20an%20effective,event%20attendees%2C%20future%20staff%20members
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://library.weconservepa.org/guides/155-social-media-basics-for-conservation-organizations#:~:text=match%20at%20L192%20makes%20social,event%20attendees%2C%20future%20staff%20members
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.bonterratech.com/blog/nonprofit-ladder-of-engagement#:~:text=A%20ladder%20of%20engagement%20is,and%20engagement%20with%20your%20cause
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.bonterratech.com/blog/nonprofit-ladder-of-engagement#:~:text=Image%3A%20An%20infographic%20listing%20the,100
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://miro.com/templates/stakeholder-analysis/#:~:text=of%20a%202,teams%20as%20well%20as%20individuals
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://miro.com/templates/stakeholder-analysis/#:~:text=of%20a%202,teams%20as%20well%20as%20individuals
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.canva.com/templates/s/user-persona/#:~:text=Free%20and%20customizable%20user%20persona,customize%20and%20share%20from%20Canva
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.bonterratech.com/blog/nonprofit-ladder-of-engagement#:~:text=Image%3A%20An%20infographic%20listing%20the,100
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.fws.gov/stakeholder-engagement/resource/tools-engagement#:~:text=The%20Tools%20of%20Engagement%3A%20A%C2%A0Toolkit,each%20of%20the%20complementary%20modules
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.fws.gov/stakeholder-engagement/resource/tools-engagement#:~:text=Spectrum%20of%20engagement
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.engaginglandowners.org/sites/default/files/documents/resources/EngagementGuide-Complete.pdf#:~:text=Strategies%20,worked%20directly%20with%20forestry%2C%20wildlife
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.engaginglandowners.org/sites/default/files/documents/resources/EngagementGuide-Complete.pdf#:~:text=%E2%80%9Chow%20to%E2%80%9D%20guide%20so%20you,create%20motivation%2C%20thus%20reaching%20beyond
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://afpglobal.org/sites/default/files/attachments/blog/FEP%20Q3%20REPORT%202024.pdf#:~:text=,The%20drop%20was%20most
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://fiftyandfifty.org/are-your-donor-communication-strategies-effective/#:~:text=Evaluating%20the%20effectiveness%20of%20your,a%20look%20at%20these%20metrics
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://fiftyandfifty.org/are-your-donor-communication-strategies-effective/#:~:text=By%20evaluating%20all%20of%20these,insights%20to%20guide%20further%20communications
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=Check%20out%20this%C2%A0example%C2%A0of%C2%A0an%C2%A0audience%C2%A0profile%C2%A0that%20was%20developed%C2%A0for,through%20segmented%20climate%20communications%20messaging
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=1,off
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=3,challenges%20brought%20by%20climate%20change
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/explore/communicating-about-climate-change/crafting-an-organizational-audience-profile?queryID=c7f8b02f86f212700d932ff823a8f574#:~:text=1,40%20in%202020
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.engaginglandowners.org/sites/default/files/documents/resources/EngagementGuide-Complete.pdf#:~:text=Orientation%20to%20Woodland%20Own%20woodland,and%20appreciate%20ecological%20benefits%20of
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://www.engaginglandowners.org/sites/default/files/documents/resources/EngagementGuide-Complete.pdf#:~:text=Protecting%20woods%20from%20natural%20and,wildlife%20habitat%20Financial%20assistance%20for
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/topics/communications#:~:text=
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/—-Audience-Segmentation-&-Messaging-Strategy.md → https://landtrustalliance.org/resources/learn/topics/communications#:~:text=The%20Land%20Trust%20Alliance%2C%20in,communities%20and%20a%20healthier%20planet
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/Change-Communication-Strategy.md → ../../2%20EXECUTION%201e52a8cd5755806b9553cd0f59698dfc/Brand%20System%20(2026
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://webaim.org/
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://a11yproject.com/
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://rootid.com/think/building-equity-centered-communications-harnessing-the-power-of-a-creative-brief/
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://www.audubon.org/about/edi
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://www.yesmagazine.org/environment/2020/09/15/conservation-decolonize-environmentalism
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://diversegreen.org/
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Whole Communities Framework (Stakeholder Lens)/🌍-DEI-Strategy-for-Communications-&-Website.md → https://www.wilderness.org/articles/blog/how-new-bipoc-led-conservation-vision-came-life
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=In%20marketing%2C%20and%20especially%20when,people%20aren%E2%80%99t%20the%20right%20folks
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=Segmentation%20is%20the%20process%20of,email%20meant%20for%20a%20volunteer
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=Segmentation%20is%20the%20process%20of,email%20meant%20for%20a%20volunteer
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=A%20lot%20of%20organizations%20simply,this%20is%20just%20step%20one
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=A%20lot%20of%20organizations%20simply,this%20is%20just%20step%20one
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Behavioral%20segmentation%20focuses%20on%20donor,event%20attendance%2C%20and%20volunteer%20activity
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=,engagement%20levels%2C%20enhancing%20targeted%20outreach
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=This%20group%20can%20even%20be,organization%20speak%20meaningfully%20to%20them
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Psychographic%20segmentation%20groups%20donors%20based,causes%20they%20are%20passionate%20about
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Psychographic%20segmentation%20groups%20donors%20based,causes%20they%20are%20passionate%20about
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Psychographic%20segmentation%20groups%20donors%20based,causes%20they%20are%20passionate%20about
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://pmc.ncbi.nlm.nih.gov/articles/PMC3053362/#:~:text=Identifying%20Like,to%20the%20Concerned
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=provides%20a%20deeper%20understanding%20of,as%20young%20professionals%20or%20families
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=provides%20a%20deeper%20understanding%20of,as%20young%20professionals%20or%20families
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Try%20Combining%20Segmentation%20Criteria
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=%2A%20High,term%20change
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=Defining%20groups%20that%20take%20into,marketing%20campaigns%20up%20for%20success
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=Value,their%20personal%20values%20and%20beliefs
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=Digital%20Natives%20with%20a%20Global,see%20themselves%20as%20global%20citizens
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=3
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=Storytelling%20Over%20Statistics%20While%20numbers,impacted%20by%20the%20organization%E2%80%99s%20work
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=Social%20Media%20Engagement%20Platforms%20like,for%20awareness%2C%20fundraising%2C%20and%20mobilization
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://causability.org/the-ultimate-guide-to-engaging-the-younger-generations-as-a-nonprofit/#:~:text=Interactive%20Websites%20A%20dynamic%2C%20mobile,ups%2C%20and%20interactive%20multimedia%20content
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.parksconservancy.org/park-e-ventures-article/report-youth-key-diversifying-park-visitation#:~:text=programs%20that%20have%20successfully%20engaged,%E2%80%9D
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.parksconservancy.org/park-e-ventures-article/report-youth-key-diversifying-park-visitation#:~:text=Through%20youth%20leadership%20programs%2C%20community,%E2%80%9D
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Step%203%3A%20Segment%20Definition,young%20donors%2C%20and%20recurring%20donors
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Behavioral%20segmentation%20focuses%20on%20donor,event%20attendance%2C%20and%20volunteer%20activity
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=1
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=Psychographic%20segmentation%20groups%20donors%20based,causes%20they%20are%20passionate%20about
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/donor-segmentation/#:~:text=,engagement%20levels%2C%20enhancing%20targeted%20outreach
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/nonprofit-communications-plan-neo/#:~:text=segmentation%20tools,Plus%2C%20a%20CRM%20lets%20you
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=Engaging%20with%20volunteers%20about%20opportunities,and%20retaining%20this%20key%20segment
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.nonprofits.freewill.com/resources/case-studies/defenders-of-wildlife#:~:text=When%20FreeWill%20reached%20out%20to,annual%20giving%20programs%20as%20well
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=with%20every%20single%20donor
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=One%20of%20our%20first%20examples,have%20enough%20time%20to%20volunteer
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=But%20like%20a%20lot%20of,organization%20is%20always%20step%20one
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=Engaging%20with%20volunteers%20about%20opportunities,and%20retaining%20this%20key%20segment
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://www.feathr.co/resources/blog/segmenting-nonprofit-audiences#:~:text=One%20of%20our%20first%20examples,have%20enough%20time%20to%20volunteer
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=1,Poor
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=Policymakers%20like%20to%20get%20real%2C,Can%20this%20project%20be
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=participants%E2%80%99%20businesses%20experienced%20combined%20sales,over%20just%20six%20months
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=8,Possible
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://landtrustalliance.org/resources/learn/explore/effective-communication-with-landowners-and-neighbors#:~:text=,with%20landowners%20and%20neighbors
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=It%E2%80%99s%20easy%20to%20forget%20that,making
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://ssir.org/articles/entry/eight_tips_for_communicating_ideas_to_busy_policymakers#:~:text=Policymakers%20like%20to%20get%20real%2C,Can%20this%20project%20be
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://mediacause.com/our-work/case-study/national-park-trust-digital-strategy-for-small-nonprofits/#:~:text=%23%20Using%20strong%2C%20mission,National%20Park%20Trust%E2%80%99s%20target%20audience
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://mediacause.com/our-work/case-study/national-park-trust-digital-strategy-for-small-nonprofits/#:~:text=Build%20%26%20Engage%20Communities
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://pmc.ncbi.nlm.nih.gov/articles/PMC3053362/#:~:text=Identifying%20Like,to%20the%20Concerned
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://landtrustalliance.org/resources/learn/explore/effective-communication-with-landowners-and-neighbors#:~:text=,with%20landowners%20and%20neighbors
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/nonprofit-communications-plan-neo/#:~:text=segmentation%20tools,Plus%2C%20a%20CRM%20lets%20you
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/——-Audience-Insights-&-Trends-Research.md → https://neonone.com/resources/blog/nonprofit-communications-plan-neo/#:~:text=match%20at%20L626%20approach%20that,supporters%20and%20drive%20meaningful%20impact
+[REMOVED] docs/01_STRATEGY/Comms Strategy Master Hub/— Audience Segmentation & Messaging Strategy/—— Messaging Frameworks & Lenses/———-Equity-Centered-Messaging-Nussbaum’s-10-Capabi.md → %E2%80%94%E2%80%94%E2%80%94%20Equity-Centered%20Messaging%20Nussbaum%E2%80%99s%2010%20Capabi%201ea2a8cd575580b48069e7ce6ba8034d/image.png
+[REMOVED] docs/01_STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Conservation-Messaging-for-Southern-Door-Audiences.md → https://www.notion.so/link-here
+[REMOVED] docs/01_STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Conservation-Messaging-for-Southern-Door-Audiences.md → https://www.notion.so/link-here
+[REMOVED] docs/01_STRATEGY/Land Seller Experience Study (2025)/Conservation Messaging for Southern Door Audiences/Conservation-Messaging-for-Southern-Door-Audiences.md → https://www.notion.so/link-here
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Technical_Implementation_2025-2026_Build/Retired_Approach_-_Astro_Headless_WP_Technical.md → https://html-validate.org/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Website_Content_Strategy_and_Migration_Plan.md → %E2%80%94%20Website%20Content%20Strategy%20and%20Migration%20Plan%201c42a8cd5755800bae1bce0ef1f69ae4/Untitled%201e52a8cd57558026b308ccc91f0efd92.csv
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Website_Content_Strategy_and_Migration_Plan.md → %E2%80%94%20Website%20Content%20Strategy%20and%20Migration%20Plan%201c42a8cd5755800bae1bce0ef1f69ae4/image.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture.md → %E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Donate%201f12a8cd575580ccae41de753d8b35b9.md
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture.md → %E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20About%201f22a8cd575580caa978d6612f48fd0c.md
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture.md → %E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Stories%201f22a8cd575580928e9beba9b03b33dd.md
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture.md → %E2%80%94%E2%80%94%20Information%20Architecture%201f12a8cd57558024ac17ec1fa4db2522/%E2%80%94%E2%80%94%E2%80%94%20Contact%201f22a8cd57558036809bff72135d04ac.md
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Staff_Interviews_Departmental_Input.md → %E2%80%94%E2%80%94%20Staff%20Interviews%20&%20Departmental%20Input%201e62a8cd57558069ba47c80999a7894c/%E2%80%94%E2%80%94%20Administrative%202022a8cd575580238cbed6fb8ec69096.md
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Storytelling_CRM_Overlay_System/CRM_Reporting_Dashboards.md → ../../%F0%9F%93%8B%20Master%20Task%20Tracker%20(2025-2026
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Content_Briefs/Public-Facing_Land_Protection_Priorities_-_Cont.md → https://storymaps.arcgis.com/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Website_Sitemap_-_Draft_V1.md → %E2%80%94%E2%80%94%E2%80%94%20Website%20Sitemap%20-%20Draft%20V1%202022a8cd57558084ba25e911f87f4d51/image.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Staff_Interviews_Departmental_Input/Stewardship_Field_Coordinator.md → https://ridgessanctuary.org/indigenous-heritage/
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Wireframes_-_DCLT_Website_Redesign/CE_Info_Page_-_Wireframe_Outline.md → %E2%80%94%E2%80%94%20CE%20Info%20Page%20%E2%80%93%20Wireframe%20Outline%202032a8cd5755808c9113c20415643042/image.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Wireframes_-_DCLT_Website_Redesign/Homepage_Wireframe.md → %E2%80%94%E2%80%94%20Homepage%20Wireframe%202032a8cd575580f7a36ad7aca424db33/image.png
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/your-link-here
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd575580e59efbfe70b0442529?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd5755803a87accab8f62b6398?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd5755802da19cd8ec288266d0?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd575580248957e390efdf7ef8?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd575580e0ae3ed390269ba60b?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/21e2a8cd5755802da87ed1c671326773?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/21e2a8cd575580baa073c606d62f19a0?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Preserve_Experience_Explore_Section/Preserve_Explorer_Project_Hub.md → https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21
+[REMOVED] docs/01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/Get_Involved/Volunteer_Interest_Page_-_Find_Your_Role_in_Con.md → %E2%80%94%E2%80%94%20Volunteer%20Interest%20Page%20%E2%80%94%20Find%20Your%20Role%20in%20Con%2020d2a8cd57558010a27fddb0d0f3f6c9/image.png
+[REMOVED] docs/02_EXECUTION/00 Dashboards/📋-Master-Task-Tracker-(2025-2026).md → %F0%9F%93%8B%20Master%20Task%20Tracker%20(2025-2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Website%20Strategy%20Hub%201c42a8cd5755800f8aabe6a9d4be0bde/Website%20Overhaul%20Roadmap%20(2025%E2%80%932026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → https://www.notion.so/paste%20link
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → https://docs.google.com/document/d/1zh0BVpoqMB3itT_kiN2jU55LVJKTVZfl_yU6278ilO4/edit?tab=t.0#heading=h.d1qot3nukxnb
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand-+-Website-Progress-Dashboard.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/10_Projects/Brand_System_2026.md → Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/20 Operations/Content-&-Campaign-Calendar.md → Content%20&%20Campaign%20Calendar%201f12a8cd575580e189dcfa6baada9705/Content%20&%20Campaign%20Calendar%201f12a8cd5755808e92f9cc89db4d4505.csv
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../modular_content_blocks.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../preserve_explorer_hub.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../staff_interviews.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../developer_brief.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../ia_sitemap_draft.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website_Overhaul_(2025–2026).md → ../website_evaluation.md
+[REMOVED] docs/02_EXECUTION/10_Projects/Content_Migration/about/legacy-our-history.md → https://doorcountylandtrust.org/how-we-save-land/protect-your-land/#bargain_sales
+[REMOVED] docs/02_EXECUTION/10_Projects/Content_Migration/about/legacy-contact-us.md → mailto:info@doorcountylandtrust.org
+[REMOVED] docs/02_EXECUTION/10_Projects/Content_Migration/about/legacy-contact-us.md → mailto:explore@doorcountylandtrust.org
+[REMOVED] docs/02_EXECUTION/10_Projects/Content_Migration/about/legacy-contact-us.md → mailto:hunting@doorcountylandtrust.org
+[REMOVED] docs/02_EXECUTION/10_Projects/Content_Migration/about/legacy-contact-us.md → mailto:volunteer@doorcountylandtrust.org
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Task Tracker/Content-Calendar.md → Content%20Calendar%201b22a8cd575580b9b085ee7440ec3a44/2025%20Content%20Publishing%20Calendar%201b22a8cd575580fdb9ade08a347c984e.csv
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Task Tracker/Website-Tasks.md → Website%20Tasks%201e52a8cd575580d6aaa2c5b228890b71/Untitled%201e52a8cd575580b1a153e3655d119d5a.csv
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand + Website Progress Dashboard/🗺️-Brand-+-Website-Timeline-&-Milestones.md → %F0%9F%97%BA%EF%B8%8F%20Brand%20+%20Website%20Timeline%20&%20Milestones%202372a8cd5755805198deecfb977e6e72/milestone_chart.png
+[REMOVED] docs/02_EXECUTION/00 Dashboards/Brand + Website Progress Dashboard/🗺️-Brand-+-Website-Timeline-&-Milestones.md → https://www.notion.so/paste%20link
+[REMOVED] docs/02_EXECUTION/00 Dashboards/📋 Master Task Tracker (2025-2026)/Master Task Tracker/Modular-Content-Blocks.md → %E2%80%94%E2%80%94%20Modular%20Content%20Blocks%201f12a8cd57558061a6c9d9314be3cd49/%E2%80%94%E2%80%94%E2%80%94%20Master%20Modular%20Block%20Field%20Definitions%201f12a8cd575580708d65d0deb83f009f.csv
+[REMOVED] docs/02_EXECUTION/00 Dashboards/📋 Master Task Tracker (2025-2026)/Master Task Tracker/Rebuild-Homepage-Wireframe.md → ../../Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/00 Dashboards/📋 Master Task Tracker (2025-2026)/Master Task Tracker/Brand-Storytelling-Pillars.md → ../../Brand%20System%20(2026
+[REMOVED] docs/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢-Campaign-Drafts.md → %F0%9F%93%A2%20Campaign%20Drafts%202622a8cd575580208c56dc2d21ab386f/Untitled%202622a8cd575580d0907ee85e61a5885f.csv
+[REMOVED] docs/02_EXECUTION/40 Pipelines/1 Content & Storytelling Pipeline/📢 Campaign Drafts/Untitled/Fall–Winter-Member-Drive.md → https://www.notion.so/Fall-Winter-Member-Drive-2622a8cd57558097966acff1ef46915d

@@ -35,7 +35,7 @@ Workspace for planning, drafting, and iterating campaign-based storytelling. The
 
 ## 📋 Campaign Tracker
 
-[Untitled](%F0%9F%93%A2%20Campaign%20Drafts%202622a8cd575580208c56dc2d21ab386f/Untitled%202622a8cd575580d0907ee85e61a5885f.csv)
+<!-- BROKEN LINK: [Untitled](%F0%9F%93%A2%20Campaign%20Drafts%202622a8cd575580208c56dc2d21ab386f/Untitled%202622a8cd575580d0907ee85e61a5885f.csv) -->
 
 ---
 

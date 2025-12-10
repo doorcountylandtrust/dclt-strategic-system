@@ -47,16 +47,16 @@ Sturgeon Bay, WI 54235
 ## Email Contacts
 
 **General Inquiries & Questions**  
-✉️ [info@doorcountylandtrust.org](mailto:info@doorcountylandtrust.org)
+✉️ <!-- BROKEN LINK: [info@doorcountylandtrust.org](mailto:info@doorcountylandtrust.org) -->
 
 **"Explore the Door" Outings**  
-✉️ [explore@doorcountylandtrust.org](mailto:explore@doorcountylandtrust.org)
+✉️ <!-- BROKEN LINK: [explore@doorcountylandtrust.org](mailto:explore@doorcountylandtrust.org) -->
 
 **Hunting Inquiries**  
-✉️ [hunting@doorcountylandtrust.org](mailto:hunting@doorcountylandtrust.org)
+✉️ <!-- BROKEN LINK: [hunting@doorcountylandtrust.org](mailto:hunting@doorcountylandtrust.org) -->
 
 **Volunteer Opportunities**  
-✉️ [volunteer@doorcountylandtrust.org](mailto:volunteer@doorcountylandtrust.org)
+✉️ <!-- BROKEN LINK: [volunteer@doorcountylandtrust.org](mailto:volunteer@doorcountylandtrust.org) -->
 
 → _Staff Email Addresses_ (link or reference)
 

@@ -13,7 +13,7 @@ last_updated: '2025-09-11'
 ---
 # Fall–Winter Member Drive
 
-Page: [View Page](https://www.notion.so/Fall-Winter-Member-Drive-2622a8cd57558097966acff1ef46915d)
+Page: <!-- BROKEN LINK: [View Page](https://www.notion.so/Fall-Winter-Member-Drive-2622a8cd57558097966acff1ef46915d) -->
 ✍️ Lead Author: Comms Team
 📅 Launch Date: Oct 15
 🧠 Goal: Grow new memberships

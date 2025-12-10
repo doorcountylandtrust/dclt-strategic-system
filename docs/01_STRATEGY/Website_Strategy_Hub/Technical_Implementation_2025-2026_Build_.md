@@ -180,12 +180,12 @@ A custom theme gives us the creative and structural freedom to do that without r
 
 ## **📎 Related Pages**
 
-- 🔗 [Preserve Explorer Dev Log](https://www.notion.so/paste-link)
-- 🔗 [Figma Design System Overview](https://www.notion.so/paste-link)
-- 🔗 [Modular Content Blocks](https://www.notion.so/paste-link)
-- 🔗 [Website Roadmap 2025–2026](https://www.notion.so/paste-link)
+- 🔗 <!-- BROKEN LINK: [Preserve Explorer Dev Log](https://www.notion.so/paste-link) -->
+- 🔗 <!-- BROKEN LINK: [Figma Design System Overview](https://www.notion.so/paste-link) -->
+- 🔗 <!-- BROKEN LINK: [Modular Content Blocks](https://www.notion.so/paste-link) -->
+- 🔗 <!-- BROKEN LINK: [Website Roadmap 2025–2026](https://www.notion.so/paste-link) -->
 
-[— Retired Approach - Astro + Headless WP Technical Implementation](%E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build)%202302a8cd575580208f20c94bcf644264/%E2%80%94%20Retired%20Approach%20-%20Astro%20+%20Headless%20WP%20Technical%201c42a8cd575580f090dcf295a699da68.md)
+<!-- BROKEN LINK: [— Retired Approach - Astro + Headless WP Technical Implementation](%E2%80%94%20Technical%20Implementation%20(2025%E2%80%932026%20Build) -->%202302a8cd575580208f20c94bcf644264/%E2%80%94%20Retired%20Approach%20-%20Astro%20+%20Headless%20WP%20Technical%201c42a8cd575580f090dcf295a699da68.md)
 
 ## Related Documents
 

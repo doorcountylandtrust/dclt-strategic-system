@@ -157,7 +157,7 @@ A high-level summary of the phases, milestones, and current status for the full 
 
 [[—— Staff Interviews & Departmental Input|📎 Staff Interviews]]
 
-[📎 Developer Brief](https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21)
+<!-- BROKEN LINK: [📎 Developer Brief](https://www.notion.so/1f82a8cd575580a68631f3707ee12dea?pvs=21) -->
 
 [[——— Website Sitemap - Draft V1|📎 IA & Sitemap Draft]]
 

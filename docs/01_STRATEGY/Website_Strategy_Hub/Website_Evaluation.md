@@ -31,7 +31,7 @@ Use this page to:
 
 📌 See linked pages below for active fixes, legacy page audits, and mockup prototypes.
 
-[https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-367&t=XiuP7E51pcQimAIS-4](https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-367&t=XiuP7E51pcQimAIS-4)
+<!-- BROKEN LINK: [https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-367&t=XiuP7E51pcQimAIS-4](https://www.figma.com/board/Q4v1kEPZHUgtDMwtobxU82/Don's-Big-Board?node-id=2-367&t=XiuP7E51pcQimAIS-4) -->
 
 ## Key Findings
 
@@ -267,9 +267,9 @@ Redesign News Section for Better Engagement → Grid layout with categories.
 
 Expand Personalization → Recommend preserves based on interests.
 
-[—— Website Fixes Tracker](%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Fixes%20Tracker%201b32a8cd575580f4a9a0feba6f91aac7.csv)
+<!-- BROKEN LINK: [—— Website Fixes Tracker](%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Fixes%20Tracker%201b32a8cd575580f4a9a0feba6f91aac7.csv) -->
 
-[—— Website Evaluation - Legacy Site Pages](%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Evaluation%20-%20Legacy%20Site%20Pages%201b32a8cd575580e695dad1fcbf68800f.csv)
+<!-- BROKEN LINK: [—— Website Evaluation - Legacy Site Pages](%E2%80%94%20Website%20Evaluation%201b32a8cd57558047854dcdf0c6cb7ad6/%E2%80%94%E2%80%94%20Website%20Evaluation%20-%20Legacy%20Site%20Pages%201b32a8cd575580e695dad1fcbf68800f.csv) -->
 
 [[—— Improved Homepage Mockup Concept|—— Improved Homepage Mockup Concept
 ]]

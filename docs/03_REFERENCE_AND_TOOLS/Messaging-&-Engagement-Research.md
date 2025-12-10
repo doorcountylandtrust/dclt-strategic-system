@@ -24,7 +24,7 @@ last_updated: '2025-09-11'
     > NeonOne - Donor Segmentation
     > 
     > 
-    > [Pew - Gen Z, Millennials & Climate](https://www.pewresearch.org/)
+    > <!-- BROKEN LINK: [Pew - Gen Z, Millennials & Climate](https://www.pewresearch.org/) -->
     > 
     > ---
     > 
@@ -60,7 +60,7 @@ last_updated: '2025-09-11'
     > Audubon - Inclusion & Belonging
     > 
     > 
-    > 🔗 [Source: Audubon - Equity, Diversity, Inclusion, and Belonging](https://www.audubon.org/)
+    > 🔗 <!-- BROKEN LINK: [Source: Audubon - Equity, Diversity, Inclusion, and Belonging](https://www.audubon.org/) -->
     > 
     > This piece outlines how the Audubon Society is integrating IDEA (Inclusion, Diversity, Equity, and Accessibility) into its conservation work. It positions IDEA not as an ancillary effort, but as fundamental to achieving stronger outcomes and greater impact.
     > 
@@ -111,16 +111,16 @@ last_updated: '2025-09-11'
     > 
     > ---
     > 
-    > [Climate Access - Fear & Hope in Climate Messaging](https://climateaccess.org/)
+    > <!-- BROKEN LINK: [Climate Access - Fear & Hope in Climate Messaging](https://climateaccess.org/) -->
     > 
 - **Storytelling & Engagement**
     
     > LSE - Storytelling Impacts Wildlife Engagement
     > 
     > 
-    > [Society.com - Nonprofit Trends 2020](https://www.societ.com/)
+    > <!-- BROKEN LINK: [Society.com - Nonprofit Trends 2020](https://www.societ.com/) -->
     > 
-    > 🔗 [Source: LSE.ac.uk - London School of Economics](https://www.lse.ac.uk/)
+    > 🔗 <!-- BROKEN LINK: [Source: LSE.ac.uk - London School of Economics](https://www.lse.ac.uk/) -->
     > 
     > This study explored how narrative-based storytelling in social media advertisements influenced engagement with wildlife conservation topics. It offers data-backed insight into what types of content resonate with the public and why storytelling outperforms informational messaging.
     > 

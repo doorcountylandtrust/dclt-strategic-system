@@ -172,7 +172,7 @@ Content:
 
 ## VISUAL REFERENCE / WIREFRAME NOTES
 
-![image.png](%E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image.png) -->
 
 ---
 
@@ -197,7 +197,7 @@ Content:
 
 [[Strategic Initiatives in Plain Language|to see the Public Facing language see this document.]]
 
-![image.png](%E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image%201.png)
+!<!-- BROKEN LINK: [image.png](%E2%80%94%20Strategic%20Initiatives%20%E2%80%93%20Web%20Integration%20Build%20Sp%2024c2a8cd575580079f18cf2e2d444086/image%201.png) -->
 
 ## Related Documents
 
