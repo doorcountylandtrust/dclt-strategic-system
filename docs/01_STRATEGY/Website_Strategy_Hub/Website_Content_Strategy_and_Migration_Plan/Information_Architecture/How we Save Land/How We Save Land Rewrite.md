@@ -1,6 +1,6 @@
 # Rewritten Content System: How We Save Land Section
 
-This document contains the full strategic rewrites for the "How We Save Land" section of the Door County Land Trust website. It includes a page-by-page restructuring using modular content blocks, refined calls-to-action, and updated voice and tone guidelines to align with the organizational mission.
+This document contains the full strategic rewrites for the "How We Save Land" section of the Door County Land Trust website. It includes a page-by-page restructuring using modular content blocks, refined calls-to-action, and updated voice and tone guidelines to align with the organizational mission. This version integrates insights from internal staff interviews.
 
 ---
 
@@ -44,7 +44,17 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 * **Definition**: "Public lands permanently protected and owned by DCLT"
 * **Map Preview** or Carousel of Preserve Photos
-* **Benefits**: Public access, habitat protection, ecosystem restoration
+* **Benefits**:
+
+  * Public access
+  * Habitat protection
+  * Ecosystem restoration
+  * *Preserves serve as ambassadors of our work* (staff insight)
+  * *A visible entry point for people unfamiliar with conservation* (staff insight)
+* **Volunteer Support**:
+
+  * Trail maintenance and signage require ongoing stewardship
+  * CTA: "Help us keep preserves safe and welcoming"
 * **CTA**: Visit a Preserve | Donate | Volunteer
 * **Crosslink**: Preserve Explorer map | Events at Preserves
 
@@ -57,9 +67,19 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 ### Content Blocks:
 
 * **What is a Conservation Easement?** Plain-language definition
-* **How it Works**: Visual steps or FAQ accordion
-* **Benefits**: Tax benefits, legacy protection, flexibility
-* **Myths vs Facts** Block
+* **How it Works**:
+
+  * Visual steps or FAQ accordion
+  * *Relationship-first approach*: most easements develop over multiple years of trust-building (staff insight)
+* **Benefits**:
+
+  * Tax benefits
+  * Legacy protection
+  * Flexibility
+* **Myths vs Facts** Block:
+
+  * "I lose control of my land" → False
+  * "It’s too complicated" → We handle the legal and ecological details
 * **Testimonial**: Quote from local landowner
 * **CTA**: Protect Your Land (Inquiry form)
 
@@ -91,7 +111,10 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 * **Definition**: Land protected then transferred to municipalities, parks, or other nonprofits
 * **Notable Examples**: Grand View, Schwartz Lake, etc.
-* **Benefits**: Larger scale protection, community impact
+* **Benefits**:
+
+  * Larger scale protection
+  * Community impact
 * **CTA**: Learn More | Donate to Future Projects
 
 ---
@@ -116,13 +139,17 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 ### Content Blocks:
 
-* **Stewardship Defined**
+* **Stewardship Defined**: "Conservation doesn't stop once land is protected."
 * **Key Activities**:
 
   * Forest restoration
   * Invasive species removal
   * Trail maintenance
-* **Volunteer Quote or Highlight**
+  * *Seasonal cycles*: Winter planning and data work are just as critical (staff insight)
+  * *Blend of science and sweat*: real ecological impact from volunteer work (staff insight)
+* **Volunteer Highlight**:
+
+  * Volunteers are trained and empowered, not just "extra hands"
 * **CTA**: Join the Stew Crew
 
 ---
@@ -133,9 +160,18 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 ### Content Blocks:
 
-* **Current Projects**: Pollinator research, Pitcher’s Thistle, wetland studies
-* **Partner Logos** or Mentions
-* **Why It Matters**: Data-driven conservation
+* **Current Projects**:
+
+  * Pollinator research
+  * Pitcher’s Thistle
+  * Wetland studies
+* **How We Use This Research**:
+
+  * Field data directly informs our restoration decisions (staff insight)
+* **Partners**:
+
+  * USFWS, WI-DNR, university researchers
+  * Display logos or names
 * **CTA**: Learn | Support | Volunteer
 
 ---
@@ -146,9 +182,9 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 ### Content Blocks:
 
-* **Intro Paragraph**: Acknowledge hunters as conservation partners
+* **Intro Paragraph**: Hunters are conservation partners
 * **Hunting Rules Summary**
-* **Preserve Table (linked or downloadable)**
+* **Preserve Table**: Linked or downloadable
 * **Hiker Safety Tips**
 * **CTA**: Apply to Hunt | Donate | Contact Us
 
@@ -160,13 +196,21 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 
 ### Content Blocks:
 
-* **Categories:**
+* **Reorganized by Use Case**:
 
-  * Maps & Planning
-  * Ecology & Green Resources
-  * Government & Land Info
-  * Publications & Fact Sheets
-* **Downloadable Resources**: PDFs, brochures, guides
+  * For Landowners
+  * For Stewards
+  * For Researchers
+  * For Students
+* **Downloadables**:
+
+  * Maps
+  * PDFs
+  * Brochures
+  * Volunteer log
+* **Staff Picks**:
+
+  * Include frequently referenced tools like groundwater maps or native plant guides
 * **CTA**: Contact Us | Explore More
 
 ---
@@ -177,3 +221,7 @@ This document contains the full strategic rewrites for the "How We Save Land" se
 * **Downloadable Forms**: Volunteer log, landowner packet
 * **Quote Strip**: Jens Jensen or other mission-aligned thinkers
 * **CTA Footer Block**: Join | Donate | Volunteer | Inquire
+
+---
+
+**Note:** This content system reflects both external audience needs and internal expertise gathered through staff interviews. It is ready for visual design exploration and implementation into the CMS block system.

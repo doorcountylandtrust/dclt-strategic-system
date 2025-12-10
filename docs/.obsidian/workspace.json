@@ -11,14 +11,10 @@
             "id": "6ea9ae599e6e1c94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hunting-program"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hunting-program"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hunting-program"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/how-we-save-land/hunting-program.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hunting-program"
+              "title": "Outline"
             }
           }
         ]
@@ -185,41 +178,41 @@
   },
   "active": "6ea9ae599e6e1c94",
   "lastOpenFiles": [
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How we Save Land/Proto-Sitemap: How We Save Land Section.md",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How we Save Land/migration checklist.md",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How we Save Land/How We Save Land Rewrite.md",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How we Save Land/How We Save Land – Strategic Brief.md",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How we Save Land",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How We Save Land Rewrite.md",
-    "01_STRATEGY/Website_Strategy_Hub/Website_Content_Strategy_and_Migration_Plan/Information_Architecture/How We Save Land – Strategic Brief.md",
-    "03_REFERENCE_AND_TOOLS.zip",
-    "02_EXECUTION.zip",
-    "01_STRATEGY.zip",
-    "Archive.zip",
-    "Strategy_NoImages.zip",
-    "ziDZ8u97",
-    "01_STRATEGY/Comms Strategy Master Hub/2026 Strategic Marketing Insights & Implications.md",
-    "01_STRATEGY/Mission, Values & Brand Voice/Brand-Archetypes.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Untitled.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/LP-Door-Farms.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Kristin-Duffey-&-Jeanne-Kress.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/John-&-Susan-Schartner.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jim-Harris.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jeff-Larson-&-Family.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jason-Herrbold.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Jason-&-Cara-Perkins.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/James-&-Kelly-Jorgenson.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Flavian-&-Melanie-Wallis.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Donald-&-Adam-Benson.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dennis-Kruswick.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dennis-&-Susan-Bhirdo.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/David-Kaczmarek.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dave-Chapman.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Dale-&-Karen-Cihlar.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Craig-Brickell.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees/Clark-Trust.md",
-    "01_STRATEGY/Land Seller Experience Study (2025)/List of Interviewees/Invitees",
-    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Modern Membership Strategy & Research Brief",
-    "01_STRATEGY/Comms Strategy Master Hub/Membership Strategy Hub/Fall–Winter 2025 New Member Campaign (Execution"
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/philanthropic-champions.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/donor-stories.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/legacy-giving.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/ways-to-give.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/donate-now.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/shop/overview.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/contact.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/careers.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/financials.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/staff-board.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/history.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/mission.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/blog-news.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/library.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/maps-tools.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action/advocate-toolkit.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action/join-renew.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action/protect-your-land.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action/volunteer.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/hunting-program.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/research-partnerships.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/stewardship.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/partner-transfers.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/land-donations-sales.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/conservation-easements.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do/nature-preserves.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/visit/explore-preserves",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/shop",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/visit",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrite"
   ]
 }
