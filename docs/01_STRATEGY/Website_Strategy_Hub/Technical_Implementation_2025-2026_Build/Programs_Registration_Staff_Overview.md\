@@ -1,0 +1,151 @@
+# Programs & Volunteer Registration: What's Changing
+
+**December 2024**  
+**Target Launch:** March 1, 2025
+
+---
+
+## The Short Version
+
+We're replacing Give Lively for event registration with a system built into our website. It will automatically sync with Salesforce, send confirmation emails, and make life easier for everyone.
+
+---
+
+## What We Heard
+
+From our December meeting, these are the pain points we're solving:
+
+- ❌ Creating events twice (website + Give Lively)
+- ❌ Manually sending registration lists to hike leaders
+- ❌ Weird formatting when exporting from Give Lively
+- ❌ No automatic confirmation or reminder emails
+- ❌ Volunteer signup buried and hard to find
+- ❌ Manually adding volunteers to Salesforce
+
+---
+
+## What You'll Be Able To Do
+
+### For Programs & Events
+
+**Creating Events:**
+- Add events directly in WordPress (one place, not two)
+- Set all the details: date, time, location, fee, capacity
+- Add accessibility info, what to bring, rules, family-friendly tags
+- Events appear on the website automatically
+
+**Registration:**
+- Visitors register on our website with one click
+- They get an automatic confirmation email immediately
+- Their info goes straight to Salesforce (no manual entry)
+- We'll know if they're a first-time visitor or returning
+
+**For Hike Leaders (Phase 2):**
+- Leaders can check their own registration lists online
+- Download a list when they need it
+- No more waiting for Paige to send it
+
+### For Volunteers
+
+- Dedicated volunteer page (easy to find)
+- Simple signup form
+- Automatic welcome email
+- Info goes straight to Salesforce Volunteers
+- Staff gets notified of new signups
+
+---
+
+## What Visitors Will See
+
+### Event Listing Page
+- All upcoming programs in one place
+- Filter by: type (hike, workshop, etc.), date, location
+- At a glance: title, date, location, free or fee
+
+### Event Detail Page
+- Full description
+- Accessibility info (trail length, difficulty, conditions)
+- What to bring / what to wear
+- Rules (no dogs, etc.)
+- Family-friendly badge
+- Members-only indicator
+- Big "Register" button
+
+### Registration Form
+- Name, email, phone
+- How many people in your party
+- Any notes or questions
+- Submit → instant confirmation
+
+---
+
+## Timeline
+
+| When | What |
+|------|------|
+| January | Building the system |
+| February | Testing with sample events |
+| Late February | Staff training |
+| **March 1** | **Live for spring guided programs** |
+
+---
+
+## What's Coming Later (After March)
+
+These features will come in spring/summer 2025:
+
+- Automatic reminder emails (2 days before + morning of)
+- Waitlists when events fill up
+- "Sold Out" indicators
+- Calendar view option
+- Hike leader self-service for registration lists
+- Collecting names of additional guests (not just "party of 3")
+
+---
+
+## We Need Your Input
+
+To build this right, we need answers to a few questions:
+
+### For Paige
+
+**Event Types** — What categories should we use for filtering?
+- Guided Hike
+- Workshop
+- Science on Tap
+- Workday
+- Fundraiser
+- Annual Gathering
+- Other? _______________
+
+**Locations** — Should events be linked to preserves? Or use a simple location text field?
+
+**Volunteer Interests** — What options should the signup form include?
+- Trail maintenance
+- Hike leader
+- Office help
+- Event support
+- Education programs
+- Other? _______________
+
+### For Cinnamon/Sara
+
+**Salesforce Fields** — What information do we need to capture and sync?
+- Standard: Name, email, phone, event attended
+- Anything else? _______________
+
+**Campaign Setup** — One Salesforce Campaign per event? Or per program type?
+
+### For Amy/Kristi
+
+**Annual Gathering** — Should it use this same system, or stay separate? (Different scale, different needs — just want to know.)
+
+---
+
+## Questions?
+
+Talk to Don — happy to walk through anything or answer questions.
+
+---
+
+*This is a summary for staff. Technical details are in separate documentation.*

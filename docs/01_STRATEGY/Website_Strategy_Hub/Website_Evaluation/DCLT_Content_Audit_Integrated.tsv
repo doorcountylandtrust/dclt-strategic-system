@@ -1,0 +1,21 @@
+Filename	Title	Section	Status	Keep	Rework	Notes
+00-index-homepage.png	Homepage	Home	✅ Existing	✅		
+01-about-us-1-history.png	History	About Us	✅ Existing	✅	✏️	Content may need shortening
+01-about-us-2-board-of-directors.png	Board of Directors	About Us	✅ Existing	✅		
+01-about-us-3-staff.png	Staff	About Us	✅ Existing	✅	✏️	Update bios and roles
+01-about-us-4-news.png	News	About Us	✅ Existing	✅	✏️	Archive old posts?
+01-about-us-5-publications.png	Publications	About Us	✅ Existing	✅		
+01-about-us-6-photos.png	Photo Gallery	About Us	✅ Existing	✅		
+01-about-us-7-careers.png	Careers	About Us	✅ Existing	✅	✏️	Update with current openings
+01-about-us-9-contact.png	Contact	About Us	✅ Existing	✅		
+03-preserves-to-explore-01-list-view.png	Preserve List View	Preserves	✅ Existing	✅		
+03-preserves-to-explore-01-map-view.png	Preserve Map View	Preserves	✅ Existing	✅	✏️	Needs improved UX
+04-upcoming-events.png	Upcoming Events	Engagement	✅ Existing	✅	✏️	Needs integration with registration
+new-find-your-path.md	Find Your Path	Get Involved	🆕 New Proposed	✅	✏️	Identity-based entry funnel
+new-southern-door.md	Southern Door Landowners	Landowners	🆕 New Proposed	✅	✏️	Localized messaging & CTA
+new-donor-stories.md	Donor Stories	Support Us	🆕 New Proposed	✅	✏️	Narrative-style giving motivation
+new-story-library.md	Story Library	Stories	🆕 New Proposed	✅	✏️	Filterable archive of all stories
+new-ce-faq.md	Conservation Easement FAQ	Landowners	🆕 New Proposed	✅	✏️	Answer top 10 CE questions
+new-protect-your-land.md	Protect Your Land Hub	Landowners	🆕 New Proposed	✅	✏️	Hub w/ pathways for easement, fee, contact
+new-member-journey.md	Member Journey	Membership	🆕 New Proposed	✅	✏️	Map + support ‘why renew’ story
+new-giving-tree.md	Digital Giving Tree	Support Us	🆕 New Proposed	✅	✏️	Interactive story donor map

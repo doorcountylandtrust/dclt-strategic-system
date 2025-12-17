@@ -1,0 +1,548 @@
+{
+  "Land-Seller_&_Realtor_Interviews.md": {
+    "hash": "2da7273c59a11f3b79f1d4d350199f2ce8e7dd2fa8faf9409f219953c7a778ed",
+    "modified": "2025-09-24T09:37:24.429780",
+    "embedding_file": "2da7273c59a11f3b79f1d4d350199f2ce8e7dd2fa8faf9409f219953c7a778ed.npy",
+    "preview": "--- project_id: 004 title: Land-Seller & Realtor Interviews start_date: TBD end_date: TBD status: planning priority: high notes:  created_date: 2025-09-17 ---  # Land-Seller & Realtor Interviews  Proj"
+  },
+  "2026_Annual_Comms_Planning.md": {
+    "hash": "bacf6993e8295cb1d21606c0a8c18ce013bb9cf3456e6c2fc36150db21550833",
+    "modified": "2025-09-24T09:37:25.654001",
+    "embedding_file": "bacf6993e8295cb1d21606c0a8c18ce013bb9cf3456e6c2fc36150db21550833.npy",
+    "preview": "--- project_id: 005 title: 2026 Annual Comms Planning start_date: TBD end_date: TBD status: not_started priority: medium notes:  created_date: 2025-09-17 ---  # 2026 Annual Comms Planning  Project not"
+  },
+  "Donation_Tube_Vinyl_Stickers.md": {
+    "hash": "e7dd8b930e79dd97f951508196d6fad25ff98a1f976a1735e197cedbcc0d630e",
+    "modified": "2025-09-24T09:37:26.613007",
+    "embedding_file": "e7dd8b930e79dd97f951508196d6fad25ff98a1f976a1735e197cedbcc0d630e.npy",
+    "preview": "--- project_id: 009 title: Donation Tube Vinyl Stickers start_date: TBD end_date: TBD status: not_started priority: low notes:  created_date: 2025-09-17 ---  # Donation Tube Vinyl Stickers  Project no"
+  },
+  "Brand_System_2026.md": {
+    "hash": "bde27ca7764121d4f8d330c73b2cf90e15ee9725aef747ddbf76efb555d3e36b",
+    "modified": "2025-09-24T09:37:27.899903",
+    "embedding_file": "bde27ca7764121d4f8d330c73b2cf90e15ee9725aef747ddbf76efb555d3e36b.npy",
+    "preview": "---\\nassigned_to: - Communications Team - External Brand Consultant budget_allocated: 75000 child_projects: - Creative Direction - Brand Audit Summary - Logo & Visual Identity Evaluation Roadmap - Foc"
+  },
+  "Website_Strategy_Hub/Storytelling_CRM_Overlay_System.md": {
+    "hash": "9e4c402c4dd8a8ee90e7c9c15d0cf91e3d74caf35a4596a2fa1d844ee6a4979e",
+    "modified": "2025-09-24T09:37:28.915185",
+    "embedding_file": "9e4c402c4dd8a8ee90e7c9c15d0cf91e3d74caf35a4596a2fa1d844ee6a4979e.npy",
+    "preview": "--- title: Storytelling CRM Overlay System project_status: in_progress priority: medium stakeholders: - Storytelling CRM - Overlay System - Storytelling CRM - Overlay System - Tooling and tags: - webs"
+  },
+  "Website_Strategy_Hub/DCLT_Internal_Resource_Hub_Intranet_Planning_.md": {
+    "hash": "3651067d11c836d9447b3c178bd2d9372cffeca44ff5ab0e2e90302db5bd5edf",
+    "modified": "2025-09-24T09:37:29.895199",
+    "embedding_file": "3651067d11c836d9447b3c178bd2d9372cffeca44ff5ab0e2e90302db5bd5edf.npy",
+    "preview": "--- title: DCLT Internal Resource Hub (Intranet Planning) project_status: planned priority: low stakeholders: - DCLT Internal - Resource Hub - Intranet Planning - shared space - for staff tags: - bran"
+  },
+  "Website_Strategy_Hub/-_Public-Facing_Land_Protection_Priorities_-_Comms.md": {
+    "hash": "2fd02dcdc675401b04c5f1714ae3b757db2718cca8b99ef3e5e5213b48c2a65e",
+    "modified": "2025-09-24T09:37:30.685680",
+    "embedding_file": "2fd02dcdc675401b04c5f1714ae3b757db2718cca8b99ef3e5e5213b48c2a65e.npy",
+    "preview": "--- title: \"\\u2014 Public-Facing Land Protection Priorities \\u2013 Comms Brief\" project_status: in_progress priority: medium stakeholders: - Facing Land - Protection Priorities - Comms Brief - Little "
+  },
+  "Website_Strategy_Hub/-_Technical_Implementation_2025-2026_Build_.md": {
+    "hash": "6e8bfb2b91cd0b2d700ee1e8e18e6ab2345f92d924a98a8eb0608387cc370c21",
+    "modified": "2025-09-24T09:37:31.011833",
+    "embedding_file": "6e8bfb2b91cd0b2d700ee1e8e18e6ab2345f92d924a98a8eb0608387cc370c21.npy",
+    "preview": "--- title: \"\\u2014 Technical Implementation ()\" project_status: planned priority: low stakeholders: - Technical Implementation - Last updated - This document - outlines the - technical approach tags: "
+  },
+  "Website_Strategy_Hub/UX_Interaction_Design_Decisions_Log.md": {
+    "hash": "88b2f8d5710cf390ad537bd93512806708f5eabe607e426fd20d3ec0071dc403",
+    "modified": "2025-09-24T09:37:31.448193",
+    "embedding_file": "88b2f8d5710cf390ad537bd93512806708f5eabe607e426fd20d3ec0071dc403.npy",
+    "preview": "--- title: \"\\U0001F9E0 UX + Interaction Design Decisions Log\" project_status: in_progress priority: medium stakeholders: - Interaction Design - Decisions Log - Click vs - Subnav Interaction - click to"
+  },
+  "Website_Strategy_Hub/Website_Strategy_Hub.md": {
+    "hash": "13355c38a40b0cc0544b55facdfac9646deae5df474c4b0b7a9ac7b364111842",
+    "modified": "2025-09-24T09:37:31.688449",
+    "embedding_file": "13355c38a40b0cc0544b55facdfac9646deae5df474c4b0b7a9ac7b364111842.npy",
+    "preview": "--- title: Website Strategy Hub project_status: in_progress priority: high stakeholders: - Website Strategy - This hub - is the - central planning - space for tags: - brand - website - communication -"
+  },
+  "Website_Strategy_Hub/-_Website_CTAs_Messaging_Updates.md": {
+    "hash": "2a27294711f7096896b31b0dcd57a11964479e15adac26f300f8a9f7c2a22ac1",
+    "modified": "2025-09-24T09:37:31.955321",
+    "embedding_file": "2a27294711f7096896b31b0dcd57a11964479e15adac26f300f8a9f7c2a22ac1.npy",
+    "preview": "--- title: \"\\u2014 Website CTAs & Messaging Updates\" project_status: planned priority: high stakeholders: - Website CTAs - Messaging Updates - Based on - Survey Findings - Homepage CTA tags: - brand -"
+  },
+  "Website_Strategy_Hub/-_Video_Strategy_Production_Hub.md": {
+    "hash": "88da3b0828ee8299a03aaa51baa50e7154a30b5826f0cc6780e6cf469dd48cac",
+    "modified": "2025-09-24T09:37:32.965396",
+    "embedding_file": "88da3b0828ee8299a03aaa51baa50e7154a30b5826f0cc6780e6cf469dd48cac.npy",
+    "preview": "--- title: \"\\u2014 Video Strategy & Production Hub\" project_status: in_progress priority: medium stakeholders: - Video Strategy - Production Hub - This hub - outlines the - Door County tags: - website"
+  },
+  "Website_Strategy_Hub/Website_Overhaul_Roadmap_2025-2026_.md": {
+    "hash": "5c486469c8d26b902f214649d87ce0e1603db069de303d48c1ba88be9acee654",
+    "modified": "2025-09-24T09:37:34.656039",
+    "embedding_file": "5c486469c8d26b902f214649d87ce0e1603db069de303d48c1ba88be9acee654.npy",
+    "preview": "--- title: \"Website Overhaul Roadmap (2025\\u20132026)\" project_status: planned priority: low stakeholders: - Website Overhaul - Website Overhaul - level summary - of the - and current tags: - brand - "
+  },
+  "Website_Strategy_Hub/Privacy-Friendly_Analytics_Setup.md": {
+    "hash": "2943cd31678b3ce6bd19403223af4d353e4b1b174fe91c51cfafaa662be16168",
+    "modified": "2025-09-24T09:37:35.885429",
+    "embedding_file": "2943cd31678b3ce6bd19403223af4d353e4b1b174fe91c51cfafaa662be16168.npy",
+    "preview": "--- title: \"\\U0001F4CA Privacy-Friendly Analytics Setup\" project_status: in_progress priority: medium stakeholders: - '@doorcountylandtrust' - Friendly Analytics - This page - documents the - tracking"
+  },
+  "Website_Strategy_Hub/-_Website_Evaluation.md": {
+    "hash": "a52735578ba39be3f352b2dc9205a2def2926750c83619589c27248b462bb9ed",
+    "modified": "2025-09-24T09:37:36.210272",
+    "embedding_file": "a52735578ba39be3f352b2dc9205a2def2926750c83619589c27248b462bb9ed.npy",
+    "preview": "--- title: \"\\u2014 Website Evaluation\" project_status: planned priority: high stakeholders: - Website Evaluation - About This - This evaluation - analyzes the - current DCLT tags: - brand - website - "
+  },
+  "Website_Strategy_Hub/-_Strategic_Initiatives_-_Web_Integration_Build_Sp.md": {
+    "hash": "c49c5b1782c8291bb9e47ba8ee0479753d248f200692beff20007078e1c5e416",
+    "modified": "2025-09-24T09:37:37.222324",
+    "embedding_file": "c49c5b1782c8291bb9e47ba8ee0479753d248f200692beff20007078e1c5e416.npy",
+    "preview": "--- title: \"\\u2014 Strategic Initiatives \\u2013 Web Integration Build Spec\" project_status: in_progress priority: medium stakeholders: - Strategic Initiatives - Web Integration - Build Spec - Public H"
+  },
+  "Pebble_Beach_Kiosk_Panels/Pebble_Beach_Kiosk_Panels 1.md": {
+    "hash": "3e3ca94d0c66792e58210c7e7ea340c1b6622af3e6e9702b19143c664f51e164",
+    "modified": "2025-09-24T09:37:37.624835",
+    "embedding_file": "3e3ca94d0c66792e58210c7e7ea340c1b6622af3e6e9702b19143c664f51e164.npy",
+    "preview": "--- project_id: 008 title: Pebble Beach Kiosk Panels start_date: TBD end_date: TBD status: planning priority: medium notes:  created_date: 2025-09-17 ---  # Pebble Beach Kiosk Panels  Project notes an"
+  },
+  "Pebble_Beach_Kiosk_Panels/Pebble_Beach_Kiosk_Panels.md": {
+    "hash": "422e73dda57a7173502fb7f355147e5577e5e0dd28bc03e9421657f5cd44e0bb",
+    "modified": "2025-09-24T09:37:39.937537",
+    "embedding_file": "422e73dda57a7173502fb7f355147e5577e5e0dd28bc03e9421657f5cd44e0bb.npy",
+    "preview": "--- project_id: 004 title: Pebble Beach Kiosk Panels start_date: TBD end_date: TBD status: planning priority: medium notes: Educational and interpretive panels for Pebble Beach kiosk. created_date: 20"
+  },
+  "Drip_Emails_for_New_Members/Drip_Emails_for_New_Members 1.md": {
+    "hash": "015638fd4874c3e98b44cbba69c2f132bd076ad31bde0d2023fefaa0b6aae645",
+    "modified": "2025-09-24T09:37:40.411913",
+    "embedding_file": "015638fd4874c3e98b44cbba69c2f132bd076ad31bde0d2023fefaa0b6aae645.npy",
+    "preview": "--- project_id: 006 title: Drip Emails for New Members start_date: TBD end_date: TBD status: planning priority: medium notes:  created_date: 2025-09-17 ---  # Drip Emails for New Members  Project note"
+  },
+  "Drip_Emails_for_New_Members/Drip_Emails_for_New_Members.md": {
+    "hash": "20c00cac09d8685de5becd5138be0c07eb1ca374d8e7f4afe693c98e2712d100",
+    "modified": "2025-09-24T09:37:40.734646",
+    "embedding_file": "20c00cac09d8685de5becd5138be0c07eb1ca374d8e7f4afe693c98e2712d100.npy",
+    "preview": "--- project_id: 005 title: Drip Emails for New Members start_date: TBD end_date: TBD status: planning priority: medium notes: Automated onboarding email sequence with Sara. created_date: 2025-09-17 --"
+  },
+  "2026_Nature_Notes_Calendar/2026_Nature_Notes_Calendar.md": {
+    "hash": "1d978311588adbc5ec51fd5e106f5b5ca7b1ec73eaa77a84e8c03cc56f312d30",
+    "modified": "2025-09-24T09:37:41.263450",
+    "embedding_file": "1d978311588adbc5ec51fd5e106f5b5ca7b1ec73eaa77a84e8c03cc56f312d30.npy",
+    "preview": "--- project_id: 3 title: 2026 Nature Notes Calendar start_date: TBD end_date: TBD status: planning priority: medium project_type: recurring_publication recurrence: yearly recurrence_anchor: 01-01 note"
+  },
+  "2026_Nature_Notes_Calendar/2026_Nature_Notes_Calendar_Overview.md": {
+    "hash": "3aee849e2caaf24ed636ec0c304719ea981296d1f21904214450a00dbffbd034",
+    "modified": "2025-09-24T09:37:41.597138",
+    "embedding_file": "3aee849e2caaf24ed636ec0c304719ea981296d1f21904214450a00dbffbd034.npy",
+    "preview": "--- project_id: 3 title: 2026 Nature Notes Calendar start_date: TBD end_date: TBD status: planning priority: medium notes: created_date: 2025-09-17 recurrence: yearly recurrence_anchor: 09-01 ---  # 2"
+  },
+  "Website_Overhaul_(2025-2026)/Website_Overhaul.md": {
+    "hash": "b4b939fc4cd40efc5632ac79b3b19120157de8002c16fca551b042148ef0074b",
+    "modified": "2025-09-24T09:37:41.961477",
+    "embedding_file": "b4b939fc4cd40efc5632ac79b3b19120157de8002c16fca551b042148ef0074b.npy",
+    "preview": "--- project_id: 002 title: Website Overhaul start_date: TBD end_date: TBD status: in_progress priority: high notes:  created_date: 2025-09-17 ---  # Website Overhaul  Project notes and details go here"
+  },
+  "Website_Overhaul_(2025-2026)/Website_Overhaul_(2025\u20132026).md": {
+    "hash": "a4722610a847813839e9667d7a065c221359846415d668d26da95bfccf8d872b",
+    "modified": "2025-09-24T09:37:42.346853",
+    "embedding_file": "a4722610a847813839e9667d7a065c221359846415d668d26da95bfccf8d872b.npy",
+    "preview": "--- project_id: 002 title: Website Overhaul (2025\u20132026) start_date: 2025-07-01 end_date: 2026-02-28 status: active priority: high notes: Full redesign including Preserve Explorer and content migration"
+  },
+  "Website_Overhaul_(2025-2026)/subtasks/Preserve_Explorer_Map_Build.md": {
+    "hash": "c87ca261fe8d72242af4e9f107c9dd2a651eea0fb4d1a8704182d6b4e4073736",
+    "modified": "2025-09-24T09:37:42.741372",
+    "embedding_file": "c87ca261fe8d72242af4e9f107c9dd2a651eea0fb4d1a8704182d6b4e4073736.npy",
+    "preview": "--- project_id: 002b title: Preserve Explorer Map Build start_date: TBD end_date: TBD status: in-progress priority: medium notes: Subtask of Website Overhaul (2025\u20132026) created_date: 2025-09-17 paren"
+  },
+  "Website_Overhaul_(2025-2026)/subtasks/Content_Migration_Plan.md": {
+    "hash": "e3fe9f785fa14fcea41306aed21f19359ea1575504ab3f7eb1ecf418364618a2",
+    "modified": "2025-09-24T09:37:43.756969",
+    "embedding_file": "e3fe9f785fa14fcea41306aed21f19359ea1575504ab3f7eb1ecf418364618a2.npy",
+    "preview": "--- project_id: 002c title: Content Migration Plan start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Website Overhaul (2025\u20132026) created_date: 2025-09-17 parent_projec"
+  },
+  "Website_Overhaul_(2025-2026)/subtasks/Wireframes_-_Homepage.md": {
+    "hash": "523f7e777c652e4b5e17c1085df658c52409ca85b52a72cf3263591f84ae036e",
+    "modified": "2025-09-24T09:37:44.072315",
+    "embedding_file": "523f7e777c652e4b5e17c1085df658c52409ca85b52a72cf3263591f84ae036e.npy",
+    "preview": "--- project_id: 002a title: Wireframes - Homepage start_date: TBD end_date: TBD status: completed priority: medium notes: Subtask of Website Overhaul (2025\u20132026) created_date: 2025-09-17 parent_projec"
+  },
+  "2026_Nature_Notes_Calendar/subtasks/Print_Vendor_Setup.md": {
+    "hash": "1d74c416227848e2731e5252a60b571527dda120213d81047bd2fc396a765dec",
+    "modified": "2025-09-24T09:37:44.392162",
+    "embedding_file": "1d74c416227848e2731e5252a60b571527dda120213d81047bd2fc396a765dec.npy",
+    "preview": "--- project_id: 003c title: Print Vendor Setup start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of 2026 Nature Notes Calendar created_date: 2025-09-17 parent_project_id: "
+  },
+  "2026_Nature_Notes_Calendar/subtasks/Photography_Selection.md": {
+    "hash": "1d332dfe531e651a8924458a78a08c2706c8ee9d18827883351bb1d6d29eac05",
+    "modified": "2025-09-24T09:37:45.375802",
+    "embedding_file": "1d332dfe531e651a8924458a78a08c2706c8ee9d18827883351bb1d6d29eac05.npy",
+    "preview": "--- project_id: 003a title: Photography Selection start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of 2026 Nature Notes Calendar created_date: 2025-09-17 parent_project_i"
+  },
+  "2026_Nature_Notes_Calendar/subtasks/Layout_Design.md": {
+    "hash": "47eb774618989a86b1e6c3bf5c79fcb9c3811e8b0e846ccda14d2e9c21ec6dd9",
+    "modified": "2025-09-24T09:37:45.646685",
+    "embedding_file": "47eb774618989a86b1e6c3bf5c79fcb9c3811e8b0e846ccda14d2e9c21ec6dd9.npy",
+    "preview": "--- project_id: 003b title: Layout Design start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of 2026 Nature Notes Calendar created_date: 2025-09-17 parent_project_id: 003 -"
+  },
+  "Drip_Emails_for_New_Members/subtasks/Draft_Email_Copy.md": {
+    "hash": "ffb1b90b44e9f8b655daf58fb5f3a9207e905d5a3a19eb04f9e4b6fb7a3cad7d",
+    "modified": "2025-09-24T09:37:46.048145",
+    "embedding_file": "ffb1b90b44e9f8b655daf58fb5f3a9207e905d5a3a19eb04f9e4b6fb7a3cad7d.npy",
+    "preview": "--- project_id: 005a title: Draft Email Copy start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Drip Emails for New Members created_date: 2025-09-17 parent_project_id: 0"
+  },
+  "Drip_Emails_for_New_Members/subtasks/Testing_&_QA.md": {
+    "hash": "da1d16a4e694ddc3882f2dff78bb4882184bdd9b7868eb0c38dafcafcea80879",
+    "modified": "2025-09-24T09:37:46.500604",
+    "embedding_file": "da1d16a4e694ddc3882f2dff78bb4882184bdd9b7868eb0c38dafcafcea80879.npy",
+    "preview": "--- project_id: 005c title: Testing & QA start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Drip Emails for New Members created_date: 2025-09-17 parent_project_id: 005 -"
+  },
+  "Drip_Emails_for_New_Members/subtasks/Set_Up_Automation.md": {
+    "hash": "a2f7a8fefa50ce37875a1676175c2fb2fd4462bbce9813eb38c5aafc4c688fa2",
+    "modified": "2025-09-24T09:37:46.839446",
+    "embedding_file": "a2f7a8fefa50ce37875a1676175c2fb2fd4462bbce9813eb38c5aafc4c688fa2.npy",
+    "preview": "--- project_id: 005b title: Set Up Automation start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Drip Emails for New Members created_date: 2025-09-17 parent_project_id: "
+  },
+  "Pebble_Beach_Kiosk_Panels/subtasks/Research_Content.md": {
+    "hash": "8533cb1b417c9617ef30c1ec9eb43eac83ea3685caf7bdf3bb5aafb47ff8b2ae",
+    "modified": "2025-09-24T09:37:48.192573",
+    "embedding_file": "8533cb1b417c9617ef30c1ec9eb43eac83ea3685caf7bdf3bb5aafb47ff8b2ae.npy",
+    "preview": "--- project_id: 004a title: Research Content start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Pebble Beach Kiosk Panels created_date: 2025-09-17 parent_project_id: 004"
+  },
+  "Pebble_Beach_Kiosk_Panels/subtasks/Design_Draft.md": {
+    "hash": "1c342b3e04a6b918310245aeed69f1c6fd499b43dd595c03ed10c9cf5a53f7b3",
+    "modified": "2025-09-24T09:37:48.575291",
+    "embedding_file": "1c342b3e04a6b918310245aeed69f1c6fd499b43dd595c03ed10c9cf5a53f7b3.npy",
+    "preview": "--- project_id: 004b title: Design Draft start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Pebble Beach Kiosk Panels created_date: 2025-09-17 parent_project_id: 004 ---"
+  },
+  "Pebble_Beach_Kiosk_Panels/subtasks/Print_&_Install.md": {
+    "hash": "fb7530f0981512db7022e9ec56dda185f0013c7f3124c60110d78cec5a98ba39",
+    "modified": "2025-09-24T09:37:49.554529",
+    "embedding_file": "fb7530f0981512db7022e9ec56dda185f0013c7f3124c60110d78cec5a98ba39.npy",
+    "preview": "--- project_id: 004c title: Print & Install start_date: TBD end_date: TBD status: planning priority: medium notes: Subtask of Pebble Beach Kiosk Panels created_date: 2025-09-17 parent_project_id: 004 "
+  },
+  "Website_Strategy_Hub/-_Public-Facing_Land_Protection_Priorities_-_Comms/--_2025_Little_Sturgeon_Land_Project_-_Comms_Fun.md": {
+    "hash": "5086d5a2b2be780011678ccecfdff57f679d93f58f478793c6b77758f3d42039",
+    "modified": "2025-09-24T09:37:49.992584",
+    "embedding_file": "5086d5a2b2be780011678ccecfdff57f679d93f58f478793c6b77758f3d42039.npy",
+    "preview": "--- title: \"\\u2014\\u2014 2025 Little Sturgeon Land Project \\u2013 Comms & Fundraising\" project_status: planned priority: low stakeholders: - Little Sturgeon - Land Project - Project Overview - Project"
+  },
+  "Website_Strategy_Hub/-_Website_Evaluation/--_Improved_Homepage_Mockup_Concept.md": {
+    "hash": "132de4cf3d396fbc31f92ada6d58acdb8f610344cb3d6ac193029ead0ac8b6c2",
+    "modified": "2025-09-24T09:37:50.294151",
+    "embedding_file": "132de4cf3d396fbc31f92ada6d58acdb8f610344cb3d6ac193029ead0ac8b6c2.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Improved Homepage Mockup Concept\" project_status: planned priority: low stakeholders: - Improved Homepage - Mockup Concept - Improved Homepage - Mockup Concept - Hero Section "
+  },
+  "Website_Strategy_Hub/-_Technical_Implementation_2025-2026_Build/-_Retired_Approach_-_Astro_Headless_WP_Technical.md": {
+    "hash": "6c142b5852a3f4ecc32c4091579759cbd3bd3b97af21bf82af275b22c4331213",
+    "modified": "2025-09-24T09:37:50.603249",
+    "embedding_file": "6c142b5852a3f4ecc32c4091579759cbd3bd3b97af21bf82af275b22c4331213.npy",
+    "preview": "--- title: \"\\u2014 Retired Approach - Astro + Headless WP Technical Implementation ()\" project_status: planned priority: low stakeholders: - Retired Approach - Headless WP - Technical Implementation -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Overview_-_Website_Strategy_2025_.md": {
+    "hash": "94703785463fe10561c2ed5e20159b845f248017a50dbaada5071b80ab954cc1",
+    "modified": "2025-09-24T09:37:51.342292",
+    "embedding_file": "94703785463fe10561c2ed5e20159b845f248017a50dbaada5071b80ab954cc1.npy",
+    "preview": "--- title: \"\\u2014\\u2014 \\U0001F52D Overview \\u2013 Website Strategy (2025)\" project_status: in_progress priority: high stakeholders: - Website Strategy - Primary Website - this site - achieve over - "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture.md": {
+    "hash": "b16e6be477d0a6ca20d678ef8712e67a216aef239dd9b7cd076f9a257274aebf",
+    "modified": "2025-09-24T09:37:53.347291",
+    "embedding_file": "b16e6be477d0a6ca20d678ef8712e67a216aef239dd9b7cd076f9a257274aebf.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Information Architecture\" project_status: in_progress priority: medium stakeholders: - Information Architecture - Content Types - Visitor Info - Modular Blocks - Preserve Card"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input.md": {
+    "hash": "0adb61fbeab0d3ac1e2a1fca7733b84f4ffa5ce811eea2af46e3bb321e4ecc71",
+    "modified": "2025-09-24T09:37:53.727374",
+    "embedding_file": "0adb61fbeab0d3ac1e2a1fca7733b84f4ffa5ce811eea2af46e3bb321e4ecc71.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Staff Interviews & Departmental Input\" project_status: in_progress priority: medium stakeholders: - Staff Interviews - Departmental Input - Interview Template - Department or "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Briefs.md": {
+    "hash": "a3580da1b0b8df7c0428540b8921d65abb8642d17a18a5f352b5b2ccc16c3db6",
+    "modified": "2025-09-24T09:37:55.613706",
+    "embedding_file": "a3580da1b0b8df7c0428540b8921d65abb8642d17a18a5f352b5b2ccc16c3db6.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Content Briefs\" project_status: in_progress priority: medium stakeholders: - Content Briefs - Content Briefs - Page Strategy - Use this - database to tags: - website - communi"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Types_Modeling.md": {
+    "hash": "91e66bc111978b62495a126e602e48c2b7e415319c65513d22cc8b97205e6025",
+    "modified": "2025-09-24T09:37:55.934797",
+    "embedding_file": "91e66bc111978b62495a126e602e48c2b7e415319c65513d22cc8b97205e6025.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Content Types & Modeling\" project_status: in_progress priority: high stakeholders: - Content Types - Define and - prioritize the - core content - types that tags: - website - "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Wireframes_-_DCLT_Website_Redesign.md": {
+    "hash": "f69dceb72018dfdcad030be8d6980bfab6157be977e90be68063da02b650bd04",
+    "modified": "2025-09-24T09:37:56.285636",
+    "embedding_file": "f69dceb72018dfdcad030be8d6980bfab6157be977e90be68063da02b650bd04.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Wireframes - DCLT Website Redesign\" project_status: in_progress priority: medium stakeholders: - DCLT Website - Homepage Wireframe - CE Info - Wireframe Outline tags: - websit"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_DCLT_Website_Communications_Alignment.md": {
+    "hash": "439a266eba794ba156278d193d18c3d48e5082af0df2da21fd51e48b6ddb0512",
+    "modified": "2025-09-24T09:37:56.602209",
+    "embedding_file": "439a266eba794ba156278d193d18c3d48e5082af0df2da21fd51e48b6ddb0512.npy",
+    "preview": "--- title: \"\\u2014\\u2014 DCLT Website & Communications Alignment\" project_status: in_progress priority: low stakeholders: - DCLT Website - Communications Alignment - Based on - Department Interviews -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Evergreen_Content_Series_Tracker.md": {
+    "hash": "1c1a173aef19c1e7088aaa37478cf5078ad378ed6bff760b287ed5c3a12e2ccb",
+    "modified": "2025-09-24T09:37:56.905026",
+    "embedding_file": "1c1a173aef19c1e7088aaa37478cf5078ad378ed6bff760b287ed5c3a12e2ccb.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Evergreen Content Series Tracker\" project_status: in_progress priority: medium stakeholders: - Evergreen Content - Series Tracker - Recurring formats - and series - to build t"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/-_Website_Content_Strategy_and_Migration_Plan.md": {
+    "hash": "a15c75ecf7da5363a70e91161d40b17dadb23e7cea179b67f1f7e8116242e7b1",
+    "modified": "2025-09-24T09:37:57.306291",
+    "embedding_file": "a15c75ecf7da5363a70e91161d40b17dadb23e7cea179b67f1f7e8116242e7b1.npy",
+    "preview": "--- title: \"\\u2014 Website Content Strategy and Migration Plan\" project_status: planned priority: low stakeholders: - Website Content - Strategy and - Migration Plan - Website Strategy - About This ta"
+  },
+  "Website_Strategy_Hub/Storytelling_CRM_Overlay_System/CRM_Reporting_Dashboards.md": {
+    "hash": "8beb123d89b6123bbca483266439f8718291464ab355105a930fdbb85496e726",
+    "modified": "2025-09-24T09:37:58.024884",
+    "embedding_file": "8beb123d89b6123bbca483266439f8718291464ab355105a930fdbb85496e726.npy",
+    "preview": "--- title: \"\\U0001F4CA CRM Reporting Dashboards\" project_status: planned priority: low stakeholders: - CRM Reporting - Centralized metrics - and insights - from Salesforce - to track tags: - website -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Wireframes_-_DCLT_Website_Redesign/--_CE_Info_Page_-_Wireframe_Outline.md": {
+    "hash": "c40f60d3370a6755ba0ab724e4b41228ec417262ef3cda82c6c52650cbaa748e",
+    "modified": "2025-09-24T09:37:58.880589",
+    "embedding_file": "c40f60d3370a6755ba0ab724e4b41228ec417262ef3cda82c6c52650cbaa748e.npy",
+    "preview": "--- title: \"\\u2014\\u2014 CE Info Page \\u2013 Wireframe Outline\" project_status: planned priority: low stakeholders: - CE Info - Wireframe Outline - Hero Section - Conservation Easement - Right for tag"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Wireframes_-_DCLT_Website_Redesign/--_Homepage_Wireframe.md": {
+    "hash": "0eda6f97db3736257758ace82150d1adad42747e33384109b00b39a4cb0664eb",
+    "modified": "2025-09-24T09:37:59.210215",
+    "embedding_file": "0eda6f97db3736257758ace82150d1adad42747e33384109b00b39a4cb0664eb.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Homepage Wireframe\" project_status: planned priority: medium stakeholders: - Homepage Wireframe - Hero Section - Primary CTA - Explore the - Join the tags: - fundraising - con"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Protect_Your_Land_Hub_for_Landowners_.md": {
+    "hash": "760945d422523d8c3ee486149d3fc8761f1e356f8ca06d73a2d91fb0b8683bbc",
+    "modified": "2025-09-24T09:37:59.493514",
+    "embedding_file": "760945d422523d8c3ee486149d3fc8761f1e356f8ca06d73a2d91fb0b8683bbc.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Protect Your Land Hub (for Landowners)\" project_status: planned priority: low stakeholders: - Protect Your - Land Hub - for Landowners - Hero Section - Thinking About ta"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Contact.md": {
+    "hash": "25ea58767eeb004e09ac355288adec3efd056c128dcc032b7ef38c0c871ecf80",
+    "modified": "2025-09-24T09:37:59.928318",
+    "embedding_file": "25ea58767eeb004e09ac355288adec3efd056c128dcc032b7ef38c0c871ecf80.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Contact\" project_status: in_progress priority: medium stakeholders: - Contact Section - Provide clear - and accessible - pathways for - users to tags: - fundraising - co"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Peer_Website_IA_Scan.md": {
+    "hash": "06faaa20190d1f5a767b14f6ab3b227b31e6508c5bc0dd74db4a7f1b583fe2f1",
+    "modified": "2025-09-24T09:38:00.266969",
+    "embedding_file": "06faaa20190d1f5a767b14f6ab3b227b31e6508c5bc0dd74db4a7f1b583fe2f1.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Peer Website IA Scan\" project_status: planned priority: high stakeholders: - Peer Website - IA Scan - The Nature - Top Nav - Where We tags: - brand - website - communica"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Get_Involved.md": {
+    "hash": "1613bf5ccbea249e12e5365e128de55e28473139f353a02bf6c380c4718743c0",
+    "modified": "2025-09-24T09:38:00.784615",
+    "embedding_file": "1613bf5ccbea249e12e5365e128de55e28473139f353a02bf6c380c4718743c0.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Get Involved\" project_status: planned priority: medium stakeholders: - Get Involved - Get Involved - Section IA - Convert interest - into meaningful tags: - conservation"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_About.md": {
+    "hash": "389198c56646411204ed83b306a9c6a8bb345cd1e8edd67c7c3e395d9684777c",
+    "modified": "2025-09-24T09:38:01.017797",
+    "embedding_file": "389198c56646411204ed83b306a9c6a8bb345cd1e8edd67c7c3e395d9684777c.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 About\" project_status: in_progress priority: medium stakeholders: - About Section - Share DCLT - and team - way that - builds trust tags: - strategy - fundraising - cons"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Website_Sitemap_-_Draft_V1.md": {
+    "hash": "6b868b90b4c01c26f8f5b5ff6b55ee021f5a4d4da866688d6b2a97924a5a57cd",
+    "modified": "2025-09-24T09:38:01.376021",
+    "embedding_file": "6b868b90b4c01c26f8f5b5ff6b55ee021f5a4d4da866688d6b2a97924a5a57cd.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Website Sitemap - Draft V1\" project_status: planned priority: medium stakeholders: - Website Sitemap - Level Navigation - Explore the - Protect Land - Get Involved tags:"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Stories.md": {
+    "hash": "35d0ecfb239c94522d1b8ef8aa176557f585cc3408b30cd254e80c3857bb2721",
+    "modified": "2025-09-24T09:38:01.731007",
+    "embedding_file": "35d0ecfb239c94522d1b8ef8aa176557f585cc3408b30cd254e80c3857bb2721.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Stories\" project_status: in_progress priority: medium stakeholders: - Stories Section - Use narrative - storytelling to - build emotional - demonstrate impact tags: - fu"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Donate.md": {
+    "hash": "9d6b4fbeb0053baa55b6d66b48f1cb16d71c34b41cd5842389bd029b73f968bd",
+    "modified": "2025-09-24T09:38:02.252796",
+    "embedding_file": "9d6b4fbeb0053baa55b6d66b48f1cb16d71c34b41cd5842389bd029b73f968bd.npy",
+    "preview": "--- title: \"\\u2014\\u2014\\u2014 Donate\" project_status: planned priority: high stakeholders: - Donate Section - Convert interest - into action - by presenting - compelling reasons tags: - website - str"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section_.md": {
+    "hash": "3dbb4c4657a35f8e23040a5acccc53293b6df486133c39e35d52784e8a646906",
+    "modified": "2025-09-24T09:38:02.884051",
+    "embedding_file": "3dbb4c4657a35f8e23040a5acccc53293b6df486133c39e35d52784e8a646906.npy",
+    "preview": "--- title: \"\\U0001F4CD Preserve Experience (Explore Section)\" project_status: in_progress priority: medium stakeholders: - Preserve Experience - Explore Section - This folder - collects all - and UI t"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Conservation_Easement_Program_Manager.md": {
+    "hash": "875ccf2c9e701c483f6e62fae2a7dc3b00a506e42376364b96a2a5904d919bb3",
+    "modified": "2025-09-24T09:38:03.943997",
+    "embedding_file": "875ccf2c9e701c483f6e62fae2a7dc3b00a506e42376364b96a2a5904d919bb3.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Conservation Easement Program Manager\" project_status: in_progress priority: medium stakeholders: - Conservation Easement - Program Manager - Interview Summary - Conservation "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Ecological_Restoration_Manager.md": {
+    "hash": "0e14a263b96d78286ca60e665f3ba8a3cbec5ee244e977b91eab8924f3116579",
+    "modified": "2025-09-24T09:38:04.456516",
+    "embedding_file": "0e14a263b96d78286ca60e665f3ba8a3cbec5ee244e977b91eab8924f3116579.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Ecological Restoration Manager\" project_status: in_progress priority: medium stakeholders: - Ecological Restoration - Interview Summary - Ecological Restoration - Website Feed"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Land_Protection_Manager.md": {
+    "hash": "a6e263071681cfea453042655e15d8f17b99b968ed90c9cee1ec00491fc0ccca",
+    "modified": "2025-09-24T09:38:04.734768",
+    "embedding_file": "a6e263071681cfea453042655e15d8f17b99b968ed90c9cee1ec00491fc0ccca.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Land Protection Manager\" project_status: planned priority: low stakeholders: - Land Protection - Interview Summary - Land Protection - Website Feedback - Use Cases tags: - web"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Stewardship_Field_Coordinator.md": {
+    "hash": "8926c98d8ea6415232024a66b2ddec8071f613959886ccf0813c513805fca6c9",
+    "modified": "2025-09-24T09:38:04.998231",
+    "embedding_file": "8926c98d8ea6415232024a66b2ddec8071f613959886ccf0813c513805fca6c9.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Stewardship Field Coordinator\" project_status: completed priority: medium stakeholders: - Stewardship Field - Communications Input - Preserve Explorer - Appreciates the - curr"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Conservation_Director.md": {
+    "hash": "f54b6e852510a0bb05a329d1e580866730086e3acc2753c05fd412409ec26acb",
+    "modified": "2025-09-24T09:38:05.504181",
+    "embedding_file": "f54b6e852510a0bb05a329d1e580866730086e3acc2753c05fd412409ec26acb.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Conservation Director\" project_status: in_progress priority: high stakeholders: - Conservation Director - Interview Summary - Conservation Director - Content Structure - Dedic"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Executive_Director.md": {
+    "hash": "61a17bde6c361237c8aca1fbda9d7866746ef6101e88c2c300f5f65e60cbe5a5",
+    "modified": "2025-09-24T09:38:05.767425",
+    "embedding_file": "61a17bde6c361237c8aca1fbda9d7866746ef6101e88c2c300f5f65e60cbe5a5.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Executive Director\" project_status: planned priority: high stakeholders: - Executive Director - Interview Summary - Executive Director - Website Feedback - Mission and tags: -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/CROSS-SYNTHESIS_OF_STAFF_INTERVIEWS.md": {
+    "hash": "f0abdd3d61f296ee503dfcd9b3e01f81600eebe440263377d5345c58958b8112",
+    "modified": "2025-09-24T09:38:06.574077",
+    "embedding_file": "f0abdd3d61f296ee503dfcd9b3e01f81600eebe440263377d5345c58958b8112.npy",
+    "preview": "--- title: CROSS-SYNTHESIS OF STAFF INTERVIEWS project_status: in_progress priority: medium stakeholders: - SYNTHESIS OF - STAFF INTERVIEWS - DCLT Website - Communications Stakeholder - Core Themes ta"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Administrative.md": {
+    "hash": "362ae3dd113d28b07bece7b67e2e4a071b63dbcdda6483125cfae741fb771a0a",
+    "modified": "2025-09-24T09:38:06.966114",
+    "embedding_file": "362ae3dd113d28b07bece7b67e2e4a071b63dbcdda6483125cfae741fb771a0a.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Administrative\" project_status: in_progress priority: medium stakeholders: - Interview Summary - Oriented Stakeholder - Website Strengths - Homepage updates - feel more tags: "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Staff_Interviews_Departmental_Input/--_Land_Project_Manager.md": {
+    "hash": "dbc4115f5d4522fe39c5228d79f340dcc541c6c70b9dc613a1cd957fc81c7b75",
+    "modified": "2025-09-24T09:38:07.291049",
+    "embedding_file": "dbc4115f5d4522fe39c5228d79f340dcc541c6c70b9dc613a1cd957fc81c7b75.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Land Project Manager\" project_status: in_progress priority: high stakeholders: - Land Project - Interview Summary - Land Project - Website Feedback - Structural Issues tags: -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Briefs/--_Public-Facing_Land_Protection_Priorities_-_Cont.md": {
+    "hash": "3986d2983280a020a33c68b917940f21300f7338ad0720be97a09ca5be1dc559",
+    "modified": "2025-09-24T09:38:07.619794",
+    "embedding_file": "3986d2983280a020a33c68b917940f21300f7338ad0720be97a09ca5be1dc559.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Public-Facing Land Protection Priorities \\u2013 Content Ideas\" project_status: completed priority: medium stakeholders: - Facing Land - Protection Priorities - Content Ideas -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Briefs/--_Strategic_Plan_-_Public_Content_Brief.md": {
+    "hash": "bbfdc602b82c09d3b4aaead115e60a8da7853771cf27911f8c1d1c1b44109676",
+    "modified": "2025-09-24T09:38:07.927508",
+    "embedding_file": "bbfdc602b82c09d3b4aaead115e60a8da7853771cf27911f8c1d1c1b44109676.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Strategic Plan () \\u2013 Public Content Brief\" project_status: completed priority: low stakeholders: - Strategic Plan - Public Content - As researched - in the - Strategic Ini"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Types_Modeling/Custom_Block_Development_Plan_-_Door_County_Land_T.md": {
+    "hash": "29069b77c456002580d667148689e52cae663a5585ebbab7e641f56c7306ce78",
+    "modified": "2025-09-24T09:38:08.382269",
+    "embedding_file": "29069b77c456002580d667148689e52cae663a5585ebbab7e641f56c7306ce78.npy",
+    "preview": "--- title: Custom Block Development Plan - Door County Land Trust project_status: in_progress priority: high stakeholders: - '@apply' - '@apply' - '@apply' - '@apply' - '@apply' tags: - brand - strate"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Content_Types_Modeling/ACF_Field_Definitions_-_DCLT_Custom_Theme.md": {
+    "hash": "893e78af81f710be058c946e2603bc7867be565243a8ba77f23b258425f47961",
+    "modified": "2025-09-24T09:38:08.734490",
+    "embedding_file": "893e78af81f710be058c946e2603bc7867be565243a8ba77f23b258425f47961.npy",
+    "preview": "--- title: \"\\U0001F9E9 ACF Field Definitions \\u2013 DCLT Custom Theme\" project_status: in_progress priority: high stakeholders: - ACF Field - DCLT Custom - ACF Field - Door County - Land Trust tags: -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Statistic_Panel.md": {
+    "hash": "0139623b4dfc71c53bc157ac503155fed5b9caafa9f9df81710e4aa48c5bdc1e",
+    "modified": "2025-09-24T09:38:09.007263",
+    "embedding_file": "0139623b4dfc71c53bc157ac503155fed5b9caafa9f9df81710e4aa48c5bdc1e.npy",
+    "preview": "--- title: Statistic Panel project_status: in_progress priority: medium stakeholders: - Statistic Panel - Field Name - Field Type - acres protected - Reusable Across created_date: '2025-09-11' last_up"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/CTA_Panel.md": {
+    "hash": "01a463e5883b3b83184f6522a9021d91595f66bade6440f7c545cd38488549d7",
+    "modified": "2025-09-24T09:38:09.599351",
+    "embedding_file": "01a463e5883b3b83184f6522a9021d91595f66bade6440f7c545cd38488549d7.npy",
+    "preview": "--- title: CTA Panel project_status: in_progress priority: medium stakeholders: - CTA Panel - Field Name - CTA Type - Field Type - Reusable Across created_date: '2025-09-11' last_updated: '2025-09-11'"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Hero.md": {
+    "hash": "fcf12568f7598f0dddf04d9dd26c4be1a4699469e75d96208ecb842576fd06c2",
+    "modified": "2025-09-24T09:38:10.082062",
+    "embedding_file": "fcf12568f7598f0dddf04d9dd26c4be1a4699469e75d96208ecb842576fd06c2.npy",
+    "preview": "--- title: Hero project_status: in_progress priority: medium stakeholders: - Field Name - Field Type - emotionally compelling - Reusable Across created_date: '2025-09-11' last_updated: '2025-09-11' --"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Footer_Signup.md": {
+    "hash": "04ca2c1da541adbb3d908411e3081072f514c4ca86135f201e68edfe28f2d76d",
+    "modified": "2025-09-24T09:38:10.493375",
+    "embedding_file": "04ca2c1da541adbb3d908411e3081072f514c4ca86135f201e68edfe28f2d76d.npy",
+    "preview": "--- title: Footer Signup project_status: in_progress priority: medium stakeholders: - Footer Signup - Field Name - CTA Label - Field Type - Sign Up created_date: '2025-09-11' last_updated: '2025-09-11"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Impact_Panel.md": {
+    "hash": "19b3379bfc6320355de3495438296e6e3f412750f3fadfcc38b98116405d4628",
+    "modified": "2025-09-24T09:38:10.744710",
+    "embedding_file": "19b3379bfc6320355de3495438296e6e3f412750f3fadfcc38b98116405d4628.npy",
+    "preview": "--- title: Impact Panel project_status: in_progress priority: medium stakeholders: - Impact Panel - Field Name - Field Type - Can be - number or created_date: '2025-09-11' last_updated: '2025-09-11' -"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/FAQ.md": {
+    "hash": "5c58472da82c967d792fa6a743fd5a210d890b1fdf928131875b2214e6abc14f",
+    "modified": "2025-09-24T09:38:10.999439",
+    "embedding_file": "5c58472da82c967d792fa6a743fd5a210d890b1fdf928131875b2214e6abc14f.npy",
+    "preview": "--- title: FAQ project_status: in_progress priority: medium stakeholders: - Field Name - Field Type - facing question - Reusable Across created_date: '2025-09-11' last_updated: '2025-09-11' --- # FAQ "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Page_Header.md": {
+    "hash": "7b1dfd93eb0f0b4a61c4d58660d950017c258beed54e23f94d2a4ba646405269",
+    "modified": "2025-09-24T09:38:11.268866",
+    "embedding_file": "7b1dfd93eb0f0b4a61c4d58660d950017c258beed54e23f94d2a4ba646405269.npy",
+    "preview": "--- title: Page Header project_status: in_progress priority: medium stakeholders: - Page Header - Field Name - Page Title - Field Type - specific title created_date: '2025-09-11' last_updated: '2025-0"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Related_Content.md": {
+    "hash": "5f3cd94f29a7664cc01aebbb5592c9ea1115c43b2f5f9487c9b6726a12e3e963",
+    "modified": "2025-09-24T09:38:11.596189",
+    "embedding_file": "5f3cd94f29a7664cc01aebbb5592c9ea1115c43b2f5f9487c9b6726a12e3e963.npy",
+    "preview": "--- title: Related Content project_status: in_progress priority: medium stakeholders: - Related Content - Field Name - Display Style - Field Type - Reusable Across created_date: '2025-09-11' last_upda"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Map_Embed.md": {
+    "hash": "c96a2c713311710a69ca546e1ca76aa3da0e1d30c0f2a60043e1f035f44122d4",
+    "modified": "2025-09-24T09:38:11.986663",
+    "embedding_file": "c96a2c713311710a69ca546e1ca76aa3da0e1d30c0f2a60043e1f035f44122d4.npy",
+    "preview": "--- title: Map Embed project_status: in_progress priority: medium stakeholders: - Map Embed - Field Name - Field Type - Reusable Across tags: - conservation created_date: '2025-09-11' last_updated: '2"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Featured_Story.md": {
+    "hash": "b744d91abd6cb549e37671664081ad66b4ef4a76e832dcd8e68c1acbd3ff108a",
+    "modified": "2025-09-24T09:38:13.598968",
+    "embedding_file": "b744d91abd6cb549e37671664081ad66b4ef4a76e832dcd8e68c1acbd3ff108a.npy",
+    "preview": "--- title: Featured Story project_status: in_progress priority: medium stakeholders: - Featured Story - Field Name - Story Reference - Field Type - Links to created_date: '2025-09-11' last_updated: '2"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Event_Block.md": {
+    "hash": "b304e2ba6e542b41e463445fb265679bdb32ace68faae6159cb661f5e8a69a67",
+    "modified": "2025-09-24T09:38:13.998365",
+    "embedding_file": "b304e2ba6e542b41e463445fb265679bdb32ace68faae6159cb661f5e8a69a67.npy",
+    "preview": "--- title: Event Block project_status: in_progress priority: medium stakeholders: - Event Block - Field Name - RSVP URL - Field Type - Optional link created_date: '2025-09-11' last_updated: '2025-09-1"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Modular_Content_Blocks/---_Master_Modular_Block_Field_Definitions/Preserve_Grid.md": {
+    "hash": "7fa16d55d69d14e97f819ab80aabc697070eee0c7d04307c7cad3b2ebeaedd8c",
+    "modified": "2025-09-24T09:38:14.414914",
+    "embedding_file": "7fa16d55d69d14e97f819ab80aabc697070eee0c7d04307c7cad3b2ebeaedd8c.npy",
+    "preview": "--- title: Preserve Grid project_status: in_progress priority: medium stakeholders: - Preserve Grid - Field Name - Accessibility Tags - Field Type - Pets OK tags: - conservation created_date: '2025-09"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/---_Get_Involved/--_Volunteer_Interest_Page_-_Find_Your_Role_in_Con.md": {
+    "hash": "804978ac17abb149c7bbdc8f8af3028545626b3aa077730c22f4782a6941a93d",
+    "modified": "2025-09-24T09:38:14.766088",
+    "embedding_file": "804978ac17abb149c7bbdc8f8af3028545626b3aa077730c22f4782a6941a93d.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Volunteer Interest Page \\u2014 Find Your Role in Conservation\" project_status: planned priority: low stakeholders: - Volunteer Interest - Find Your - Role in - Hero Section - "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_IA_Overview_Routing_.md": {
+    "hash": "b291eac351e3da13ad8a5471a4a8d6fed1752d5441060fcc2a130761bde6efb4",
+    "modified": "2025-09-24T09:38:15.361797",
+    "embedding_file": "b291eac351e3da13ad8a5471a4a8d6fed1752d5441060fcc2a130761bde6efb4.npy",
+    "preview": "--- title: \"\\u2014 Preserve IA (Overview & Routing)\" project_status: in_progress priority: medium stakeholders: - Preserve IA - Preserve Section - Landing page - that introduces - the section tags: - "
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_Detail_Updated_for_In-App_Panel_UX_.md": {
+    "hash": "cf51bb5301004e3444ba28ec11878abfab59c45ec05a3db2eacc88160ff508d2",
+    "modified": "2025-09-24T09:38:15.730532",
+    "embedding_file": "cf51bb5301004e3444ba28ec11878abfab59c45ec05a3db2eacc88160ff508d2.npy",
+    "preview": "--- title: \"\\u2014 \\U0001F332 Preserve Detail (Updated for In-App Panel UX)\" project_status: planned priority: low stakeholders: - Preserve Detail - Updated for - App Panel - Hero Section - Preserve n"
+  },
+  "Website_Strategy_Hub/-_Website_Content_Strategy_and_Migration_Plan/--_Information_Architecture/Preserve_Experience_Explore_Section/-_Preserve_Explorer_Project_Hub.md": {
+    "hash": "15074c2982e951c77204aff8beaf523b6f54bacbdd4005fb553fa94526382af1",
+    "modified": "2025-09-24T09:38:16.704056",
+    "embedding_file": "15074c2982e951c77204aff8beaf523b6f54bacbdd4005fb553fa94526382af1.npy",
+    "preview": "--- title: \"\\u2014 Preserve Explorer Project Hub\" project_status: planned priority: low stakeholders: - Preserve Explorer - Project Hub - Project Purpose - based preserve - discovery tool tags: - bran"
+  },
+  "Website_Strategy_Hub/-_Technical_Implementation_2025-2026_Build/-_Retired_Approach_-_Astro_Headless_WP_Technical/--_Tech_Stack_Architecture.md": {
+    "hash": "4d7b148bd362d1e62c4726bc55ca9d3d80b496e61b92e2bce8ea67532e351ec2",
+    "modified": "2025-09-24T09:38:17.061204",
+    "embedding_file": "4d7b148bd362d1e62c4726bc55ca9d3d80b496e61b92e2bce8ea67532e351ec2.npy",
+    "preview": "--- title: \"\\u2014\\u2014 Tech Stack & Architecture\" project_status: in_progress priority: medium stakeholders: - Tech Stack - Why This - Content editing - data source - flexible with tags: - website -"
+  },
+  "Website_Strategy_Hub/-_Website_Evaluation/--_Website_Evaluation_-_Legacy_Site_Pages/Home_Page_index_.md": {
+    "hash": "5d65982a32d54c96a40b2e32aaa14133064bacb45523fe596aabe0bcbc0fc27d",
+    "modified": "2025-09-24T09:38:17.441228",
+    "embedding_file": "5d65982a32d54c96a40b2e32aaa14133064bacb45523fe596aabe0bcbc0fc27d.npy",
+    "preview": "--- title: Home Page (index) project_status: in_progress priority: medium stakeholders: - Home Page - Figjam Link - Cluttered Design - The homepage - feels overcrowded tags: - brand - website - strate"
+  }
+}

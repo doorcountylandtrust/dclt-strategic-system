@@ -1,0 +1,79 @@
+---
+title: Wireframe – Preserve Experience (Explore Section)
+project_status: planning
+priority: high
+owner: Don
+stakeholders:
+  - Communications
+  - Conservation
+  - Web Development
+tags:
+  - wireframes
+  - website
+  - preserve_explorer
+created_date: 2025-09-25
+last_updated: 2025-09-25
+---
+
+# Wireframe – Preserve Experience (Explore Section)
+
+## Purpose
+Design wireframes for the `/explore` section of the DCLT site.  
+This includes the **Preserve Explorer map + list views**, detail page panels, filters, and supporting IA elements.  
+Goal: a unified system that blends spatial exploration with accessible content discovery.
+
+---
+
+## Layout Overview
+- **Explore Landing Page**
+  - Hero intro text & CTA (“Discover the Preserves”)
+  - Dual mode toggle: **Map View** vs **List View**
+  - Filter bar (activity, accessibility, location proximity, etc.)
+  - Quick stats (e.g., “10,000 acres protected” badge)
+
+- **Map View**
+  - Interactive map (Leaflet + OSM)
+  - Pins for preserves
+  - On-click: side panel overlay with preserve summary (photo, key tags, CTA to detail)
+
+- **List View**
+  - Grid or list of preserve cards
+  - Each card shows name, short description, key tags (activities, accessibility)
+  - “View on Map” link for each preserve
+
+- **Preserve Detail (Panel)**
+  - Photo gallery or hero image
+  - Description block
+  - CTA buttons: “Visit,” “Support,” “Learn More”
+  - Accessibility notes
+  - Related preserves or events
+
+---
+
+## Accessibility Notes
+- Filters keyboard-accessible and screen-reader friendly
+- Color contrast compliant
+- Alt text and audio description hooks for images
+- Panel overlays fully navigable without mouse
+
+---
+
+## Milestones
+- 2025-10-05 — Draft Map + List View wireframes
+- 2025-10-15 — Review with staff (Comms + Conservation)
+- 2025-10-25 — Finalize preserve detail panel layouts
+- 2025-11-01 — Align with Modular Content Blocks for consistency
+
+---
+
+## Dependencies
+- Preserve content model (fields, tags, icons)
+- UX decisions from [UX + Interaction Design Decisions Log]
+- Brand system visual direction
+
+---
+
+## Notes
+- Ensure tight integration with **Preserve Explorer Project Hub** and **Preserve IA (Overview & Routing)**.
+- Consider future scalability for events + stewardship overlays.
+- This wireframe phase is **strategy-first**; visual design comes later.

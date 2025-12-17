@@ -1,0 +1,29 @@
+﻿Block Name,Field Name,Field Type,Notes,Required?,Reusable Across Blocks?
+Hero,Background Image,Image,Full-width background image,Yes,No
+Hero,CTA Label,Text,Primary button text,Yes,Yes
+Hero,Headline,Text,"6–10 words, emotionally compelling",Yes,Yes
+Featured Story,Story Reference,Relation,Links to Story content type,Yes,No
+CTA Panel,CTA Type,Select,Join / Donate / Volunteer,Yes,No
+Event Block,RSVP URL,URL,Optional link to registration form,No,Yes
+Testimonial,Quote,Text,1–2 sentences,Yes,No
+Impact Panel,Number,Text,"Can be number or string (e.g., '10K+')",Yes,No
+FAQ,Question,Text,User-facing question,Yes,No
+FAQ,Grouping,Select,"Optional category (e.g., Visitor Info)",No,Yes
+FAQ,Answer,Rich Text,Expandable content block,Yes,No
+Map Embed,Embed Code,Text,iframe or shortcode,Yes,No
+Map Embed,Description,Text,Optional context or instructions,No,No
+Map Embed,Filters,Multi-select,"e.g., Hiking, Wetlands, Birding",No,Yes
+Related Content,Related Items,Relation,"Stories, Projects, Preserves",Yes,No
+Related Content,Display Style,Select,Grid / Carousel / List,Yes,Yes
+Related Content,Section Title,Text,Optional title override,No,Yes
+Statistic Panel,Description,Text,"Short summary, optional",No,No
+Statistic Panel,Metric,Text,"e.g., “10,000 acres protected”",Yes,No
+Preserve Grid,Accessibility Tags,Multi-select,"Kid-Friendly, Pets OK, Wheelchair",No,Yes
+Footer Signup,Heading,Text,Newsletter prompt,Yes,No
+Statistic Panel,Context Label,Text,“Since 1986” or “Annual Goal”,No,Yes
+Statistic Panel,Icon,Image,Optional visual accent,No,Yes
+Page Header,Page Title,Text,Page-specific title,Yes,No
+Footer Signup,Form Embed,Text,Mailchimp or other embed code,Yes,No
+Footer Signup,CTA Label,Text,“Sign Up” or “Stay Connected”,Yes,Yes
+Page Header,Subhead,Text,Optional short intro,No,No
+Page Header,Background Image,Image,Visual header,No,No
