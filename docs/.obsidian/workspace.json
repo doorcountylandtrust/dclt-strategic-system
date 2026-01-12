@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_DAILY_FOCUS/Volunteer & Programs Website Kickoff.md",
+                "file": "04_DAILY_FOCUS/20251215.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volunteer & Programs Website Kickoff"
+              "title": "20251215"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 456.5
   },
   "right": {
     "id": "7cf322ce73d48cb3",
@@ -185,41 +185,41 @@
   },
   "active": "6ea9ae599e6e1c94",
   "lastOpenFiles": [
-    "04_DAILY_FOCUS/20251204.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website Redesign: Release Plan.md",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/DCLT-Website-Release-Plan.docx",
+    "02_EXECUTION/10_Projects/DCLT-Website-Release-Plan.docx",
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/Website Redesign: Release Plan",
+    "02_EXECUTION/00_Annual_Planning/2026_Goals/SMART_Goals.md",
+    "02_EXECUTION/00_Annual_Planning/2026_Goals",
+    "02_EXECUTION/00_Annual_Planning",
+    "01_STRATEGY/CRM & Data Systems/Platform Evaluations/Pardot-HubSpot-Alternatives.md",
+    "01_STRATEGY/CRM & Data Systems/Platform Evaluations",
+    "01_STRATEGY/CRM & Data Systems",
+    "04_DAILY_FOCUS/20260105.md",
+    "02_EXECUTION/Advertising/2025/~$Print Advertising.xlsx",
+    "01_STRATEGY/Comms Strategy Master Hub/5-Year-Roadmap-&-Timeline.md",
+    "01_STRATEGY/Comms Strategy Master Hub/~$LT-Comms-Strategy-2025-2029.docx",
+    "01_STRATEGY/Comms Strategy Master Hub/DCLT-Comms-Strategy-2025-2029.docx",
+    "01_STRATEGY/Comms Strategy Master Hub/Communication-Cascade-Plan.md",
+    "01_STRATEGY/Comms Strategy Master Hub/Comms-Strategy-Master-Hub.md",
+    "01_STRATEGY/Comms Strategy Master Hub/2026 Strategic Marketing Insights & Implications.md",
+    "02_EXECUTION/Advertising/2026/ 2026_advertising_log.md",
     "04_DAILY_FOCUS/Volunteer & Programs Website Kickoff.md",
+    "04_DAILY_FOCUS/20251204.md",
     "03_REFERENCE_AND_TOOLS/Analytics and Lessons Learned/Analytics & Insights/2025-Member-Survey-Strategic-Insights.md",
     "03_REFERENCE_AND_TOOLS/Analytics and Lessons Learned/Analytics & Insights/2015-Member-Survey-Stakeholder-Insights.md",
-    "03_REFERENCE_AND_TOOLS/Analytics and Lessons Learned/Analytics & Insights",
     "03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Focus-Group-1-Notes-Eco-Lifestyle.md",
     "03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Focus-Group-2-Notes-Legacy-Conservationists.md",
     "03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Focus-Group-3-Notes-Legacy-Circle.md",
     "03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Focus-Group-4-Notes-–-Land-Team-Moodboard-Feedb.md",
     "03_REFERENCE_AND_TOOLS/Focus Group Data/Focus Group Participation & Feedback/Confirmation-Email-Details.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/legacy_content/give_generously/volunteer.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/legacy_content/give_generously",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/philanthropic-champions.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/donor-stories.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/legacy-giving.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/ways-to-give.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give/donate-now.md",
     "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/shop/overview.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/contact.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/careers.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/financials.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/staff-board.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/history.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/mission.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/blog-news.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/library.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources/maps-tools.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action/advocate-toolkit.md",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/visit/explore-preserves",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/give",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/shop",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/resources",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/take-action",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/what-we-do",
-    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/visit"
+    "02_EXECUTION/10_Projects/Website_Overhaul_(2025-2026)/subtasks/Content_Migration/rewrites/about/contact.md"
   ]
 }
