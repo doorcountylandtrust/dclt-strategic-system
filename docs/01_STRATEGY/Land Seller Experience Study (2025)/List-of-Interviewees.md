@@ -1,3 +1,11 @@
+---
+title: "List Of Interviewees"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 | Name(s)                       | Primary Contact | Year of Sale | Email                      | Seller Phone | Primary Contact Role   | Realtor Involved | Realtor Name & Contact                                       | Realtor Phone | Direct Mail Response | Open Market Listing | Southern Door | Notes                                                                                                                                                 | Priority Order | Status     |
 | ----------------------------- | --------------- | ------------ | -------------------------- | ------------ | ---------------------- | ---------------- | ------------------------------------------------------------ | ------------- | -------------------- | ------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------- |
 |                               |                 |              |                            |              |                        |                  |                                                              |               |                      |                     |               |                                                                                                                                                       |                |            |

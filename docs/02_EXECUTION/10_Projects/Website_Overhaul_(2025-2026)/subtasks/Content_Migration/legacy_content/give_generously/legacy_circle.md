@@ -1,3 +1,11 @@
+---
+title: "Legacy Circle"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 The Legacy Circle Challenge
 Legacy Circle members are those who have planned a gift to the Land Trust through their will, retirement account, or other provision. Door County Land Trust is proud to protect a legacy of land with these donors' legacy gifts. 
 

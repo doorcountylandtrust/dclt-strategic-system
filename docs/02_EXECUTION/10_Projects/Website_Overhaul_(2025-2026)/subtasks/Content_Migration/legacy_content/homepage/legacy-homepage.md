@@ -1,3 +1,11 @@
+---
+title: "Legacy Homepage Content (2025 Version)"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Legacy Homepage Content (2025 Version)
 
 _Last captured: 2025-10-03_

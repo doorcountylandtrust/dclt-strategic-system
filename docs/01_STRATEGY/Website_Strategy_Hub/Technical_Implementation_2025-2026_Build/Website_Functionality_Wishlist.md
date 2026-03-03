@@ -1,3 +1,11 @@
+---
+title: "Priority Tiers"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 A living document capturing ideas and potential enhancements for future DCLT site phases.
 
 ## Priority Tiers

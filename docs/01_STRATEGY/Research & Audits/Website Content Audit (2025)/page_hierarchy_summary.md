@@ -1,3 +1,11 @@
+---
+title: "Door County Land Trust - Page Hierarchy & Information Architecture"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Door County Land Trust - Page Hierarchy & Information Architecture
 
 ## Overview

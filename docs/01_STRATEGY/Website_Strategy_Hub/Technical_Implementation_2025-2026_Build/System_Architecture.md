@@ -1,3 +1,11 @@
+---
+title: "DCLT System Architecture"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # DCLT System Architecture
 
 **Last Updated:** December 2024  

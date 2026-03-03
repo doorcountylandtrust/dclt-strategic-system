@@ -1,3 +1,11 @@
+---
+title: "Hero Concepts and Strategic Exploration"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Hero Concepts and Strategic Exploration
 
 This document outlines creative concepts for the Door County Land Trust website hero section. Each concept is grounded in the organization's mission and values, with a focus on emotional resonance, engagement, and storytelling. The goal is to explore innovative formats that go beyond common trends while staying aligned with donor psychology, land protection goals, and DCLT's long-term brand system.

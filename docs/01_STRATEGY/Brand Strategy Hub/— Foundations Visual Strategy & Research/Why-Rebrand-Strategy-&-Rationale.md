@@ -1,3 +1,11 @@
+---
+title: "Goals of the Rebrand"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 ---\nassigned_to:
 - Communications Team
 created_date: '2025-09-11'

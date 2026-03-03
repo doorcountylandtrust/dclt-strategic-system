@@ -1,3 +1,11 @@
+---
+title: "Gift Of Stock"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 Transferring Stock Shares to Door County Land Trust
 
 It is very important to contact Door County Land Trust by phone at (920)746-1027, or by email at giving@doorcountylandtrust.org, to notify us of your gift after your transfer has been initiated. We will need to know the number of shares, the name of the stock, and the purpose of the gift. We need this information to properly acknowledge your gift as the electronic transfer system does not include a notification of who the transfer is from.

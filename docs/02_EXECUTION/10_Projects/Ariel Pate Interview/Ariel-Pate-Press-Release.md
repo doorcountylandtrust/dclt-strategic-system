@@ -1,3 +1,11 @@
+---
+title: "Ariel Pate Press Release"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 Preserving the Magic
 
 A daughter’s gift becomes a legacy of protection

@@ -1,0 +1,14 @@
+---
+title: "20260129  Logo Talk With Staff Copy 2"
+type: daily
+status: active
+updated: 2026-03-03
+tags: []
+---
+
+##Notes from Meeting with Programming Coordinator over new website implementation
+
+if promoted from waitlist, get an email that says you are now enrolled
+to first email confirmation add a link that will automatically cancel them
+
+if someone is cancelled, promote the next person in line to enrolled

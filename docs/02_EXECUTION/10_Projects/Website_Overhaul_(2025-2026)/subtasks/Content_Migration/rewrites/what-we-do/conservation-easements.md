@@ -1,3 +1,11 @@
+---
+title: "Conservation Easements"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Conservation Easements
 
 **Protect your land. Keep your land.**  

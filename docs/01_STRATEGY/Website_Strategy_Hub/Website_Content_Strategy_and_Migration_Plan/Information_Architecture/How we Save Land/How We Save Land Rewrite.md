@@ -1,3 +1,11 @@
+---
+title: "Rewritten Content System: How We Save Land Section"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Rewritten Content System: How We Save Land Section
 
 This document contains the full strategic rewrites for the "How We Save Land" section of the Door County Land Trust website. It includes a page-by-page restructuring using modular content blocks, refined calls-to-action, and updated voice and tone guidelines to align with the organizational mission. This version integrates insights from internal staff interviews.

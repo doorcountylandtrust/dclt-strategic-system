@@ -1,3 +1,11 @@
+---
+title: "Become A Member"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 Join the Door County Land Trust today!
 
 As a member of the Door County Land Trust, you receive the following benefits:

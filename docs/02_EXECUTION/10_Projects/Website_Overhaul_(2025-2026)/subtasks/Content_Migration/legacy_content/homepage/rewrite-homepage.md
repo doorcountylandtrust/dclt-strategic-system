@@ -1,3 +1,11 @@
+---
+title: "✍️ Homepage Rewrite (Draft)"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # ✍️ Homepage Rewrite (Draft)
 
 This document captures the rewritten content for the DCLT homepage, informed by legacy analysis and updated strategic priorities. Each section includes draft copy, tone/style guidance, and potential block layout notes.

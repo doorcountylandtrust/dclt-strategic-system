@@ -1,3 +1,11 @@
+---
+title: "🧭 Footer Structure (Legacy Site)"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 ## 🧭 Footer Structure (Legacy Site)
 
 ### 📍 Contact & Organization Info

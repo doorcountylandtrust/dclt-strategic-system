@@ -1,3 +1,11 @@
+---
+title: "Donate Now"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 The Door County Land Trust now protects over 10,000 acres of the best wildlife habitat and natural scenery Door County has to offer. Protecting and caring for Door County’s exceptional lands and waters is an effort sustained by broad support from members, local businesses, charitable foundations, and the community.
 
 Thank you for choosing to protect Door County!

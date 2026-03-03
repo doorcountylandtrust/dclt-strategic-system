@@ -12,7 +12,6 @@ Thumbs.db
 *.tmp
 *.log
 
-
 # Images
 *.png
 *.jpg
@@ -37,3 +36,8 @@ output/gantt_charts/*.html
 
 # Sensitive files (if any)
 config/secrets.yaml
+
+# Trailhead (Astro dashboard)
+trailhead/node_modules/
+trailhead/dist/
+trailhead/.astro/

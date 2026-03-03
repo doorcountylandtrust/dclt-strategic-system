@@ -1,3 +1,11 @@
+---
+title: "1. Strategy First. Always."
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 #Translating 2026 Marketing Insights into DCLT Action
 
 ---

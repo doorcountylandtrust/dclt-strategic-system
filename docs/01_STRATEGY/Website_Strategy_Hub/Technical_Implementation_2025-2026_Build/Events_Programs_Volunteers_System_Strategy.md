@@ -1,3 +1,11 @@
+---
+title: "Events, Programs & Volunteers System Strategy"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Events, Programs & Volunteers System Strategy
 
 **Last Updated:** December 2024  

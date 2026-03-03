@@ -1,3 +1,11 @@
+---
+title: "AI Visibility & Semantic Authority Strategy"
+type: strategy
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # AI Visibility & Semantic Authority Strategy  
 ## Door County Land Trust — Communications Strategy Master Hub  
 _Last updated: December 2025_

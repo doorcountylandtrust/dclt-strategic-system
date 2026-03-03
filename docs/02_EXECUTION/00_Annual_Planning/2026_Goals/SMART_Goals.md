@@ -1,3 +1,11 @@
+---
+title: "Smart Goals"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 SMART Goal 1 — Launch the New DCLT Website as a Strategic Engagement Platform
 
 Goal:

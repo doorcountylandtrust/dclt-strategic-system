@@ -1,3 +1,11 @@
+---
+title: "Volunteer"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 “We retired to Door County because we’d had enough ‘pavement pounding’ and loss of nature in our earlier lives. So when the chance to preserve the canal property occurred, it was a no-brainer - do whatever possible to save this splendid place. Thanks to the Land Trust and many, many dedicated folks, the Ship Canal Nature Preserve has become and will remain a public treasure.”
 
 - Bill Utley, Preserve Steward and avid hiker

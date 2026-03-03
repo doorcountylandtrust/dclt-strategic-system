@@ -1,3 +1,11 @@
+---
+title: "Research & Partnerships"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Research & Partnerships
 
 Scientific research strengthens our ability to care for the land—and collaboration helps us go further, faster.

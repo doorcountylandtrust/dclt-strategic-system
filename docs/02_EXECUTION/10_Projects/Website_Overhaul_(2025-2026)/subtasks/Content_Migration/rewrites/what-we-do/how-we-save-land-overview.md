@@ -1,3 +1,11 @@
+---
+title: "How We Save Land"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # How We Save Land
 
 _Door County is a rare and remarkable place. Protecting it takes long-term vision, diverse tools, and local care._

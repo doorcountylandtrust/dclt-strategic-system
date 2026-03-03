@@ -1,0 +1,174 @@
+---
+import Base from '../../layouts/Base.astro';
+import { loadAllDocs } from '../../lib/frontmatter';
+
+export function getStaticPaths() {
+  const docs = loadAllDocs();
+  return docs.map((doc) => ({
+    params: { slug: doc.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const docs = loadAllDocs();
+const doc = docs.find((d) => d.slug === slug);
+
+if (!doc) {
+  return Astro.redirect('/');
+}
+
+// Simple markdown-to-HTML: handle headings, bold, italic, links, lists, code blocks, paragraphs
+function renderMarkdown(md: string): string {
+  let html = md
+    // Code blocks (fenced)
+    .replace(/```(\w*)\n([\s\S]*?)```/g, '<pre class="bg-gray-100 rounded p-3 text-sm overflow-x-auto mb-4"><code>$2</code></pre>')
+    // Headings
+    .replace(/^#### (.+)$/gm, '<h4 class="text-base font-semibold mt-4 mb-2">$1</h4>')
+    .replace(/^### (.+)$/gm, '<h3 class="text-lg font-semibold mt-5 mb-2">$1</h3>')
+    .replace(/^## (.+)$/gm, '<h2 class="text-xl font-semibold mt-6 mb-2">$1</h2>')
+    .replace(/^# (.+)$/gm, '<h1 class="text-2xl font-bold mt-6 mb-3">$1</h1>')
+    // Bold and italic
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Links
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-blue-600 underline">$1</a>')
+    // Inline code
+    .replace(/`([^`]+)`/g, '<code class="bg-gray-100 px-1 rounded text-sm">$1</code>')
+    // Unordered list items
+    .replace(/^[-*] (.+)$/gm, '<li class="ml-4">$1</li>')
+    // Horizontal rules
+    .replace(/^---$/gm, '<hr class="my-4 border-gray-300" />')
+    // Paragraphs: wrap remaining lines that aren't already HTML
+    .split('\n\n')
+    .map((block) => {
+      const trimmed = block.trim();
+      if (!trimmed) return '';
+      if (trimmed.startsWith('<')) return trimmed;
+      // Wrap consecutive <li> in <ul>
+      if (trimmed.includes('<li')) return `<ul class="list-disc mb-4">${trimmed}</ul>`;
+      return `<p class="mb-3">${trimmed.replace(/\n/g, '<br />')}</p>`;
+    })
+    .join('\n');
+
+  return html;
+}
+
+const statusColors: Record<string, string> = {
+  active: 'bg-blue-100 text-blue-800',
+  completed: 'bg-green-100 text-green-800',
+  'on-hold': 'bg-gray-100 text-gray-800',
+  planning: 'bg-yellow-100 text-yellow-800',
+  archived: 'bg-gray-100 text-gray-500',
+};
+
+const priorityColors: Record<string, string> = {
+  high: 'bg-red-100 text-red-800',
+  medium: 'bg-yellow-100 text-yellow-800',
+  low: 'bg-gray-100 text-gray-600',
+};
+---
+<Base title={`${doc.title} — Trailhead`}>
+  <a href="/" class="text-sm text-blue-600 hover:underline mb-4 inline-block">← Back to dashboard</a>
+
+  <div style="display: grid; grid-template-columns: 1fr 260px; gap: 2rem;">
+    <!-- Main content -->
+    <div>
+      <h1 class="text-2xl font-bold mb-4">{doc.title}</h1>
+      <div class="prose max-w-none" set:html={renderMarkdown(doc.body)} />
+    </div>
+
+    <!-- Metadata sidebar -->
+    <aside class="text-sm space-y-3 border-l pl-4">
+      <h3 class="font-semibold text-gray-500 uppercase text-xs tracking-wide">Metadata</h3>
+
+      {doc.status && (
+        <div>
+          <div class="text-gray-500 text-xs">Status</div>
+          <span class={`inline-block px-2 py-0.5 rounded text-xs font-medium ${statusColors[doc.status] ?? ''}`}>
+            {doc.status}
+          </span>
+        </div>
+      )}
+
+      {doc.priority && (
+        <div>
+          <div class="text-gray-500 text-xs">Priority</div>
+          <span class={`inline-block px-2 py-0.5 rounded text-xs font-medium ${priorityColors[doc.priority] ?? ''}`}>
+            {doc.priority}
+          </span>
+        </div>
+      )}
+
+      {doc.type && (
+        <div>
+          <div class="text-gray-500 text-xs">Type</div>
+          <div>{doc.type}</div>
+        </div>
+      )}
+
+      {doc.owner && (
+        <div>
+          <div class="text-gray-500 text-xs">Owner</div>
+          <div>{doc.owner}</div>
+        </div>
+      )}
+
+      {doc.created && (
+        <div>
+          <div class="text-gray-500 text-xs">Created</div>
+          <div>{doc.created}</div>
+        </div>
+      )}
+
+      {doc.updated && (
+        <div>
+          <div class="text-gray-500 text-xs">Updated</div>
+          <div>{doc.updated}</div>
+        </div>
+      )}
+
+      {doc.due && (
+        <div>
+          <div class="text-gray-500 text-xs">Due</div>
+          <div class={doc.due < new Date().toISOString().slice(0, 10) && doc.status !== 'completed' ? 'text-red-600 font-medium' : ''}>
+            {doc.due}
+          </div>
+        </div>
+      )}
+
+      {doc.project && (
+        <div>
+          <div class="text-gray-500 text-xs">Project</div>
+          <div>{doc.project}</div>
+        </div>
+      )}
+
+      {doc.tags.length > 0 && (
+        <div>
+          <div class="text-gray-500 text-xs">Tags</div>
+          <div class="flex flex-wrap gap-1 mt-1">
+            {doc.tags.map((tag) => (
+              <span class="bg-gray-100 px-2 py-0.5 rounded text-xs">{tag}</span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {doc.related.length > 0 && (
+        <div>
+          <div class="text-gray-500 text-xs">Related</div>
+          <ul class="mt-1 space-y-0.5">
+            {doc.related.map((rel) => (
+              <li class="text-xs text-gray-600">{rel}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <div class="pt-2 border-t">
+        <div class="text-gray-500 text-xs">File</div>
+        <div class="text-xs text-gray-400 break-all">{doc.slug}.md</div>
+      </div>
+    </aside>
+  </div>
+</Base>

@@ -1,3 +1,11 @@
+---
+title: "Final Website Information Architecture & Navigation Hierarchy"
+type: execution
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 # Final Website Information Architecture & Navigation Hierarchy
 
 ## 1. Visit

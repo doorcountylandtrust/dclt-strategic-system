@@ -1,3 +1,11 @@
+---
+title: "Volunteer Photographers List"
+type: reference
+status: active
+updated: 2026-03-03
+tags: []
+---
+
 Melody Walsh <island.melody@gmail.com>
 John VDB <john@wildwindimages.com>
 nreza@comcast.net <nreza@comcast.net>
