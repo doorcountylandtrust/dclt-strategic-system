@@ -12,8 +12,12 @@ const { title = 'Trailhead' } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="bg-white text-gray-900 min-h-screen">
-    <header class="border-b px-6 py-4">
+    <header class="border-b px-6 py-4 flex items-center justify-between">
       <h1 class="text-xl font-semibold">🌲 Trailhead</h1>
+      <nav class="flex gap-4 text-sm">
+        <a href="/" class="text-gray-600 hover:text-gray-900">Dashboard</a>
+        <a href="/gantt" class="text-gray-600 hover:text-gray-900">Gantt</a>
+      </nav>
     </header>
     <main class="px-6 py-6">
       <slot />

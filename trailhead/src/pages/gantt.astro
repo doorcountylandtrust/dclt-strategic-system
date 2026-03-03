@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+import { loadAllDocs } from '../lib/frontmatter';
+import GanttChart from '../components/GanttChart.tsx';
+
+const docs = loadAllDocs();
+
+const ganttItems = docs.map((d) => ({
+  slug: d.slug,
+  title: d.title,
+  status: d.status,
+  priority: d.priority,
+  type: d.type,
+  owner: d.owner,
+  created: d.created,
+  due: d.due,
+  updated: d.updated,
+  depth: d.depth,
+}));
+---
+<Base title="Trailhead — Gantt">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+    <h2 class="text-lg font-semibold">Gantt Chart</h2>
+    <a href="/" class="text-sm text-blue-600 hover:underline">← Dashboard</a>
+  </div>
+  <GanttChart items={ganttItems} client:load />
+</Base>

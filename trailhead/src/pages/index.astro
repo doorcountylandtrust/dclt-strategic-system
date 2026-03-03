@@ -1,7 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import { loadAllDocs, getByStatus, getOverdue, getStale } from '../lib/frontmatter';
-import { buildHierarchy, groupByTopDir, countDescendants } from '../lib/hierarchy';
+import { buildHierarchy, countDescendants } from '../lib/hierarchy';
+import FilterableProjectList from '../components/FilterableProjectList.tsx';
+import ProjectTree from '../components/ProjectTree.tsx';
 
 const docs = loadAllDocs();
 const active = getByStatus(docs, 'active');
@@ -9,8 +11,43 @@ const overdue = getOverdue(docs);
 const stale = getStale(docs);
 const withFrontmatter = docs.filter((d) => d.hasFrontmatter);
 
+// Build hierarchy to get child counts
 const trees = buildHierarchy(docs);
-const groups = groupByTopDir(trees);
+const childCounts = new Map<string, number>();
+for (const tree of trees) {
+  childCounts.set(tree.doc.slug, countDescendants(tree));
+}
+
+// Serialize for the React island (no functions, no circular refs)
+const docSummaries = docs.map((d) => ({
+  slug: d.slug,
+  title: d.title,
+  status: d.status,
+  priority: d.priority,
+  type: d.type,
+  owner: d.owner,
+  created: d.created,
+  due: d.due,
+  updated: d.updated,
+  hasFrontmatter: d.hasFrontmatter,
+  childCount: childCounts.get(d.slug) ?? 0,
+}));
+
+// Serialize tree for ProjectTree React island
+function serializeTree(node: any): any {
+  return {
+    slug: node.doc.slug,
+    title: node.doc.title,
+    status: node.doc.status,
+    priority: node.doc.priority,
+    type: node.doc.type,
+    owner: node.doc.owner,
+    due: node.doc.due,
+    updated: node.doc.updated,
+    children: node.children.map(serializeTree),
+  };
+}
+const serializedTrees = trees.map(serializeTree);
 ---
 <Base title="Trailhead — Dashboard">
   <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem; margin-bottom: 2rem;">
@@ -36,71 +73,9 @@ const groups = groupByTopDir(trees);
     </div>
   </div>
 
-  <h2 class="text-lg font-semibold mb-3">Active Projects</h2>
-  <table class="w-full text-sm border-collapse">
-    <thead>
-      <tr class="border-b text-left">
-        <th class="py-2 pr-4">Title</th>
-        <th class="py-2 pr-4">Priority</th>
-        <th class="py-2 pr-4">Owner</th>
-        <th class="py-2 pr-4">Due</th>
-        <th class="py-2 pr-4">Updated</th>
-      </tr>
-    </thead>
-    <tbody>
-      {active.map((doc) => (
-        <tr class="border-b">
-          <td class="py-2 pr-4"><a href={`/project/${doc.slug}`} class="text-blue-600 hover:underline">{doc.title}</a></td>
-          <td class="py-2 pr-4">{doc.priority ?? '—'}</td>
-          <td class="py-2 pr-4">{doc.owner ?? '—'}</td>
-          <td class="py-2 pr-4">{doc.due ?? '—'}</td>
-          <td class="py-2 pr-4">{doc.updated ?? '—'}</td>
-        </tr>
-      ))}
-    </tbody>
-  </table>
+  <h2 class="text-lg font-semibold mb-3">All Projects</h2>
+  <FilterableProjectList docs={docSummaries} client:load />
 
-  <h2 class="text-lg font-semibold mb-3 mt-8">Project Tree</h2>
-  {groups.map((group) => (
-    <div class="mb-6">
-      <h3 class="text-md font-semibold text-gray-600 mb-2">
-        {group.groupName.replace(/^\d+_/, '').replace(/_/g, ' ')}
-      </h3>
-      <ul class="ml-4 space-y-1 text-sm">
-        {group.trees.map((node) => (
-          <li>
-            <div class="flex items-center gap-2">
-              <span class={`inline-block w-2 h-2 rounded-full ${
-                node.doc.status === 'active' ? 'bg-blue-500' :
-                node.doc.status === 'completed' ? 'bg-green-500' :
-                node.doc.status === 'on-hold' ? 'bg-gray-400' :
-                node.doc.status === 'planning' ? 'bg-yellow-400' :
-                'bg-gray-200'
-              }`} />
-              <span><a href={`/project/${node.doc.slug}`} class="hover:underline">{node.doc.title}</a></span>
-              {node.children.length > 0 && (
-                <span class="text-gray-400 text-xs">({countDescendants(node)} items)</span>
-              )}
-            </div>
-            {node.children.length > 0 && (
-              <ul class="ml-6 mt-1 space-y-1">
-                {node.children.map((child) => (
-                  <li class="flex items-center gap-2">
-                    <span class={`inline-block w-1.5 h-1.5 rounded-full ${
-                      child.doc.status === 'active' ? 'bg-blue-500' :
-                      child.doc.status === 'completed' ? 'bg-green-500' :
-                      child.doc.status === 'on-hold' ? 'bg-gray-400' :
-                      child.doc.status === 'planning' ? 'bg-yellow-400' :
-                      'bg-gray-200'
-                    }`} />
-                    <span class="text-gray-700"><a href={`/project/${child.doc.slug}`} class="hover:underline">{child.doc.title}</a></span>
-                  </li>
-                ))}
-              </ul>
-            )}
-          </li>
-        ))}
-      </ul>
-    </div>
-  ))}
+  <h2 class="text-lg font-semibold mb-3 mt-10">Project Tree</h2>
+  <ProjectTree trees={serializedTrees} client:load />
 </Base>
