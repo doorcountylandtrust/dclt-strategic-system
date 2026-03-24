@@ -84,17 +84,24 @@ Kristi wants to keep GiveLively (portal, tax receipts, SF pledge scaffolding wor
 
 **Stripe configuration:**
 - Payment methods: **Card + ACH Direct Debit** (`us_bank_account`) *(ACH enabled 2026-03-23)*
+- Webhook events: `checkout.session.completed`, `invoice.paid`, `customer.subscription.deleted`
 - Billing address: required
 - Phone: collected
 - Currency: USD
 - Membership minimum: $50
 
+**Recurring gift lifecycle** *(built 2026-03-24)*:
+- `checkout.session.completed` (monthly) → creates `npe03__Recurring_Donation__c` in SF + `recurring_donations` row in Supabase
+- `invoice.paid` (renewal) → creates new Opportunity linked to existing Recurring Donation
+- `customer.subscription.deleted` → closes RD in both SF and Supabase
+- Full field mapping: `Salesforce_Field_Mapping.md` (same directory)
+
 ### What GiveLively still provides (not yet replaced)
 - Donor portal — login, giving history, year-end tax receipts
 - GiveLively NPSP package manages:
-  - Recurring Donation records in SF
   - GAU Allocations (e.g., "renewing member dues")
   - Future pledges for recurring gifts
+- ~~Recurring Donation records in SF~~ *(now handled by custom system, 2026-03-24)*
 
 ### Pain points with GiveLively
 - **Cancellation sync is broken**: If a donor cancels in GiveLively, it does NOT remove pledges in Salesforce or update their member status (e.g., from "renewer")
@@ -328,9 +335,15 @@ GiveLively stays running. All new website donations route through the custom for
 - [ ] Enable Stripe receipt emails (Dashboard toggle) for monthly renewal receipts
 - [ ] Confirm business membership preset amounts with Kristi
 
-### Phase 2: Salesforce Sync Depth — Match what GiveLively does in SF
-This is what earns Kristi's trust in the new system. Until these are built, GiveLively's SF integration is still doing things the custom system can't.
-- [ ] Create Recurring Donation records in SF on Stripe subscription creation
+### Phase 2: Salesforce Sync Depth — Match what GiveLively does in SF (2026-03-24)
+This is what earns Kristi's trust in the new system.
+- [x] Create Recurring Donation records in SF on Stripe subscription creation
+- [x] Link initial + renewal Opportunities to Recurring Donation
+- [x] Handle `customer.subscription.deleted` (close RD in SF + Supabase)
+- [x] `recurring_donations` table in Supabase (bridges Stripe sub IDs → SF RD IDs)
+- [x] Store `stripe_subscription_id` + `stripe_payment_intent_id` on donations
+- [x] Fix donation confirmation email from address
+- [x] Salesforce Field Mapping doc created (`Salesforce_Field_Mapping.md`)
 - [ ] Create forward-pledged Opportunities for recurring gifts
 - [ ] Add GAU Allocation logic by gift type
 - [ ] Add GL identifier to Opportunity sync
@@ -344,7 +357,7 @@ This is what earns Kristi's trust in the new system. Until these are built, Give
 
 ### Phase 3: GiveLively Sunset Prep
 Only needed once the custom system has full SF parity and existing GiveLively recurring donors have largely lapsed.
-- [ ] Stripe `customer.subscription.deleted` webhook → SF Recurring Donation cancel + pledge cleanup + member status update
+- [x] Stripe `customer.subscription.deleted` webhook → SF Recurring Donation cancel + pledge cleanup *(built in Phase 2)*
 - [ ] Two-way cancellation sync: SF cancel → Stripe cancel (deferred — only needed once GiveLively is gone and all recurring is on Stripe)
 - [ ] Year-end tax receipt automation via Supabase/Resend (replaces GiveLively portal's tax receipt feature)
 - [ ] DAF intake form (optional — capture donor intent for tracking)
